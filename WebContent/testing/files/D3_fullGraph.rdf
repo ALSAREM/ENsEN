@@ -1,0 +1,974 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/property/"
+    xmlns:j.1="http://dbpedia.org/ontology/PopulatedPlace/"
+    xmlns:j.2="http://xmlns.com/foaf/0.1/"
+    xmlns:j.3="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.4="http://www.opengis.net/gml/"
+    xmlns:j.5="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.7="http://www.georss.org/georss/"
+    xmlns:j.6="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Record_producer">
+    <j.0:relatedOccupation rdf:resource="http://dbpedia.org/resource/Executive_producer"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_occupation"/>
+    <j.0:averageSalary xml:lang="en">$67'330</j.0:averageSalary>
+    <j.0:officialNames xml:lang="en">Record Producer</j.0:officialNames>
+    <j.0:type rdf:resource="http://dbpedia.org/resource/Profession"/>
+    <j.0:name xml:lang="en">Record producer</j.0:name>
+    <j.0:relatedOccupation rdf:resource="http://dbpedia.org/resource/Artists_and_repertoire"/>
+    <j.0:competencies rdf:resource="http://dbpedia.org/resource/Musical_instrument"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Record_producers"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Music_production"/>
+    <j.0:caption xml:lang="en">A Danish recording session</j.0:caption>
+    <j.0:relatedOccupation rdf:resource="http://dbpedia.org/resource/Film_producer"/>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Record_producer"/>
+    <j.0:competencies rdf:resource="http://dbpedia.org/resource/Keyboard_instrument"/>
+    <rdfs:comment xml:lang="en">A record producer is an individual working within the music industry, whose job is to oversee and manage the recording (i.e. "production") of an artist's music. A producer has many roles that may include, but are not limited to, gathering ideas for the project, selecting songs and/or musicians, coaching the artist and musicians in the studio, controlling the recording sessions, and supervising the entire process through mixing and mastering.</rdfs:comment>
+    <j.0:relatedOccupation rdf:resource="http://dbpedia.org/resource/Audio_engineering"/>
+    <j.0:activitySector rdf:resource="http://dbpedia.org/resource/Music_industry"/>
+    <rdfs:label xml:lang="en">Record producer</rdfs:label>
+    <j.0:employmentField rdf:resource="http://dbpedia.org/resource/Recording_studio"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dialectical_materialism">
+    <rdfs:label xml:lang="en">Dialectical materialism</rdfs:label>
+    <rdfs:comment xml:lang="en">Dialectical materialism is a strand of Marxism, synthesizing Hegelâs dialectics, which proposes that every economic order grows to a state of maximum efficiency, while simultaneously developing internal contradictions and weaknesses that contribute to its systemic decay. Philosophically, dialectical materialism â that Man originates History through active consciousness â was originated by Moses Hess, and developed by Karl Marx and Friedrich Engels.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dialectical_materialism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Theories_of_history"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_theory"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Materialism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Dialectic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Political_economy">
+    <rdfs:label xml:lang="en">Political economy</rdfs:label>
+    <rdfs:comment xml:lang="en">Political economy originally was the term for studying production, buying, and selling, and their relations with law, custom, and government, as well as with the distribution of national income and wealth, including through the budget process. Political economy originated in moral philosophy. It developed in the 18th century as the study of the economies of states, polities, hence political economy.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Political_economy"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_economy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Communist_League">
+    <rdfs:label xml:lang="en">Communist League</rdfs:label>
+    <rdfs:comment xml:lang="en">The Communist League was an international political party established in June 1847 in London, England. The organization was formed through the merger of the League of the Just, headed by Karl Schapper and the Communist Correspondence Committee of Brussels, Belgium, in which Karl Marx and Friedrich Engels were the dominant personalities.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Communist_League"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Left-wing_internationals"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_organizations"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:July_Monarchy"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1847_establishments"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1852_disestablishments"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Science">
+    <rdfs:label xml:lang="en">Science</rdfs:label>
+    <rdfs:comment xml:lang="en">Science (from Latin scientia, meaning "knowledge") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. In an older and closely related meaning (found, for example, in Aristotle), "science" refers to the body of reliable knowledge itself, of the type that can be logically and rationally explained. Since classical antiquity science as a type of knowledge was closely linked to philosophy.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Science"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Publishing">
+    <rdfs:label xml:lang="en">Publishing</rdfs:label>
+    <rdfs:comment xml:lang="en">Publishing is the process of production and dissemination of literature, music, or information â the activity of making information available to the general public. In some cases, authors may be their own publishers, meaning: originators and developers of content also provide media to deliver and display the content for the same. Traditionally, the term refers to the distribution of printed works such as books (the "book trade") and newspapers.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Publishing"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Publishing"/>
+  </rdf:Description>
+  <j.2:Person rdf:about="http://dbpedia.org/resource/Karl_Marx">
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_International_Workingmen&apos;s_Association"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_theorists"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Jean-Paul_Sartre"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Jean-Jacques_Rousseau"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Labor_theory_of_value"/>
+    <dc:description xml:lang="en">German philosopher, political economist and revolutionary</dc:description>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Historians_of_economic_thought"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Fidel_Castro"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_sociologists"/>
+    <j.0:signature xml:lang="en">Karl Marx Signature.svg</j.0:signature>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_atheists"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Simone_de_Beauvoir"/>
+    <j.0:religion xml:lang="en">Protestantism; later, none</j.0:religion>
+    <j.0:birthName xml:lang="en">Karl Heinrich Marx</j.0:birthName>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1818_births"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Trier"/>
+    <j.0:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >49228757</j.0:viaf>
+    <j.0:color xml:lang="en">#B0C4DE</j.0:color>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Enver_Hoxha"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Voltaire"/>
+    <j.0:shortDescription xml:lang="en">German philosopher, political economist and revolutionary</j.0:shortDescription>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Mikhail_Bakunin"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Murray_Bookchin"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Surplus_value"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_tax_resisters"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Prussian_people"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Frankfurt_School"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Giambattista_Vico"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Constantin_Pecqueur"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Pierre-Joseph_Proudhon"/>
+    <j.0:notableIdeas xml:lang="en">Co-founder of Marxism , surplus value, contributions to the labor theory of value, alienation and exploitation of the worker, The Communist Manifesto, Das Kapital, materialist conception of history</j.0:notableIdeas>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_emigrants_to_the_United_Kingdom"/>
+    <j.0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >5</j.0:birthDate>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <j.0:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1818</j.0:dateOfBirth>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_historians"/>
+    <j.0:mainInterests xml:lang="en">Politics, economics, philosophy, sociology, labour, history, class struggle,</j.0:mainInterests>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Moses_Hess"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_historians"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Gy%C3%B6rgy_Luk%C3%A1cs"/>
+    <rdfs:label xml:lang="en">Karl Marx</rdfs:label>
+    <j.0:lccn xml:lang="en">n/79/6935</j.0:lccn>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Historical_materialism"/>
+    <j.2:name xml:lang="en">Karl Marx</j.2:name>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Atheist_philosophers"/>
+    <j.0:name xml:lang="en">Marx, Karl</j.0:name>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_journalists"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Darwin"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Karl_Marx"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Moses_Hess"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_socialists"/>
+    <j.0:placeOfDeath>
+      <j.4:_Feature rdf:about="http://dbpedia.org/resource/London">
+        <j.1:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre"
+        >4978.0</j.1:populationDensity>
+        <j.5:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >8278251</j.5:populationUrban>
+        <j.5:timeZone rdf:resource="http://dbpedia.org/resource/British_Summer_Time"/>
+        <j.5:utcOffset xml:lang="en">+1</j.5:utcOffset>
+        <j.0:postalCode xml:lang="en">, , , , , , , , , , , , , , , , , , , , ,</j.0:postalCode>
+        <j.0:imageSkyline xml:lang="en">London collage.jpg</j.0:imageSkyline>
+        <j.0:populationBlank xml:lang="en">Londoner</j.0:populationBlank>
+        <j.5:isPartOf rdf:resource="http://dbpedia.org/resource/City_of_London"/>
+        <j.0:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >270</j.0:imagesize>
+        <j.0:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >14</j.0:leaderName>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/List_of_London_Assembly_constituencies"/>
+        <j.7:point xml:lang="en">51.507222222222225 -0.1275</j.7:point>
+        <j.0:leaderTitle rdf:resource="http://dbpedia.org/resource/Parliament_of_the_United_Kingdom"/>
+        <j.0:titlebar xml:lang="en">#ddd</j.0:titlebar>
+        <j.0:leaderTitle rdf:resource="http://dbpedia.org/resource/Regional_assembly_(England)"/>
+        <j.0:coordinatesDisplay xml:lang="en">inline, title</j.0:coordinatesDisplay>
+        <j.6:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+        >51.5072</j.6:lat>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:London"/>
+        <j.5:leaderTitle xml:lang="en">- London Assembly</j.5:leaderTitle>
+        <j.5:postalCode xml:lang="en">, , , , , , , , , , , , , , , , , , , , ,</j.5:postalCode>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/List_of_Parliamentary_constituencies_in_London"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Arthurian_locations"/>
+        <j.0:populationBlank rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay"
+        >--05-19</j.0:populationBlank>
+        <j.0:subdivisionType rdf:resource="http://dbpedia.org/resource/Ceremonial_counties_of_England"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Capitals_in_Europe"/>
+        <j.0:imageMap xml:lang="en">London .svg</j.0:imageMap>
+        <j.0:latns xml:lang="en">N</j.0:latns>
+        <j.0:leaderName rdf:resource="http://dbpedia.org/resource/Greater_London_Authority"/>
+        <j.0:subdivisionName xml:lang="en">City and Greater London</j.0:subdivisionName>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/London_Assembly"/>
+        <j.0:leaderName rdf:resource="http://dbpedia.org/resource/London_(European_Parliament_constituency)"/>
+        <rdfs:comment xml:lang="en">London Listen/ËlÊndÉn/ is the capital city of England and the United Kingdom, the largest metropolitan area in the United Kingdom, and the largest urban zone in the European Union by most measures. Located on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium. London's ancient core, the City of London, largely retains its square-mile mediaeval boundaries.</rdfs:comment>
+        <j.5:utcOffset xml:lang="en">Â±0</j.5:utcOffset>
+        <j.0:subdivisionName rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+        <j.0:mapCaption xml:lang="en">London region in the United Kingdom</j.0:mapCaption>
+        <j.6:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+        >-0.1275</j.6:long>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/Greater_London_Authority"/>
+        <j.0:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >7</j.0:longm>
+        <j.0:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</j.0:longd>
+        <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Div_col"/>
+        <j.0:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >7825200</j.0:populationTotal>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Staple_ports"/>
+        <j.0:imageCaption xml:lang="en">From upper left:  City of London, Tower Bridge and London Eye, Palace of Westminster</j.0:imageCaption>
+        <j.0:areaCode rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >9223372036854775807</j.0:areaCode>
+        <j.0:seat rdf:resource="http://dbpedia.org/resource/City_Hall_(London)"/>
+        <j.0:utcOffsetDst xml:lang="en">+1</j.0:utcOffsetDst>
+        <j.5:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+        >24.0</j.5:elevation>
+        <j.5:isPartOf rdf:resource="http://dbpedia.org/resource/Greater_London"/>
+        <j.0:totalType xml:lang="en">London</j.0:totalType>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Robin_Hood_locations"/>
+        <j.0:subdivisionName xml:lang="en">City and 32 boroughs</j.0:subdivisionName>
+        <j.0:subdivisionType rdf:resource="http://dbpedia.org/resource/Countries_of_the_United_Kingdom"/>
+        <j.0:leaderTitle xml:lang="en">- London Assembly</j.0:leaderTitle>
+        <j.0:name xml:lang="en">London</j.0:name>
+        <j.0:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >39</j.0:longs>
+        <j.0:subdivisionName rdf:resource="http://dbpedia.org/resource/England"/>
+        <j.0:subdivisionType rdf:resource="http://dbpedia.org/resource/Districts_of_England"/>
+        <j.0:populationBlank1Title rdf:resource="http://dbpedia.org/resource/Demonym"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Host_cities_of_the_Summer_Olympic_Games"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_including_recorded_pronunciations_(UK_English)"/>
+        <j.0:establishedDate xml:lang="en">as Londinium, c. AD 43</j.0:establishedDate>
+        <j.5:leaderTitle xml:lang="en">Regional assembly</j.5:leaderTitle>
+        <j.0:float xml:lang="en">left</j.0:float>
+        <j.0:postalCodeType rdf:resource="http://dbpedia.org/resource/Postcodes_in_the_United_Kingdom"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Host_cities_of_the_Commonwealth_Games"/>
+        <j.0:longew xml:lang="en">W</j.0:longew>
+        <j.5:timeZone rdf:resource="http://dbpedia.org/resource/Greenwich_Mean_Time"/>
+        <j.5:areaCode xml:lang="en">020, 01322, 01689, 01708, 01737, 01895, 01923, 01959, 01992</j.5:areaCode>
+        <j.5:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+        >1.57212e+009</j.5:areaTotal>
+        <j.0:leaderTitle rdf:resource="http://dbpedia.org/resource/Mayor_of_London"/>
+        <j.0:left xml:lang="en">Religion</j.0:left>
+        <j.1:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre"
+        >1572.122782973952</j.1:areaTotal>
+        <j.2:homepage rdf:resource="http://www.london.gov.uk/"/>
+        <j.0:populationBlank2Title xml:lang="en">Ethnicity</j.0:populationBlank2Title>
+        <j.0:small xml:lang="en">yes</j.0:small>
+        <j.5:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+        >4978.0</j.5:populationDensity>
+        <j.5:leaderTitle xml:lang="en">- European Parliament</j.5:leaderTitle>
+        <j.0:leaderName rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >74</j.0:leaderName>
+        <j.5:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+        >4977.63</j.5:populationDensity>
+        <j.0:coordinatesRegion xml:lang="en">GB</j.0:coordinatesRegion>
+        <j.0:cols rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >3</j.0:cols>
+        <j.0:populationAsOf xml:lang="en">July 2010 est.</j.0:populationAsOf>
+        <j.0:timezone rdf:resource="http://dbpedia.org/resource/Greenwich_Mean_Time"/>
+        <j.0:leaderTitle xml:lang="en">Regional authority</j.0:leaderTitle>
+        <j.0:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >30</j.0:latm>
+        <rdfs:label xml:lang="en">London</rdfs:label>
+        <j.0:areaTotalSqMi rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >607</j.0:areaTotalSqMi>
+        <j.0:populationUrban rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >8278251</j.0:populationUrban>
+        <j.2:name xml:lang="en">London</j.2:name>
+        <j.5:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >7825200</j.5:populationTotal>
+        <j.5:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Port_cities_and_towns_in_the_United_Kingdom"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_places_established_in_the_1st_century"/>
+        <j.0:subdivisionName rdf:resource="http://dbpedia.org/resource/Greater_London"/>
+        <j.0:establishedTitle xml:lang="en">Settled by Romans</j.0:establishedTitle>
+        <j.0:mapsize rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >180</j.0:mapsize>
+        <j.5:leaderTitle xml:lang="en">Regional authority</j.5:leaderTitle>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/London_(European_Parliament_constituency)"/>
+        <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Bar_box"/>
+        <j.0:utcOffset xml:lang="en">Â±0</j.0:utcOffset>
+        <j.0:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states"/>
+        <j.0:leaderName rdf:resource="http://dbpedia.org/resource/London_Assembly"/>
+        <j.5:leaderTitle xml:lang="en">Mayor of London</j.5:leaderTitle>
+        <j.0:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >26</j.0:lats>
+        <j.0:website rdf:resource="http://www.london.gov.uk/"/>
+        <j.5:isPartOf rdf:resource="http://dbpedia.org/resource/England"/>
+        <j.5:leaderName rdf:resource="http://dbpedia.org/resource/Boris_Johnson"/>
+        <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_settlement"/>
+        <j.0:right xml:lang="en">Percent</j.0:right>
+        <j.1:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre"
+        >4977.6290279292125</j.1:populationDensity>
+        <j.5:leaderTitle xml:lang="en">UK Parliament</j.5:leaderTitle>
+        <j.0:seatType xml:lang="en">Headquarters</j.0:seatType>
+        <j.0:subdivisionType rdf:resource="http://dbpedia.org/resource/Regions_of_England"/>
+        <j.0:title rdf:resource="http://dbpedia.org/resource/Religion_in_London"/>
+        <j.0:timezoneDst rdf:resource="http://dbpedia.org/resource/British_Summer_Time"/>
+        <j.0:populationDensityKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >4978</j.0:populationDensityKm>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:British_capitals"/>
+        <j.0:populationDensitySqMi rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >12892</j.0:populationDensitySqMi>
+        <j.5:isPartOf rdf:resource="http://dbpedia.org/resource/London_borough"/>
+        <j.0:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >51</j.0:latd>
+        <j.0:elevationM rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >24</j.0:elevationM>
+        <j.0:leaderTitle xml:lang="en">- European Parliament</j.0:leaderTitle>
+        <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/London"/>
+        <j.5:populationMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >13709000</j.5:populationMetro>
+        <j.0:leaderName rdf:resource="http://dbpedia.org/resource/Boris_Johnson"/>
+        <j.0:populationMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >13709000</j.0:populationMetro>
+      </j.4:_Feature>
+    </j.0:placeOfDeath>
+    <j.5:region rdf:resource="http://dbpedia.org/resource/German_philosophy"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Schumpeter"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Peter_Kropotkin"/>
+    <j.0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1883-03-14</j.0:deathDate>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Michael_Taussig"/>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Leon_Trotsky"/>
+    <j.0:influenced xml:lang="en">Lenin, Stalin, Trotsky, Mao,  Tito, Hoxha, Castro, Guevara, CeauÈescu, Ho, Sartre, Simone de Beauvoir, Luxemburg, LukÃ¡cs, Gramsci, Korsch, Kropotkin, Bakunin, Chomsky, Bookchin, Arendt, Marcuse, Lyotard, Foucault, Deleuze, Debord, Situationist International, Frankfurt School, Negri, Taussig, Roy, Laclau, Bourdieu, Schumpeter, Aflaq and many others</j.0:influenced>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Aristotle"/>
+    <j.2:surname xml:lang="en">Marx</j.2:surname>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <j.2:givenName xml:lang="en">Karl</j.2:givenName>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_philosophers"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_economy"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Rhine_Province"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Herbert_Marcuse"/>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_philosophers"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Antonio_Negri"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Jean-Fran%C3%A7ois_Lyotard"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Ho_Chi_Minh"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Lenin"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Materialists"/>
+    <j.5:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Sociology"/>
+    <j.0:alternativeNames xml:lang="en">Marx, Karl Heinrich</j.0:alternativeNames>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Mao_Zedong"/>
+    <j.0:name xml:lang="en">Karl Marx</j.0:name>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1883_deaths"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Highgate_Cemetery"/>
+    <j.0:region rdf:resource="http://dbpedia.org/resource/Western_philosophy"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Ernesto_Laclau"/>
+    <j.5:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1818-01-01T00:00:00+01:00</j.5:birthYear>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Giambattista_Vico"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Stalin"/>
+    <j.5:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Materialism"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Claude_Adrien_Helv%C3%A9tius"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Prussia"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Marx&apos;s_theory_of_alienation"/>
+    <j.0:id xml:lang="en">Karl_Marx</j.0:id>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Fourier"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Gilles_Deleuze"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Marxian_economics"/>
+    <j.5:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1883-01-01T00:00:00+01:00</j.5:deathYear>
+    <j.5:era rdf:resource="http://dbpedia.org/resource/19th-century_philosophy"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Nicolae_B%C4%83lcescu"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Voltaire"/>
+    <j.0:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Rosa_Luxemburg"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Fran%C3%A7ois_Guizot"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxists"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Robert_Owen"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Michel_Foucault"/>
+    <j.0:pnd rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >118578537</j.0:pnd>
+    <j.5:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Communism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Bonn_alumni"/>
+    <j.0:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1883</j.0:dateOfDeath>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Karl_Marx"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Michel_Aflaq"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Nicolae_B%C4%83lcescu"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Fran%C3%A7ois_Guizot"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Baruch_Spinoza"/>
+    <j.5:philosophicalSchool>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Socialism">
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Socialism"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Article_Feedback_5_Additional_Articles"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_movements"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Collectivism"/>
+        <rdfs:comment xml:lang="en">Socialism Â /ËsoÊÊÉlÉªzÉm/ is an economic system characterised by social ownership and/or control of the means of production and cooperative management of the economy, and a political philosophy advocating such a system. "Social ownership" may refer to any one of, or a combination of, the following: cooperative enterprises, common ownership, direct public ownership or autonomous state enterprises.</rdfs:comment>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_ideologies"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Left-wing_politics"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_ideologies"/>
+        <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Socialism"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economies"/>
+        <rdfs:label xml:lang="en">Socialism</rdfs:label>
+      </rdf:Description>
+    </j.5:philosophicalSchool>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Communism"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Justus_von_Liebig"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_philosopher"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Pierre-Joseph_Proudhon"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Guy_Debord"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Das_Kapital"/>
+    <j.0:birthPlace rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Max_Stirner"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_economists"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Philosophy"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Max_Stirner"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Baruch_Spinoza"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Antonio_Gramsci"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Nicolae_Ceau%C8%99escu"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_economists"/>
+    <j.5:region rdf:resource="http://dbpedia.org/resource/Western_philosophy"/>
+    <j.0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Prussia"/>
+    <j.0:era rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >19</j.0:era>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Aristotle"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Class_conflict"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Baron_d&apos;Holbach"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/The_Communist_Manifesto"/>
+    <j.0:region rdf:resource="http://dbpedia.org/resource/German_philosophy"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Jacques_Rousseau"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Prussia"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_journalists"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Epicurus"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Charles_Fourier"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_Jews"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Karl_Korsch"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Pierre_Bourdieu"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Epicurus"/>
+    <j.0:caption xml:lang="en">Marx in 1875</j.0:caption>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Noam_Chomsky"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Charles_Darwin"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Ashkenazi_Jews"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Hannah_Arendt"/>
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/Prussia"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Victor_d&apos;Hupay"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Che_Guevara"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Owen"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Josip_Broz_Tito"/>
+    <j.5:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1818-05-05</j.5:birthDate>
+    <rdfs:comment xml:lang="en">Karl Heinrich Marx (5 May 1818 â 14 March 1883) was a German philosopher, economist, sociologist, historian, journalist, and revolutionary socialist. His ideas played a significant role in the development of social science and the socialist political movement.</rdfs:comment>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_communists"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Claude_Adrien_Helv%C3%A9tius"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_philosophers"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Constantin_Pecqueur"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_philosophers"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/M._N._Roy"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Category:Marxists"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Labor_relations"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Stateless_persons"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_historians"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Baron_d&apos;Holbach"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/William_Shakespeare"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Victor_d&apos;Hupay"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_Society_of_Arts"/>
+    <j.5:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1883-03-14</j.5:deathDate>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Situationist_International"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Justus_von_Liebig"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Materialism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_revolutionaries"/>
+  </j.2:Person>
+  <j.2:Person rdf:about="http://dbpedia.org/resource/Friedrich_Engels">
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Max_Stirner"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Category:Marxists"/>
+    <j.0:region xml:lang="en">Western Philosophy</j.0:region>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Lewis_H._Morgan"/>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.0:signature xml:lang="en">Friedrich Engels Signature.svg</j.0:signature>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Mao_Zedong"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Moses_Hess"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Class_conflict"/>
+    <j.0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1895-08-05</j.0:deathDate>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Guy_Debord"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_philosophers"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Jacques_Rousseau"/>
+    <j.0:birthPlace xml:lang="en">Barmen, Kingdom of Prussia</j.0:birthPlace>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Fourier"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Lewis_H._Morgan"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Political_philosophy"/>
+    <j.0:influenced xml:lang="en">Luxemburg, Lenin, Trotsky, Mao, Guevara, Sartre, Debord, Frankfurt School, Negri, more...</j.0:influenced>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Class_conflict"/>
+    <rdfs:comment xml:lang="en">Friedrich Engels (28 November 1820 â 5 August 1895) was a German-English industrialist, social scientist, author, political theorist, philosopher, and father of Marxist theory, alongside Karl Marx. In 1845 he published The Condition of the Working Class in England, based on personal observations and research. In 1848 he co-authored The Communist Manifesto with Karl Marx, and later he supported Marx financially to do research and write Das Kapital.</rdfs:comment>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_atheists"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_revolutionaries"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Leon_Trotsky"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Historical_materialism"/>
+    <j.2:givenName xml:lang="en">Friedrich</j.2:givenName>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Heraclitus"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_revolutionaries"/>
+    <j.5:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Materialism"/>
+    <j.0:era rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >19</j.0:era>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_theorists"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1895_deaths"/>
+    <j.0:notableIdeas xml:lang="en">Co-founder of Marxism , alienation and exploitation of the worker, historical materialism</j.0:notableIdeas>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_economists"/>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Marx&apos;s_theory_of_alienation"/>
+    <j.0:placeOfDeath xml:lang="en">London, England</j.0:placeOfDeath>
+    <j.5:notableIdea rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Materialism"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.0:shortDescription xml:lang="en">German political philosopher</j.0:shortDescription>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Theories_of_history"/>
+    <j.5:mainInterest rdf:resource="http://dbpedia.org/resource/Economics"/>
+    <j.0:name xml:lang="en">Engels, Friedrich</j.0:name>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Materialists"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Max_Stirner"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_atheists"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Orthodox_Marxists"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Revolutions_of_1848"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Political_philosophy"/>
+    <j.0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >28</j.0:birthDate>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_communists"/>
+    <j.5:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1820-11-28</j.5:birthDate>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_philosophers"/>
+    <j.0:caption xml:lang="en">Friedrich Engels</j.0:caption>
+    <j.5:mainInterest>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Politics">
+        <rdfs:label xml:lang="en">Politics</rdfs:label>
+        <rdfs:comment xml:lang="en">Politics (from Greek politikos "of, for, or relating to citizens") as a term is generally applied to the art or science of running governmental or state affairs, including behavior within civil governments, but also applies to institutions, fields, and special interest groups such as the corporate, academic, and religious segments of society. It consists of "social relations involving authority or power" and to the methods and tactics used to formulate and apply policy.</rdfs:comment>
+        <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_loanwords"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Society"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Politics"/>
+      </rdf:Description>
+    </j.5:mainInterest>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_economists"/>
+    <j.0:name xml:lang="en">Friedrich Engels</j.0:name>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Frankfurt_School"/>
+    <j.5:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1820-01-01T00:00:00+01:00</j.5:birthYear>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Prussian_Army_personnel"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Gutenberg_author"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_feminists"/>
+    <j.5:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Che_Guevara"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.5:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1895-01-01T00:00:00+01:00</j.5:deathYear>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Jean-Jacques_Rousseau"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_German_descent"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Economics"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Rhine_Province"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Prussia"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_philosophers"/>
+    <j.0:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >5</j.0:dateOfDeath>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_feminists"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.5:birthPlace rdf:resource="http://dbpedia.org/resource/Wuppertal"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel"/>
+    <dc:description xml:lang="en">German political philosopher</dc:description>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_philosopher"/>
+    <j.5:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1895-08-05</j.5:deathDate>
+    <j.0:placeOfBirth xml:lang="en">Wuppertal, Germany</j.0:placeOfBirth>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_German_people"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Vladimir_Lenin"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_communists"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Antonio_Negri"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:German_emigrants_to_the_United_Kingdom"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Heraclitus"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Persondata"/>
+    <j.5:mainInterest>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Capitalism">
+        <rdfs:comment xml:lang="en">Capitalism is generally considered to be an economic system that is based on private ownership of the means of production and the creation of goods or services for profit or income by individuals or corporations. Some have also used the term as a synonym for competitive markets, voluntary exchange, wage labor, capital accumulation, or personal finance.</rdfs:comment>
+        <j.5:abstract xml:lang="en">Capitalism is generally considered to be an economic system that is based on private ownership of the means of production and the creation of goods or services for profit or income by individuals or corporations. Some have also used the term as a synonym for competitive markets, voluntary exchange, wage labor, capital accumulation, or personal finance. Capitalism is variously defined by sources and there is no general consensus among scholars on the definition nor which economies can historically be properly considered capitalist. The designation is applied to a variety of historical cases, varying in time, geography, politics, and culture. There is, however, general agreement that capitalism became dominant in the Western world following the demise of feudalism. Economists, political economists and historians have taken different perspectives on the analysis of capitalism. Economists usually emphasize the degree to which government does not have control over markets, as well as the importance of property rights. Most political economists emphasize private property as well, in addition to power relations, wage labor, class, and the uniqueness of capitalism as a historical formation. The extent to which different markets are free, as well as the rules defining private property, is a matter of politics and policy. Many states have what are termed mixed economies, referring to the varying degree of planned and market-driven elements in a state's economic system. A number of political ideologies have emerged in support of various types of capitalism, the most prominent being economic liberalism. Capitalism gradually spread throughout the Western world in the 19th and 20th centuries.</j.5:abstract>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Capitalism"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Individualism"/>
+        <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economies"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_systems"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_economy"/>
+        <rdfs:label xml:lang="en">Capitalism</rdfs:label>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_philosophy"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_liberalism"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Ideologies"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Capitalist_systems"/>
+        <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_ideologies"/>
+      </rdf:Description>
+    </j.5:mainInterest>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Wuppertal"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Charles_Fourier"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Georg_Wilhelm_Friedrich_Hegel"/>
+    <j.0:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >28</j.0:dateOfBirth>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_International_Workingmen&apos;s_Association"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Karl_Marx"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Jean-Paul_Sartre"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Atheist_philosophers"/>
+    <rdfs:label xml:lang="en">Friedrich Engels</rdfs:label>
+    <j.2:surname xml:lang="en">Engels</j.2:surname>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Moses_Hess"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Blue_plaques"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Capitalism"/>
+    <j.5:era rdf:resource="http://dbpedia.org/resource/19th-century_philosophy"/>
+    <j.5:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Urban_theorists"/>
+    <j.5:influencedBy rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:1820_births"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.0:color xml:lang="en">#B0C4DE</j.0:color>
+    <j.2:name xml:lang="en">Friedrich Engels</j.2:name>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Friedrich_Engels"/>
+    <j.0:id xml:lang="en">Friedrich_Engels</j.0:id>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:English_economists"/>
+    <j.5:influenced rdf:resource="http://dbpedia.org/resource/Rosa_Luxemburg"/>
+  </j.2:Person>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society">
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Political_philosophy"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Society"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Anthropology"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Types_of_organization"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_anthropology"/>
+    <rdfs:label xml:lang="en">Society</rdfs:label>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Sociology_index"/>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Society"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Cultural_history"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Sociological_terms"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Anthropological_categories_of_peoples"/>
+    <rdfs:comment xml:lang="en">A society, or a human society, is a group of people related to each other through persistent relations, or a large social grouping sharing the same geographical or virtual territory, subject to the same political authority and dominant cultural expectations. Human societies are characterized by patterns of relationships between individuals who share a distinctive culture and institutions; a given society may be described as the sum total of such relationships among its constituent members.</rdfs:comment>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Clubs_and_societies"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bourgeoisie">
+    <rdfs:label xml:lang="en">Bourgeoisie</rdfs:label>
+    <rdfs:comment xml:lang="en">In sociology and in political science, the noun bourgeoisie and the adjective bourgeois are terms that describe an historical range of socio-economic classes.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bourgeoisie"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:French_words_and_phrases"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_groups"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Sociology_of_culture"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_classes"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_terminology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History">
+    <rdfs:label xml:lang="en">History</rdfs:label>
+    <rdfs:comment xml:lang="en">History (from Greek á¼±ÏÏÎ¿ÏÎ¯Î± - historia, meaning "inquiry, knowledge acquired by investigation") is the discovery, collection, organization, and presentation of information about past events. History can also mean the period of time after writing was invented. Scholars who write about history are called historians.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/History"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_loanwords"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Auxiliary_sciences_of_history"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:History"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proletariat">
+    <rdfs:label xml:lang="en">Proletariat</rdfs:label>
+    <rdfs:comment xml:lang="en">The proletariat (from Latin proletarius, a citizen of the lowest class) is a term used to identify a lower social class, usually the working class; a member of such a class is proletarian. Originally it was identified as those people who had no wealth other than their children.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Proletariat"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Poverty"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Marxist_theory"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Socialism"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_classes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolutionary">
+    <rdfs:label xml:lang="en">Revolutionary</rdfs:label>
+    <rdfs:comment xml:lang="en">A revolutionary is a person who either actively participates in, or advocates revolution. Also, when used as an adjective, the term revolutionary refers to something that has a major, sudden impact on society or on some aspect of human endeavor.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Revolutionary"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Revolutionaries"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Development_economics">
+    <rdfs:label xml:lang="en">Development economics</rdfs:label>
+    <rdfs:comment xml:lang="en">Development economics is a branch of economics which deals with economic aspects of the development process in low-income countries. Its focus is not only on methods of promoting economic growth and structural change but also on improving the potential for the mass of the population, for example, through health and education and workplace conditions, whether through public or private channels.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Development_economics"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_development"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Development_economics"/>
+  </rdf:Description>
+  <j.4:_Feature rdf:about="http://dbpedia.org/resource/Paris">
+    <j.0:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >5</j.0:novLowC>
+    <j.0:novPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >52</j.0:novPrecipitationMm>
+    <j.0:yearRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >40</j.0:yearRecordHighC>
+    <j.0:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >15</j.0:augLowC>
+    <j.0:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >220</j.0:height>
+    <j.0:aprPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:aprPrecipitationDays>
+    <j.0:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >16</j.0:julLowC>
+    <j.0:party rdf:resource="http://dbpedia.org/resource/Socialist_Party_(France)"/>
+    <j.0:mayPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >65</j.0:mayPrecipitationMm>
+    <j.0:region rdf:resource="http://dbpedia.org/resource/%C3%8Ele-de-France_(region)"/>
+    <j.0:mayor rdf:resource="http://dbpedia.org/resource/Bertrand_Delano%C3%AB"/>
+    <j.0:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >13</j.0:junLowC>
+    <j.0:mayPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:mayPrecipitationDays>
+    <j.0:janSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >56</j.0:janSun>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Paris"/>
+    <j.6:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >2.3508</j.6:long>
+    <j.0:julPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >63</j.0:julPrecipitationMm>
+    <rdfs:comment xml:lang="en">Paris is the capital and largest city of France. It is situated on the river Seine, in northern France, at the heart of the Ãle-de-France region (or Paris Region, French: RÃ©gion parisienne). As of January 2008 the city of Paris, within its administrative limits largely unchanged since 1860, has an estimated population of 2,211,297 and a metropolitan population of 12,089,098, and is one of the most populated metropolitan areas in Europe.</rdfs:comment>
+    <j.0:decRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-24</j.0:decRecordLowC>
+    <j.0:decSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >50</j.0:decSun>
+    <j.0:date xml:lang="en">August 2010</j.0:date>
+    <j.0:location xml:lang="en">Paris</j.0:location>
+    <j.0:id rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >600</j.0:id>
+    <j.0:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >5</j.0:marLowC>
+    <j.0:commonName xml:lang="en">Paris</j.0:commonName>
+    <j.0:insee rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >75056</j.0:insee>
+    <j.0:fullheight rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >315</j.0:fullheight>
+    <j.0:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >3</j.0:febLowC>
+    <j.0:yearRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-24</j.0:yearRecordLowC>
+    <j.0:title xml:lang="en">Administrative structures</j.0:title>
+    <j.0:julRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >6</j.0:julRecordLowC>
+    <j.0:julPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >8</j.0:julPrecipitationDays>
+    <j.0:janRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >16</j.0:janRecordHighC>
+    <j.2:name xml:lang="en">Paris</j.2:name>
+    <j.0:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >7</j.0:aprLowC>
+    <j.0:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:novHighC>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:3rd-century_BC_establishments"/>
+    <j.0:febSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >87</j.0:febSun>
+    <j.0:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >19</j.0:mayHighC>
+    <j.5:area rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >1.054e+008</j.5:area>
+    <j.0:julSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >239</j.0:julSun>
+    <j.0:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >8</j.0:decHighC>
+    <j.0:cityMotto xml:lang="en">Fluctuat nec mergitur</j.0:cityMotto>
+    <j.0:sepPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:sepPrecipitationDays>
+    <j.0:stateParty xml:lang="en">France</j.0:stateParty>
+    <j.0:janPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:janPrecipitationDays>
+    <j.0:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2</j.0:longitude>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Panorama"/>
+    <j.0:octPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >60</j.0:octPrecipitationMm>
+    <j.0:sepPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >55</j.0:sepPrecipitationMm>
+    <j.0:novRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-14</j.0:novRecordLowC>
+    <j.0:mayRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >0</j.0:mayRecordLowC>
+    <j.0:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >16</j.0:octHighC>
+    <j.0:fullwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >4486</j.0:fullwidth>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:World_Heritage_Sites_in_France"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Weather_box"/>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Paris"/>
+    <j.0:caption xml:lang="en">Paris, with the Eiffel Tower in the foreground and the skyscrapers of La DÃ©fense in the background</j.0:caption>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Capitals_in_Europe"/>
+    <j.0:decPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >59</j.0:decPrecipitationMm>
+    <j.0:decRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >17</j.0:decRecordHighC>
+    <j.0:octRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-3</j.0:octRecordLowC>
+    <j.2:homepage rdf:resource="http://www.paris.fr/"/>
+    <j.0:urbanPopDate xml:lang="en">Jan. 2008</j.0:urbanPopDate>
+    <j.0:junRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >38</j.0:junRecordHighC>
+    <j.0:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >280</j.0:imageSize>
+    <j.0:junRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >3</j.0:junRecordLowC>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_World_Heritage_Site"/>
+    <j.0:marRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >26</j.0:marRecordHighC>
+    <j.0:febRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-15</j.0:febRecordLowC>
+    <j.7:point xml:lang="en">48.8567 2.3508</j.7:point>
+    <j.0:augSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >220</j.0:augSun>
+    <j.0:term rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2008</j.0:term>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Liberation"/>
+    <j.0:janPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >54</j.0:janPrecipitationMm>
+    <j.0:urbanAreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2845</j.0:urbanAreaKm>
+    <j.0:imageFlagSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >85</j.0:imageFlagSize>
+    <j.0:sepRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2</j.0:sepRecordLowC>
+    <j.5:country rdf:resource="http://dbpedia.org/resource/France"/>
+    <j.0:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >12</j.0:marHighC>
+    <j.0:metroAreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >17175</j.0:metroAreaKm>
+    <j.0:aprPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >53</j.0:aprPrecipitationMm>
+    <j.0:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >11</j.0:mayLowC>
+    <j.0:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >4</j.0:decLowC>
+    <j.5:region rdf:resource="http://dbpedia.org/resource/%C3%8Ele-de-France_(region)"/>
+    <j.0:yearHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >16</j.0:yearHighC>
+    <j.0:octPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:octPrecipitationDays>
+    <j.0:website rdf:resource="http://www.paris.fr/"/>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Navboxes"/>
+    <j.0:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:octLowC>
+    <j.0:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2211297</j.0:population>
+    <j.0:junSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >219</j.0:junSun>
+    <j.6:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float"
+    >48.8567</j.6:lat>
+    <j.0:augRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >6</j.0:augRecordLowC>
+    <j.0:novSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >75</j.0:novSun>
+    <j.0:febRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >21</j.0:febRecordHighC>
+    <j.0:sepSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >171</j.0:sepSun>
+    <j.0:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >3</j.0:janLowC>
+    <j.0:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >25</j.0:augHighC>
+    <j.0:febPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:febPrecipitationDays>
+    <rdfs:label xml:lang="en">Paris</rdfs:label>
+    <j.0:name xml:lang="en">Paris, Banks of the Seine</j.0:name>
+    <j.0:julRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >40</j.0:julRecordHighC>
+    <j.0:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >15</j.0:aprHighC>
+    <j.0:maySun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >202</j.0:maySun>
+    <j.0:yearPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >650</j.0:yearPrecipitationMm>
+    <j.0:aprSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >174</j.0:aprSun>
+    <j.0:title xml:lang="en">Paris in the European Union</j.0:title>
+    <j.0:imageFlag xml:lang="en">Flag of Paris.svg</j.0:imageFlag>
+    <j.0:imagecaption xml:lang="en">Notre Dame de Paris on the Ãle de la CitÃ©, on the River Seine</j.0:imagecaption>
+    <j.0:postalCode rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >75001</j.0:postalCode>
+    <j.0:areaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >105</j.0:areaKm>
+    <j.0:singleLine xml:lang="en">Y</j.0:singleLine>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:European_Capitals_of_Culture"/>
+    <j.0:marRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-9</j.0:marRecordLowC>
+    <j.0:augPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >7</j.0:augPrecipitationDays>
+    <j.0:department xml:lang="en">Paris</j.0:department>
+    <j.0:junPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:junPrecipitationDays>
+    <j.0:type xml:lang="en">Cultural</j.0:type>
+    <j.0:junPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >55</j.0:junPrecipitationMm>
+    <j.0:novRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >21</j.0:novRecordHighC>
+    <j.0:subdivisionsEntry rdf:resource="http://dbpedia.org/resource/Administrative_division"/>
+    <j.0:sepRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >36</j.0:sepRecordHighC>
+    <j.0:octSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >127</j.0:octSun>
+    <j.0:urbanAreaDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2010</j.0:urbanAreaDate>
+    <j.0:yearLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >9</j.0:yearLowC>
+    <j.0:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >21</j.0:sepHighC>
+    <j.0:marPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >49</j.0:marPrecipitationMm>
+    <j.0:imageCoatOfArmsSize rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >120</j.0:imageCoatOfArmsSize>
+    <j.0:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >25</j.0:julHighC>
+    <j.0:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_French_commune"/>
+    <j.0:name xml:lang="en">Paris</j.0:name>
+    <j.0:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1991</j.0:year>
+    <j.0:populationDate xml:lang="en">Jan. 2008</j.0:populationDate>
+    <j.5:mayor rdf:resource="http://dbpedia.org/resource/Bertrand_Delano%C3%AB"/>
+    <j.0:timeZone xml:lang="en">CET</j.0:timeZone>
+    <j.0:novPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:novPrecipitationDays>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Host_cities_of_the_Summer_Olympic_Games"/>
+    <j.0:aprRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >30</j.0:aprRecordHighC>
+    <j.1:area rdf:datatype="http://dbpedia.org/datatype/squareKilometre"
+    >105.4</j.1:area>
+    <j.0:caption xml:lang="en">Panoramic view of the Ãle Saint-Louis with Notre Dame in the background</j.0:caption>
+    <j.0:metroAreaPopDate xml:lang="en">Jan. 2008</j.0:metroAreaPopDate>
+    <j.0:decPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >11</j.0:decPrecipitationDays>
+    <j.0:urbanPop rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10354675</j.0:urbanPop>
+    <j.0:criteria xml:lang="en">i, ii, iv</j.0:criteria>
+    <j.0:yearSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >1630</j.0:yearSun>
+    <j.0:populationRanking rdf:datatype="http://dbpedia.org/datatype/second"
+    >1.0</j.0:populationRanking>
+    <j.0:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >13</j.0:sepLowC>
+    <j.0:metricFirst xml:lang="en">Y</j.0:metricFirst>
+    <j.0:febPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >44</j.0:febPrecipitationMm>
+    <j.0:coatOfArmsLegend rdf:resource="http://dbpedia.org/resource/Coat_of_arms_of_Paris"/>
+    <j.0:janRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-15</j.0:janRecordLowC>
+    <j.0:octRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >28</j.0:octRecordHighC>
+    <j.0:imageCoatOfArms xml:lang="en">Grandes Armes de Paris.svg</j.0:imageCoatOfArms>
+    <j.0:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >23</j.0:junHighC>
+    <j.0:marPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >10</j.0:marPrecipitationDays>
+    <j.0:augRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >40</j.0:augRecordHighC>
+    <j.0:metroAreaPop rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >12089098</j.0:metroAreaPop>
+    <j.0:metroAreaDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >2010</j.0:metroAreaDate>
+    <j.0:marSun rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >130</j.0:marSun>
+    <j.0:mayRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >35</j.0:mayRecordHighC>
+    <j.5:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2211297</j.5:populationTotal>
+    <j.0:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >8</j.0:febHighC>
+    <j.0:augPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >43</j.0:augPrecipitationMm>
+    <j.0:flagLegend rdf:resource="http://dbpedia.org/resource/Flag_of_Paris"/>
+    <j.0:aprRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >-3</j.0:aprRecordLowC>
+    <j.0:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >7</j.0:janHighC>
+    <j.5:postalCode xml:lang="en">75001-75020, 75116</j.5:postalCode>
+    <j.0:subdivisions. rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >20</j.0:subdivisions.>
+    <j.0:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+    >49</j.0:latitude>
+    <j.0:region rdf:resource="http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Europe"/>
+    <j.0:source rdf:resource="http://dbpedia.org/resource/M%C3%A9t%C3%A9o-France"/>
+  </j.4:_Feature>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Law">
+    <rdfs:label xml:lang="en">Law</rdfs:label>
+    <rdfs:comment xml:lang="en">The Law is a system of rules and guidelines which are enforced through social institutions to govern behavior. Laws are made by governments, specifically by their legislatures. The formation of laws themselves may be influenced by a constitution (written or unwritten) and the rights encoded therein. The law shapes politics, economics and society in countless ways and serves as a social mediator of relations between people.</rdfs:comment>
+    <j.2:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Law"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Social_sciences"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Humanities"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Law"/>
+    <j.3:subject rdf:resource="http://dbpedia.org/resource/Category:Concepts"/>
+  </rdf:Description>
+</rdf:RDF>
