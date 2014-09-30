@@ -1,0 +1,7476 @@
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =   2539
+NO. OF NON-ZERO VALUES    =   9367
+MATRIX DENSITY            =   2.65%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     65
+RITZ VALUES STABILIZED    =     18
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     18
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =   2539
+NO. OF NON-ZERO VALUES    =   9367
+MATRIX DENSITY            =   2.65%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     40
+RITZ VALUES STABILIZED    =     10
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     10
+0deltas resources:
+http://dbpedia.org/resource/Centuria : 0.001632
+http://dbpedia.org/resource/Refused : 0.004803
+http://dbpedia.org/resource/24_%28season_2%29 : 0.010664
+http://dbpedia.org/resource/The_Double_%28novel%29
+ : 0.011016
+http://dbpedia.org/resource/John_Major : 0.012338
+http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 0.014048
+http://dbpedia.org/resource/Rain : 0.014441
+http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 0.019136
+http://dbpedia.org/resource/Menu : 0.019145
+http://dbpedia.org/resource/December_27 : 0.019514
+http://dbpedia.org/resource/October_14 : 0.029958
+http://dbpedia.org/resource/Comptroller : 0.040030
+http://dbpedia.org/resource/June_20 : 0.056672
+http://dbpedia.org/resource/May_5 : 0.059846
+http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.062873
+http://dbpedia.org/resource/Election : 0.065778
+http://dbpedia.org/resource/January_17 : 0.070543
+http://dbpedia.org/resource/September_27 : 0.071433
+http://dbpedia.org/resource/Gerrymandering : 0.078538
+http://dbpedia.org/resource/Salle_Le_Peletier : 0.081981
+http://dbpedia.org/resource/June_17 : 0.082028
+http://dbpedia.org/resource/1922_Committee : 0.082526
+http://dbpedia.org/resource/Ethnic_group : 0.093664
+http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 0.098709
+http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 0.099511
+http://dbpedia.org/resource/Dick_Spring : 0.126398
+http://dbpedia.org/resource/Catholic_Church : 0.141539
+http://dbpedia.org/resource/August_7 : 0.166312
+http://dbpedia.org/resource/June_27 : 0.169259
+http://dbpedia.org/resource/Assembly_of_Notables : 0.171887
+http://dbpedia.org/resource/July_11 : 0.210447
+http://dbpedia.org/resource/Weather : 0.254602
+http://dbpedia.org/resource/Protestantism : 0.262284
+http://dbpedia.org/resource/Strong,_Ontario : 0.282587
+http://dbpedia.org/resource/British_Empire : 0.320002
+http://dbpedia.org/resource/People : 0.325271
+http://dbpedia.org/resource/Matthew_Prior : 0.357036
+http://dbpedia.org/resource/Common_land : 0.407542
+http://dbpedia.org/resource/Absolute_%28philosophy%29 : 0.491155
+http://dbpedia.org/resource/Kingdom_of_Great_Britain : 0.555862
+http://dbpedia.org/resource/Political_party : 0.609549
+http://dbpedia.org/resource/Pamphlet : 0.615466
+http://dbpedia.org/resource/Subject_%28philosophy%29 : 0.631756
+http://dbpedia.org/resource/Future : 0.664150
+http://dbpedia.org/resource/Proposition : 0.760882
+http://dbpedia.org/resource/Associated_Press : 0.790918
+http://dbpedia.org/resource/Delegate : 1.010046
+http://dbpedia.org/resource/527_organization : 1.132446
+http://dbpedia.org/resource/A-List_%28Conservative%29 : 1.360961
+http://dbpedia.org/resource/Set_list : 1.957678
+http://dbpedia.org/resource/American_English : 2.198794
+http://dbpedia.org/resource/Country_music : 4.872067
+http://dbpedia.org/resource/Book : 6.899554
+http://dbpedia.org/resource/The_Estates : 76.717325
+http://dbpedia.org/resource/General_%28Canada%29 : 80.173067
+http://dbpedia.org/resource/Legislative_Assembly : 82.400293
+http://dbpedia.org/resource/Executive_%28government%29 : 85.026566
+http://dbpedia.org/resource/Age_of_Enlightenment : 93.564939
+http://dbpedia.org/resource/Popular_music : 93.700349
+http://dbpedia.org/resource/Military : 94.274132
+http://dbpedia.org/resource/Citizenship : 94.408771
+http://dbpedia.org/resource/Austrian_Empire : 94.703884
+http://dbpedia.org/resource/Externality : 95.078885
+http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 95.652305
+http://dbpedia.org/resource/Artois : 95.719992
+http://dbpedia.org/resource/Queens : 95.961072
+http://dbpedia.org/resource/Comte : 96.019348
+http://dbpedia.org/resource/Messages_%28OMD_song%29 : 96.074791
+http://dbpedia.org/resource/The_Passage_%28film%29 : 96.872183
+http://dbpedia.org/resource/Troubles_%28novel%29 : 96.990344
+http://dbpedia.org/resource/Globalization : 97.165038
+http://dbpedia.org/resource/1990s : 97.273254
+http://dbpedia.org/resource/June_8 : 97.494657
+http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 97.806956
+http://dbpedia.org/resource/August_26 : 98.054317
+http://dbpedia.org/resource/July_14 : 98.154083
+http://dbpedia.org/resource/Enoch_Poor : 98.777113
+http://dbpedia.org/resource/Negotiation : 135.034986
+http://dbpedia.org/resource/July_1 : 135.199841
+http://dbpedia.org/resource/20th_century : 136.292567
+http://dbpedia.org/resource/June_10 : 137.314556
+http://dbpedia.org/resource/Estates_of_the_realm : 170.969469
+http://dbpedia.org/resource/North_America : 193.225499
+http://dbpedia.org/resource/Court_%28royal%29 : 193.880523
+http://dbpedia.org/resource/Dauphin%C3%A9 : 194.485040
+http://dbpedia.org/resource/Marxism : 194.561208
+http://dbpedia.org/resource/Parlement : 194.588858
+http://dbpedia.org/resource/Low_Countries : 194.636716
+http://dbpedia.org/resource/Italian_Peninsula : 194.818865
+http://dbpedia.org/resource/Libertarianism : 195.000406
+http://dbpedia.org/resource/The_Guard_%282001_film%29 : 196.241053
+http://dbpedia.org/resource/American_Revolutionary_War : 212.074963
+http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 213.890595
+http://dbpedia.org/resource/National_Constituent_Assembly : 218.061315
+http://dbpedia.org/resource/Forced_disappearance : 219.051638
+http://dbpedia.org/resource/The_West_Australian : 219.403271
+http://dbpedia.org/resource/Woman : 220.337663
+http://dbpedia.org/resource/Tina_Arena : 220.784749
+http://dbpedia.org/resource/1780s : 220.832228
+http://dbpedia.org/resource/House_of_Bourbon : 273.650490
+http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 274.098350
+http://dbpedia.org/resource/Bastille : 274.170299
+http://dbpedia.org/resource/Bourbon_Restoration : 274.715141
+http://dbpedia.org/resource/Reign_of_Terror : 274.824139
+http://dbpedia.org/resource/Committee_of_Public_Safety : 277.118047
+http://dbpedia.org/resource/French_Consulate : 290.893588
+http://dbpedia.org/resource/Marie_Antoinette : 306.251293
+http://dbpedia.org/resource/Abolitionism : 311.622834
+http://dbpedia.org/resource/Storming_of_the_Bastille : 352.338883
+http://dbpedia.org/resource/Jacques_Necker : 383.808658
+http://dbpedia.org/resource/18_Brumaire : 391.235097
+http://dbpedia.org/resource/Communes_of_France : 392.850283
+http://dbpedia.org/resource/Palace_of_Versailles : 394.833175
+http://dbpedia.org/resource/French_Revolutionary_Wars : 403.406009
+http://dbpedia.org/resource/Estates-General_of_1789 : 403.909267
+http://dbpedia.org/resource/French_Directory : 404.159292
+http://dbpedia.org/resource/Government_of_France : 404.484454
+http://dbpedia.org/resource/Tennis_Court_Oath : 410.056328
+http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 410.672227
+http://dbpedia.org/resource/Louis_XVI_of_France : 428.552203
+http://dbpedia.org/resource/Thermidorian_Reaction : 440.681546
+http://dbpedia.org/resource/Napoleon : 482.981592
+http://dbpedia.org/resource/Paris : 483.623722
+http://dbpedia.org/resource/French_and_Indian_War : 488.530757
+http://dbpedia.org/resource/Maximilien_Robespierre : 491.948943
+http://dbpedia.org/resource/Confederation_of_the_Rhine : 503.193420
+http://dbpedia.org/resource/Main_%28river%29 : 528.856766
+http://dbpedia.org/resource/Jacques-Louis_David : 531.280260
+http://dbpedia.org/resource/Jacobin_%28politics%29 : 557.650123
+http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 573.778151
+http://dbpedia.org/resource/French_Navy : 592.071207
+http://dbpedia.org/resource/French_Armed_Forces : 593.630905
+http://dbpedia.org/resource/Napoleonic_Wars : 595.897636
+http://dbpedia.org/resource/Guttural_R : 601.825336
+http://dbpedia.org/resource/First_French_Empire : 782.243777
+http://dbpedia.org/resource/France_Bu%C4%8Dar : 785.904494
+http://dbpedia.org/resource/Napoleon_%28coin%29 : 787.795561
+http://dbpedia.org/resource/French_people : 1786.530225
+http://dbpedia.org/resource/French_Revolution : 3197.519938
+0deltas terms:
+practic : 0.000008
+interrupt : 0.000041
+premier : 0.000041
+standard : 0.000041
+duchi : 0.000057
+minut : 0.000082
+everydai : 0.000185
+knowledg : 0.000245
+heredia : 0.000246
+substant : 0.000246
+centum : 0.000246
+anglic : 0.000246
+overrid : 0.000290
+elev : 0.000389
+highli : 0.000449
+swedish : 0.000449
+hardcor : 0.000449
+kerrang : 0.000449
+come : 0.000449
+vocalist : 0.000449
+denni : 0.000449
+lyxz : 0.000449
+nnstr : 0.000449
+bassist : 0.000449
+pukkelpop : 0.000449
+hellfest : 0.000449
+primavera : 0.000449
+kristof : 0.000449
+steen : 0.000449
+drummer : 0.000449
+sandstr : 0.000449
+lyric : 0.000449
+conformist : 0.000449
+await : 0.000449
+rock : 0.000449
+download : 0.000449
+cancel : 0.000449
+sonispher : 0.000449
+groezrock : 0.000449
+reunion : 0.000449
+roskild : 0.000449
+coachella : 0.000449
+confirm : 0.000449
+reunit : 0.000449
+explicit : 0.000449
+contest : 0.000449
+receiv : 0.000477
+centuria : 0.000491
+mercenari : 0.000505
+context : 0.000513
+note : 0.000513
+past : 0.000513
+likelihood : 0.000513
+proport : 0.000513
+bench : 0.000513
+treasuri : 0.000513
+reoccup : 0.000513
+tendenc : 0.000513
+exchang : 0.000513
+charad : 0.000513
+degener : 0.000513
+recognis : 0.000513
+gravit : 0.000513
+countersign : 0.000563
+closer : 0.000563
+intosai : 0.000563
+overse : 0.000563
+monitor : 0.000563
+supervis : 0.000563
+shut : 0.000668
+involv : 0.000677
+descart : 0.000728
+front : 0.000733
+altern : 0.000758
+restrict : 0.000830
+hope : 0.000865
+punk : 0.000899
+guitarist : 0.000899
+itali : 0.000980
+beverag : 0.001001
+tabl : 0.001001
+option : 0.001001
+guest : 0.001001
+restaur : 0.001001
+present : 0.001001
+cart : 0.001001
+healthi : 0.001014
+auditor : 0.001126
+audit : 0.001126
+consult : 0.001218
+realm : 0.001292
+erupt : 0.001422
+troop : 0.001422
+theater : 0.001422
+monongahela : 0.001422
+allegheni : 0.001422
+confluenc : 0.001422
+frontier : 0.001422
+scotia : 0.001422
+nova : 0.001422
+virginia : 0.001422
+conqu : 0.001422
+guerr : 0.001422
+lean : 0.001433
+tabloid : 0.001433
+perth : 0.001433
+sundai : 0.001433
+current : 0.001464
+cycl : 0.001544
+spark : 0.001648
+coordin : 0.001661
+offic : 0.001734
+zone : 0.001773
+liquid : 0.001773
+droplet : 0.001773
+vapor : 0.001773
+graviti : 0.001773
+compon : 0.001773
+deposit : 0.001773
+fresh : 0.001773
+suitabl : 0.001773
+mountai : 0.001773
+ecosystem : 0.001773
+hydroelectr : 0.001773
+plant : 0.001773
+crop : 0.001773
+irrig : 0.001773
+dimension : 0.001773
+rainfal : 0.001773
+vertic : 0.001773
+moist : 0.001773
+rainband : 0.001773
+narrow : 0.001773
+thunder : 0.001773
+cumulonimbu : 0.001773
+terrain : 0.001773
+windward : 0.001773
+convect : 0.001773
+maxim : 0.001773
+upslop : 0.001773
+mountain : 0.001773
+festiv : 0.001797
+someth : 0.001825
+elba : 0.001933
+heard : 0.001971
+menu : 0.002002
+indian : 0.002100
+unlik : 0.002112
+adult : 0.002112
+phrase : 0.002112
+girl : 0.002112
+adolesc : 0.002112
+repli : 0.002179
+swiss : 0.002179
+serv : 0.002375
+foreign : 0.002432
+exclud : 0.002530
+virgin : 0.002535
+budget : 0.002561
+site : 0.002663
+affair : 0.002696
+season : 0.002813
+british : 0.002878
+declin : 0.002906
+report : 0.003005
+colour : 0.003020
+heritag : 0.003044
+ancestri : 0.003044
+ethnogenesi : 0.003044
+stress : 0.003044
+etho : 0.003044
+issu : 0.003069
+viii : 0.003153
+eighteenth : 0.003153
+fact : 0.003153
+personag : 0.003153
+reinforc : 0.003153
+farc : 0.003153
+appear : 0.003153
+forgot : 0.003153
+tragedi : 0.003153
+nephew : 0.003153
+achtzehnt : 0.003153
+quot : 0.003153
+hegel : 0.003153
+remark : 0.003153
+despit : 0.003182
+hemispher : 0.003205
+sole : 0.003306
+backbench : 0.003323
+frontbench : 0.003323
+charl : 0.003475
+condens : 0.003547
+cloud : 0.003547
+upward : 0.003547
+trend : 0.003669
+columbian : 0.003669
+high : 0.003669
+literari : 0.003669
+nobleman : 0.003669
+regularli : 0.003669
+servant : 0.003669
+emploi : 0.003669
+demand : 0.003940
+alexandr : 0.004028
+split : 0.004044
+ship : 0.004047
+constituant : 0.004047
+laun : 0.004284
+student : 0.004284
+physiocrat : 0.004284
+quesnai : 0.004284
+francoi : 0.004284
+economist : 0.004284
+baron : 0.004284
+rememb : 0.004284
+defend : 0.004338
+encompass : 0.004487
+turgot : 0.004509
+administr : 0.004715
+moistur : 0.004768
+grand : 0.005049
+bolster : 0.005183
+rain : 0.005320
+revok : 0.005359
+pass : 0.005359
+appointe : 0.005359
+alien : 0.005359
+sovereignti : 0.005359
+attach : 0.005359
+indivis : 0.005359
+presidenti : 0.005359
+senat : 0.005359
+censur : 0.005359
+congress : 0.005460
+gradual : 0.005460
+galvan : 0.005460
+boston : 0.005460
+boycott : 0.005460
+loyal : 0.005460
+stamp : 0.005460
+unconstitut : 0.005460
+unifi : 0.005460
+insist : 0.005460
+illeg : 0.005460
+commonwealth : 0.005511
+assembl : 0.005685
+indoor : 0.005723
+nearbi : 0.005723
+post : 0.005736
+formal : 0.005815
+speak : 0.005924
+climat : 0.005981
+christian : 0.006048
+debret : 0.006057
+architect : 0.006057
+opera : 0.006057
+choiseul : 0.006057
+advoc : 0.006249
+rome : 0.006269
+woman : 0.006335
+femal : 0.006335
+releas : 0.006360
+seri : 0.006408
+march : 0.006438
+philosoph : 0.006486
+linguist : 0.006489
+believ : 0.006630
+manag : 0.006845
+critic : 0.007084
+theatr : 0.007125
+build : 0.007241
+african : 0.007426
+partisan : 0.007426
+desir : 0.007426
+disproportion : 0.007426
+alleg : 0.007426
+hinder : 0.007426
+help : 0.007426
+extend : 0.007603
+albon : 0.007675
+viennoi : 0.007675
+depart : 0.007675
+haut : 0.007675
+dauphini : 0.007675
+grenobl : 0.007675
+vienn : 0.007675
+valenc : 0.007675
+mont : 0.007675
+limar : 0.007675
+dauphinoi : 0.007675
+fail : 0.007688
+cathol : 0.007721
+friedland : 0.007733
+tilsit : 0.007733
+bloodsh : 0.007733
+poland : 0.007733
+partement : 0.007733
+warsaw : 0.007733
+presenc : 0.007733
+prussia : 0.007733
+infal : 0.007868
+mission : 0.007868
+gospel : 0.007868
+sacrament : 0.007868
+chariti : 0.007868
+civilis : 0.007868
+apostl : 0.007868
+dogmat : 0.007868
+worship : 0.007868
+eucharist : 0.007868
+bread : 0.007868
+wine : 0.007868
+blood : 0.007868
+bless : 0.007868
+mother : 0.007868
+birth : 0.008006
+necker : 0.008258
+invas : 0.008356
+moscow : 0.008356
+unpreced : 0.008356
+revolutionis : 0.008356
+entranc : 0.008356
+invulner : 0.008356
+beat : 0.008356
+applic : 0.008356
+retreat : 0.008356
+scale : 0.008356
+conscript : 0.008356
+triumph : 0.008356
+rose : 0.008356
+suffer : 0.008356
+rapidli : 0.008356
+conquer : 0.008356
+disastr : 0.008356
+omer : 0.008396
+arra : 0.008396
+princip : 0.008396
+thune : 0.008396
+elector : 0.008514
+sell : 0.008683
+singer : 0.008683
+russia : 0.008744
+southwest : 0.008764
+suburb : 0.008764
+villag : 0.008764
+kilometr : 0.008764
+rheinbund : 0.008767
+alexand : 0.008767
+pressburg : 0.008767
+creation : 0.008767
+membership : 0.008966
+transit : 0.009100
+sicili : 0.009120
+without : 0.009178
+tier : 0.009215
+parlement : 0.009223
+angola : 0.009240
+coast : 0.009240
+japan : 0.009240
+pakistan : 0.009240
+libya : 0.009240
+sudan : 0.009240
+mauritania : 0.009240
+romania : 0.009240
+bondag : 0.009240
+anti : 0.009240
+seychel : 0.009240
+gallei : 0.009240
+traffick : 0.009240
+somalia : 0.009240
+peonag : 0.009240
+blackbird : 0.009240
+raid : 0.009240
+korea : 0.009240
+iran : 0.009240
+kholop : 0.009240
+thrall : 0.009240
+penal : 0.009240
+judaism : 0.009240
+islam : 0.009240
+greec : 0.009240
+bartolom : 0.009240
+wage : 0.009240
+aztec : 0.009240
+brazil : 0.009240
+barbari : 0.009240
+bhutan : 0.009240
+casa : 0.009240
+bangladesh : 0.009240
+wedgwood : 0.009240
+topic : 0.009240
+josiah : 0.009240
+unfre : 0.009240
+priest : 0.009240
+sexual : 0.009240
+particip : 0.009367
+douai : 0.009508
+plummet : 0.009508
+reput : 0.009508
+handpick : 0.009508
+vicomt : 0.009508
+recess : 0.009515
+game : 0.009515
+match : 0.009515
+maastricht : 0.009515
+secretari : 0.009515
+margaret : 0.009515
+acib : 0.009515
+chancellor : 0.009515
+huntingdon : 0.009515
+notori : 0.009515
+exchequ : 0.009515
+expect : 0.009515
+backseat : 0.009515
+mild : 0.009515
+consecut : 0.009515
+confront : 0.009515
+gulf : 0.009515
+deputi : 0.009533
+succeed : 0.009554
+longer : 0.009707
+statesman : 0.009740
+commerci : 0.009772
+institut : 0.009789
+costli : 0.009905
+loss : 0.009905
+built : 0.009951
+provinci : 0.009998
+chamber : 0.010043
+peac : 0.010116
+bargain : 0.010116
+hostag : 0.010116
+buyout : 0.010116
+parent : 0.010116
+profit : 0.010116
+craft : 0.010116
+leverag : 0.010116
+studi : 0.010116
+agreement : 0.010116
+profession : 0.010116
+satisfi : 0.010116
+understand : 0.010116
+divorc : 0.010116
+resolv : 0.010116
+presum : 0.010128
+parisian : 0.010128
+meet : 0.010194
+remain : 0.010222
+judiciari : 0.010238
+sortit : 0.010238
+officehold : 0.010238
+allot : 0.010238
+decis : 0.010238
+tool : 0.010238
+chosen : 0.010238
+athen : 0.010238
+archetyp : 0.010238
+oligarch : 0.010238
+introduc : 0.010238
+bourgeoisi : 0.010248
+race : 0.010305
+peak : 0.010472
+subsequ : 0.010606
+retain : 0.010749
+naist : 0.010749
+energi : 0.010749
+environ : 0.010749
+teachta : 0.010749
+businessman : 0.010749
+dick : 0.010749
+richard : 0.010749
+conseil : 0.010756
+sixteenth : 0.010756
+thirteenth : 0.010756
+customari : 0.010756
+registr : 0.010756
+consequ : 0.010756
+regi : 0.010756
+curia : 0.010756
+justic : 0.010756
+increas : 0.010756
+edict : 0.010756
+parlementarian : 0.010756
+time : 0.010858
+star : 0.010865
+ottoman : 0.010987
+driver : 0.011037
+daili : 0.011056
+speech : 0.011078
+unif : 0.011293
+mapl : 0.011293
+insignia : 0.011293
+admir : 0.011293
+marshal : 0.011293
+thoma : 0.011293
+lawson : 0.011293
+shoulder : 0.011293
+sleev : 0.011293
+shirt : 0.011293
+arid : 0.011293
+crea : 0.011293
+legislatur : 0.011352
+sweden : 0.011404
+octob : 0.011521
+chief : 0.011554
+midpoint : 0.011575
+semi : 0.011798
+length : 0.011891
+legisl : 0.011893
+telecommun : 0.012037
+interact : 0.012037
+distanc : 0.012037
+overland : 0.012037
+silk : 0.012037
+compress : 0.012037
+vehicl : 0.012037
+airlin : 0.012037
+faster : 0.012037
+phone : 0.012037
+globalis : 0.012037
+rial : 0.012115
+repres : 0.012329
+flow : 0.012489
+friend : 0.012555
+bodi : 0.012656
+special : 0.012699
+minist : 0.012747
+refus : 0.012860
+economi : 0.013039
+colonist : 0.013196
+provinc : 0.013404
+child : 0.013489
+frequent : 0.013649
+pioneer : 0.013664
+rang : 0.013837
+start : 0.014078
+ideologi : 0.014086
+parliament : 0.014191
+verifi : 0.014192
+life : 0.014317
+order : 0.014335
+compos : 0.014471
+born : 0.014491
+prolifer : 0.014581
+architectureestablish : 0.014581
+technologi : 0.014581
+info : 0.014581
+invalid : 0.014581
+abbrevi : 0.014581
+tenth : 0.014581
+nineteen : 0.014581
+dawn : 0.014581
+dissolut : 0.014581
+neoliber : 0.014581
+combin : 0.014581
+predat : 0.014581
+lost : 0.014587
+newli : 0.014653
+racial : 0.014852
+found : 0.014962
+interest : 0.015273
+rium : 0.015351
+crit : 0.015351
+proce : 0.015572
+when : 0.015634
+tilt : 0.015724
+sunlight : 0.015724
+tropospher : 0.015724
+plane : 0.015724
+orbit : 0.015724
+averag : 0.015724
+qualif : 0.015724
+driven : 0.015724
+cloudi : 0.015724
+densiti : 0.015724
+spot : 0.015724
+polar : 0.015724
+stormi : 0.015724
+calm : 0.015724
+cyclon : 0.015724
+instabl : 0.015724
+incid : 0.015724
+cold : 0.015724
+extratrop : 0.015724
+stratospher : 0.015724
+jesu : 0.015737
+week : 0.015856
+open : 0.015964
+robert : 0.016122
+shanti : 0.016181
+sharman : 0.016181
+malayalam : 0.016181
+kalabhavan : 0.016181
+screen : 0.016181
+lone : 0.016181
+debutant : 0.016181
+shyam : 0.016181
+hakim : 0.016181
+letter : 0.016181
+biju : 0.016181
+background : 0.016181
+rawther : 0.016181
+mannoor : 0.016181
+nathan : 0.016181
+artwork : 0.016181
+hindi : 0.016181
+guin : 0.016181
+fewest : 0.016181
+narr : 0.016181
+crew : 0.016181
+later : 0.016181
+kannada : 0.016181
+cast : 0.016181
+sabitha : 0.016181
+jayaraj : 0.016181
+venugop : 0.016181
+saloo : 0.016181
+banner : 0.016181
+cinematographi : 0.016181
+entri : 0.016181
+green : 0.016181
+dragon : 0.016181
+movi : 0.016181
+kerala : 0.016181
+ksfdc : 0.016181
+yaadein : 0.016181
+legal : 0.016243
+figur : 0.016437
+organis : 0.016469
+landtag : 0.016587
+signifi : 0.016587
+finland : 0.016587
+clergymen : 0.016587
+spent : 0.016618
+turf : 0.016709
+fuel : 0.016709
+firewood : 0.016709
+graze : 0.016709
+livestock : 0.016709
+manori : 0.016709
+tenant : 0.016709
+access : 0.016709
+partit : 0.016709
+purpos : 0.016791
+freedom : 0.016802
+dissolv : 0.016944
+afraid : 0.016961
+constitu : 0.017007
+incumb : 0.017017
+parish : 0.017077
+arrondiss : 0.017077
+lowest : 0.017077
+incorpor : 0.017077
+exact : 0.017077
+gemeinden : 0.017077
+closest : 0.017077
+hamlet : 0.017077
+township : 0.017077
+truth : 0.017158
+reveal : 0.017158
+scriptur : 0.017158
+primaci : 0.017158
+affirm : 0.017158
+protestant : 0.017158
+grace : 0.017158
+fide : 0.017158
+command : 0.017158
+gratia : 0.017158
+scriptura : 0.017158
+ecclesiologi : 0.017158
+salvat : 0.017158
+broadli : 0.017158
+conven : 0.017227
+soldier : 0.017305
+conf : 0.017535
+rhin : 0.017535
+emperor : 0.017543
+reach : 0.017547
+forum : 0.017607
+word : 0.017609
+brother : 0.017651
+faction : 0.017681
+rival : 0.017681
+peasantri : 0.017722
+hierarch : 0.017722
+recogn : 0.017722
+scheme : 0.017722
+royalti : 0.017722
+settl : 0.017722
+prestigi : 0.017722
+burgher : 0.017722
+powerless : 0.017722
+slow : 0.017722
+lifetim : 0.017722
+highest : 0.017722
+posi : 0.017722
+talent : 0.017869
+actress : 0.017869
+worldwid : 0.017869
+judg : 0.017869
+songwrit : 0.017869
+lydia : 0.017869
+filippina : 0.017869
+reboot : 0.017869
+aria : 0.017869
+young : 0.017869
+calendar : 0.017874
+foremost : 0.017895
+dominion : 0.017895
+discoveri : 0.017895
+swai : 0.017895
+quarter : 0.017895
+legaci : 0.017895
+globe : 0.017895
+shine : 0.017895
+mandat : 0.017895
+oversea : 0.017895
+protector : 0.017895
+enmiti : 0.017910
+manner : 0.017944
+pope : 0.017950
+diplomat : 0.018088
+acad : 0.018172
+peleti : 0.018172
+musiqu : 0.018172
+china : 0.018479
+india : 0.018479
+abolition : 0.018479
+battl : 0.018492
+cutif : 0.018522
+switzerland : 0.018522
+character : 0.018522
+decor : 0.018522
+fructidor : 0.018522
+director : 0.018522
+directeur : 0.018522
+disput : 0.018555
+inhabit : 0.018712
+town : 0.018712
+alli : 0.019008
+wide : 0.019040
+tributari : 0.019066
+amount : 0.019092
+quatorz : 0.019092
+conservat : 0.019092
+protocol : 0.019092
+archaic : 0.019092
+exacerb : 0.019092
+invad : 0.019092
+consumm : 0.019092
+interven : 0.019092
+contain : 0.019092
+inmat : 0.019092
+flashpoint : 0.019092
+juillet : 0.019092
+rebellion : 0.019343
+district : 0.019372
+improv : 0.019821
+compromis : 0.019879
+fear : 0.019909
+abandon : 0.019989
+crise : 0.019989
+treati : 0.020125
+reject : 0.020215
+notion : 0.020215
+dialogu : 0.020232
+outcom : 0.020232
+dialect : 0.020241
+fair : 0.020477
+plural : 0.020870
+gypsi : 0.020870
+jewish : 0.020870
+romani : 0.020870
+bulk : 0.020870
+cabinet : 0.021177
+total : 0.021183
+earn : 0.021189
+luxembourg : 0.021259
+nevertheless : 0.021274
+autocrat : 0.021274
+holtman : 0.021274
+evolv : 0.021511
+prevent : 0.021617
+matter : 0.021742
+measur : 0.021821
+confer : 0.021924
+immacul : 0.022476
+belief : 0.022476
+head : 0.022532
+maria : 0.022546
+daughter : 0.022546
+sympathi : 0.022546
+harbor : 0.022546
+promiscu : 0.022546
+proflig : 0.022546
+bitch : 0.022546
+autrichienn : 0.022546
+husband : 0.022546
+dislik : 0.022546
+beauti : 0.022546
+theresa : 0.022546
+charm : 0.022546
+children : 0.022546
+archduchess : 0.022546
+charlott : 0.022546
+fifteenth : 0.022546
+penultim : 0.022546
+empress : 0.022546
+variat : 0.022585
+destin : 0.022585
+dress : 0.022585
+tunic : 0.022585
+cadpat : 0.022585
+action : 0.022630
+code : 0.022784
+ineffici : 0.022854
+burgundian : 0.022855
+singapor : 0.023091
+krishnapur : 0.023091
+memori : 0.023091
+geoffrei : 0.023091
+booker : 0.023091
+grip : 0.023091
+adapt : 0.023091
+storytel : 0.023091
+majest : 0.023091
+hotel : 0.023091
+dilapid : 0.023091
+faber : 0.023091
+sieg : 0.023091
+richardson : 0.023091
+trilogi : 0.023091
+acclaim : 0.023091
+instal : 0.023091
+midst : 0.023091
+charleson : 0.023091
+concern : 0.023287
+petitionari : 0.023310
+step : 0.023310
+carri : 0.023310
+delib : 0.023310
+supplementari : 0.023310
+solut : 0.023442
+problem : 0.023442
+outbreak : 0.023442
+respect : 0.023442
+clash : 0.023442
+impass : 0.023442
+raux : 0.023442
+occup : 0.023524
+teach : 0.023605
+canada : 0.023735
+thing : 0.023823
+rank : 0.023915
+titl : 0.023975
+connect : 0.024075
+road : 0.024075
+result : 0.024224
+well : 0.024426
+challeng : 0.024457
+sourc : 0.024510
+accept : 0.024964
+though : 0.025015
+requir : 0.025589
+overt : 0.025618
+westminst : 0.025790
+addit : 0.025793
+naval : 0.025831
+effect : 0.026017
+minor : 0.026118
+meus : 0.026201
+scheldt : 0.026201
+delta : 0.026201
+nether : 0.026201
+seventeen : 0.026201
+renam : 0.026201
+stronger : 0.026201
+disintegr : 0.026201
+francia : 0.026201
+belgica : 0.026201
+gallia : 0.026201
+slowli : 0.026201
+appropri : 0.026201
+closur : 0.026224
+teau : 0.026293
+navarr : 0.026490
+billion : 0.026529
+urban : 0.026590
+citicorp : 0.026590
+manhattan : 0.026590
+waterfront : 0.026590
+diversifi : 0.026590
+chicago : 0.026590
+angel : 0.026590
+divers : 0.026590
+easternmost : 0.026590
+attend : 0.026617
+privat : 0.026685
+error : 0.026820
+sall : 0.026826
+undertaken : 0.026859
+trade : 0.027079
+construct : 0.027159
+feel : 0.027307
+caribbean : 0.027309
+surfac : 0.027309
+paleoindian : 0.027309
+glacial : 0.027309
+cross : 0.027309
+arctic : 0.027309
+bere : 0.027309
+bridg : 0.027309
+pacif : 0.027309
+subcontin : 0.027309
+kilomet : 0.027309
+southeast : 0.027309
+mile : 0.027309
+link : 0.027312
+citizenri : 0.027312
+synonym : 0.027312
+stateless : 0.027312
+younger : 0.027392
+comt : 0.027392
+labour : 0.027459
+austerlitz : 0.027463
+marriag : 0.027497
+greatli : 0.027658
+socioeconom : 0.027658
+method : 0.027658
+worldview : 0.027658
+sociopolit : 0.027658
+basi : 0.027658
+mode : 0.027658
+sociolog : 0.027658
+engel : 0.027658
+friedrich : 0.027658
+critiqu : 0.027658
+materialist : 0.027658
+inquiri : 0.027658
+exercis : 0.027674
+latin : 0.027694
+massiv : 0.027737
+height : 0.027820
+stem : 0.027903
+depend : 0.027913
+presumpt : 0.027913
+intellig : 0.027913
+discret : 0.027913
+anthropomorph : 0.027913
+easili : 0.027913
+absol : 0.027913
+unattach : 0.027913
+uncondit : 0.027913
+eman : 0.027913
+transcend : 0.027913
+divin : 0.027913
+lend : 0.027913
+loosen : 0.027913
+finit : 0.027913
+nonstop : 0.028001
+acknowledg : 0.028051
+fate : 0.028051
+qualifi : 0.028051
+murder : 0.028051
+acquiesc : 0.028051
+accord : 0.028051
+systemat : 0.028051
+whereabout : 0.028051
+secretli : 0.028051
+crime : 0.028051
+adopt : 0.028051
+impli : 0.028051
+crimin : 0.028051
+internet : 0.028139
+mobil : 0.028139
+evict : 0.028146
+also : 0.028190
+patrol : 0.028233
+valour : 0.028233
+fatherland : 0.028233
+honour : 0.028233
+valeur : 0.028233
+patri : 0.028233
+trace : 0.028233
+abroad : 0.028233
+mainten : 0.028233
+stabil : 0.028233
+aviat : 0.028233
+fusili : 0.028233
+aircraft : 0.028233
+carrier : 0.028233
+submarin : 0.028233
+frigat : 0.028233
+boat : 0.028233
+honneur : 0.028233
+vessel : 0.028233
+motto : 0.028233
+hall : 0.028421
+thatcher : 0.028546
+jame : 0.028593
+atmospher : 0.028628
+session : 0.028897
+horac : 0.029044
+ridicul : 0.029044
+wrote : 0.029044
+collabor : 0.029044
+fellow : 0.029044
+cambridg : 0.029044
+colleg : 0.029044
+scholarship : 0.029044
+patron : 0.029044
+halifax : 0.029044
+schoolfellow : 0.029044
+translat : 0.029044
+read : 0.029044
+here : 0.029044
+channel : 0.029044
+vintner : 0.029044
+uncl : 0.029044
+care : 0.029044
+busbi : 0.029044
+london : 0.029044
+minster : 0.029044
+wimborn : 0.029044
+joiner : 0.029044
+nonconformist : 0.029044
+poet : 0.029044
+matthew : 0.029044
+matt : 0.029044
+cricket : 0.029044
+sussex : 0.029044
+judici : 0.029095
+gabriel : 0.029126
+nineti : 0.029162
+lord : 0.029223
+explor : 0.029731
+portug : 0.029976
+educ : 0.030308
+summer : 0.030378
+winter : 0.030378
+relat : 0.030379
+indefinit : 0.030701
+greatest : 0.030701
+light : 0.030701
+project : 0.030701
+linear : 0.030701
+cone : 0.030701
+inevit : 0.030701
+dimens : 0.030701
+unavoid : 0.030701
+categor : 0.030701
+appar : 0.030701
+temporari : 0.030701
+occident : 0.030701
+anticip : 0.030701
+etern : 0.030701
+portion : 0.030701
+qualiti : 0.030970
+solstic : 0.031088
+devast : 0.031225
+chines : 0.031225
+russian : 0.031225
+japanes : 0.031225
+communist : 0.031225
+inter : 0.031225
+depress : 0.031225
+disrupt : 0.031225
+broke : 0.031225
+chiefli : 0.031225
+superpow : 0.031225
+notabl : 0.031388
+latitud : 0.031447
+stream : 0.031447
+tropic : 0.031447
+angl : 0.031447
+represent : 0.031466
+christ : 0.031473
+statut : 0.031576
+karl : 0.031823
+marx : 0.031823
+between : 0.031867
+weight : 0.032291
+compri : 0.032302
+elizabeth : 0.032317
+sovereign : 0.032317
+outli : 0.032317
+occasion : 0.032317
+ratifi : 0.032317
+scotland : 0.032317
+northwest : 0.032317
+scot : 0.032317
+forest : 0.032362
+arab : 0.032428
+opinion : 0.032630
+promin : 0.032777
+imprison : 0.033107
+outreach : 0.033138
+vision : 0.033138
+platform : 0.033138
+program : 0.033138
+goal : 0.033138
+dispar : 0.033138
+espous : 0.033138
+strateg : 0.033353
+crown : 0.033365
+process : 0.033378
+manor : 0.033417
+credenti : 0.033706
+johnni : 0.033841
+hamilton : 0.033841
+unger : 0.033841
+ferdi : 0.033841
+dagoi : 0.033841
+olli : 0.033841
+studio : 0.033841
+track : 0.033841
+rare : 0.033841
+vega : 0.033841
+jamaican : 0.033841
+heaven : 0.033841
+knockin : 0.033841
+authoris : 0.033841
+dollar : 0.033841
+unabl : 0.033878
+thumbnail : 0.033878
+continu : 0.033937
+maintain : 0.033972
+simpli : 0.034000
+theorist : 0.034035
+booklet : 0.034115
+item : 0.034115
+creas : 0.034115
+stapl : 0.034115
+saddl : 0.034115
+leaflet : 0.034115
+unbound : 0.034115
+paramount : 0.034123
+chang : 0.034123
+municip : 0.034154
+kaiserthum : 0.034173
+oesterreich : 0.034173
+spell : 0.034173
+proclam : 0.034173
+kaisertum : 0.034173
+sterreich : 0.034173
+broken : 0.034173
+make : 0.034201
+priesthood : 0.034317
+australia : 0.034347
+conceiv : 0.034351
+artoi : 0.034399
+politician : 0.034407
+advantag : 0.034503
+specif : 0.034566
+motiv : 0.034620
+approv : 0.034716
+downfal : 0.034722
+salut : 0.034722
+wartim : 0.034722
+twelv : 0.034722
+supervisori : 0.034722
+diminish : 0.034722
+comit : 0.034722
+publish : 0.034742
+pour : 0.034770
+leav : 0.035004
+popularli : 0.035733
+tina : 0.035738
+doubl : 0.036167
+amidst : 0.036476
+consensu : 0.036591
+broad : 0.036693
+realiz : 0.036741
+taxat : 0.036804
+last : 0.036817
+sound : 0.036904
+pertain : 0.037120
+citoyen : 0.037120
+homm : 0.037120
+droit : 0.037120
+valid : 0.037120
+clarat : 0.037120
+arrang : 0.037279
+planet : 0.037338
+sharp : 0.037571
+experi : 0.037571
+compar : 0.037571
+personhood : 0.037571
+conscious : 0.037571
+analyt : 0.037571
+anglo : 0.037571
+psychologi : 0.037571
+relationship : 0.037571
+plausibli : 0.037571
+degre : 0.037639
+thermidor : 0.038076
+chester : 0.038084
+tone : 0.038084
+debut : 0.038084
+version : 0.038084
+howlett : 0.038084
+valentino : 0.038084
+grei : 0.038084
+correctli : 0.038084
+credit : 0.038084
+synthpop : 0.038084
+mike : 0.038084
+incorrectli : 0.038084
+holidai : 0.038184
+bring : 0.038211
+oldest : 0.038359
+differenti : 0.038390
+preced : 0.038453
+ration : 0.038860
+italiana : 0.038905
+boot : 0.038905
+characterist : 0.038905
+calabria : 0.038905
+salento : 0.038905
+gargano : 0.038905
+augustu : 0.038905
+watersh : 0.038905
+coincid : 0.038905
+magra : 0.038905
+rubicon : 0.038905
+tuscan : 0.038905
+emilian : 0.038905
+slope : 0.038905
+nearli : 0.038905
+apart : 0.038905
+marino : 0.038905
+vatican : 0.038905
+addition : 0.038905
+malta : 0.038905
+mediterranean : 0.038905
+balkan : 0.038905
+nicknam : 0.038905
+stival : 0.038905
+iberian : 0.038905
+appenninica : 0.038905
+armi : 0.038989
+carpent : 0.039036
+prepar : 0.039036
+excus : 0.039036
+understood : 0.039050
+phenomena : 0.039050
+april : 0.039172
+collect : 0.039434
+connot : 0.039757
+verif : 0.039828
+choos : 0.040033
+transact : 0.040233
+reap : 0.040233
+proof : 0.040233
+bear : 0.040233
+servic : 0.040233
+incur : 0.040233
+transmit : 0.040233
+spillov : 0.040233
+manufactur : 0.040233
+atlant : 0.040549
+compani : 0.040564
+portrait : 0.040657
+ounc : 0.040657
+diamet : 0.040657
+mint : 0.040657
+shield
+ : 0.040657
+eighteen : 0.040657
+obvers : 0.040657
+weigh : 0.040657
+troi : 0.040657
+gross : 0.040657
+germin : 0.040657
+capit : 0.040686
+integr : 0.040813
+canadian : 0.040932
+name : 0.041013
+household : 0.041122
+vari : 0.041134
+align : 0.041422
+dictat : 0.041422
+chime : 0.041422
+heighten : 0.041422
+sever : 0.041422
+brand : 0.041422
+preemin : 0.041422
+rococo : 0.041422
+frivol : 0.041422
+salon : 0.041422
+strongest : 0.041422
+venetian : 0.041422
+warm : 0.041422
+cerebr : 0.041422
+auster : 0.041422
+copi : 0.041534
+palestinian : 0.041740
+redistribut : 0.042000
+scope : 0.042000
+whatsoev : 0.042000
+stanford : 0.042000
+encyclopedia : 0.042000
+agent : 0.042000
+fulli : 0.042000
+acquir : 0.042000
+woodcock : 0.042000
+doubt : 0.042000
+roderick : 0.042000
+coerciv : 0.042000
+scholar : 0.042000
+denot : 0.042231
+father : 0.042932
+outdoor : 0.043498
+manipul : 0.043524
+millennium : 0.043743
+confeder : 0.043837
+destruct : 0.044064
+peter : 0.044116
+perspect : 0.044308
+incit : 0.044534
+onset : 0.044534
+roland : 0.044534
+violenc : 0.044534
+chemist : 0.044534
+conspiraci : 0.044534
+madam : 0.044534
+beset : 0.044534
+toll : 0.044534
+duke : 0.044534
+lavoisi : 0.044534
+blade : 0.044534
+razor : 0.044534
+summari : 0.044534
+strengthen : 0.044534
+temperatur : 0.044535
+faith : 0.044770
+georg : 0.044937
+interchang : 0.044954
+autr : 0.045092
+chienn : 0.045092
+lambert : 0.045110
+revolt : 0.045110
+trigger : 0.045110
+just : 0.045110
+phase : 0.045110
+supersed : 0.045110
+paul : 0.045110
+barra : 0.045110
+tallien : 0.045110
+joseph : 0.045110
+fouch : 0.045110
+equival : 0.045202
+ensur : 0.045516
+nobl : 0.045664
+dispers : 0.045691
+harvest : nan
+culott : nan
+disast : nan
+humbl : nan
+meanwhil : nan
+incom : nan
+burden : nan
+shortag : nan
+livr : nan
+comptrollership : nan
+thirti : nan
+wealthi : nan
+suffici : nan
+imposit : nan
+censorship : nan
+clergyman : nan
+everyth : nan
+noth : nan
+plaisir : nan
+arbitr : nan
+unsuccess : nan
+advisor : nan
+riot : nan
+chao : nan
+loot : nan
+roth : nan
+superstit : 0.045691
+intoler : 0.045691
+abus : 0.045691
+baruch : 0.045691
+spinoza : 0.045691
+bayl : 0.045691
+physicist : 0.045691
+isaac : 0.045691
+newton : 0.045691
+invent : 0.045691
+rapid : 0.045691
+foster : 0.045691
+flourish : 0.045691
+romantic : 0.045691
+emot : 0.045691
+fervour : nan
+rhineland : nan
+recruit : nan
+amien : nan
+reckon : nan
+consid : 0.045709
+strawson : 0.045777
+content : 0.045777
+logic : 0.045777
+pattern : 0.045777
+admit : 0.045777
+writer : 0.045777
+ontolog : 0.045777
+implic : 0.045777
+administ : 0.045816
+independ : 0.045869
+farrel : 0.046182
+prize : 0.046182
+slave : 0.046199
+commit : 0.046268
+realiti : 0.046321
+fight : 0.046508
+behest : 0.046512
+budgetari : 0.046621
+procedur : 0.046621
+possess : 0.046722
+austro : 0.047129
+hungarian : 0.047129
+conduct : 0.047167
+perform : 0.047312
+bibl : 0.047685
+oblig : 0.047789
+water : 0.047810
+protect : 0.047996
+corpor : 0.048085
+mediev : 0.048212
+satellit : 0.048258
+bureau : 0.048258
+newscast : 0.048258
+publ : 0.048258
+journalist : 0.048258
+republish : 0.048258
+agenc : 0.048258
+subscrib : 0.048258
+hourli : 0.048258
+network : 0.048258
+stori : 0.048258
+photograph : 0.048258
+enact : 0.048490
+reduc : 0.048785
+contin : 0.048932
+precipit : 0.049289
+classic : 0.049403
+onward : 0.049471
+approach : 0.049471
+tower : 0.049471
+gatewai : 0.049471
+port : 0.049471
+innov : 0.049471
+prove : 0.049471
+crowd : 0.049471
+demolish : 0.049471
+domest : 0.049471
+discuss : 0.049605
+staff : 0.049669
+earth : 0.049841
+document : 0.049896
+offer : 0.049970
+school : 0.050289
+monarch : 0.050342
+appli : 0.050373
+serment : 0.050451
+immedi : 0.050451
+congreg : 0.050451
+solemn : 0.050451
+immin : 0.050451
+anxiou : 0.050451
+worst : 0.050451
+discov : 0.050451
+riqueti : 0.050451
+honor : 0.050451
+room : 0.050451
+makeshift : 0.050451
+reassembl : 0.050451
+circumst : 0.050451
+sign : 0.050451
+pledg : 0.050451
+pivot : 0.050451
+transpir : 0.050451
+paum : 0.050451
+successor : 0.050522
+invit : 0.050556
+door : 0.050579
+occur : 0.051155
+pend : 0.051291
+sola : 0.051475
+justif : 0.051475
+palac : 0.051594
+return : 0.051649
+jointli : 0.052012
+european : 0.052299
+naturali : 0.052363
+lieu : 0.052363
+avoir : 0.052363
+faut : 0.052363
+domicili : 0.052363
+lotharingia : 0.052403
+reserv : 0.053027
+secur : 0.053033
+ordain : 0.053165
+brooklyn : 0.053181
+unpopular : 0.053405
+award : 0.053606
+level : 0.053673
+comptrol : 0.053720
+where : 0.054041
+prime : 0.054225
+belgium : 0.054616
+wholli : 0.054619
+squar : 0.054619
+famili : 0.054655
+correspond : 0.054712
+autonomi : 0.054712
+suprem : 0.055158
+marxian : 0.055316
+mind : 0.055429
+perman : 0.055472
+share : 0.055645
+hold : 0.055654
+compris : 0.055984
+enforc : 0.056102
+abduct : 0.056102
+victim : 0.056102
+proper : 0.056118
+normal : 0.056118
+norwai : 0.056118
+southernmost : 0.056118
+denmark : 0.056118
+coron : 0.056118
+articulatori : 0.056118
+phonem : 0.056118
+alveolar : 0.056118
+uvular : 0.056118
+charact : 0.056118
+unicod : 0.056118
+question : 0.056118
+render : 0.056118
+phonet : 0.056118
+maritim : 0.056467
+disciplin : 0.056467
+blue : 0.056467
+resourc : 0.056979
+market : 0.057194
+deleg : 0.057207
+behalf : 0.057207
+ethnic : 0.057382
+defenc : 0.057396
+antoin : 0.057581
+attempt : 0.057725
+religion : 0.058011
+mous : 0.058087
+dorset : 0.058087
+earl : 0.058087
+financ : 0.058115
+australian : 0.058157
+decad : 0.058324
+victor : 0.058801
+determin : 0.059078
+disestablish : 0.059218
+full : 0.059319
+famou : 0.059458
+seigneuri : 0.059777
+morn : 0.059820
+novemb : 0.059837
+antiqu : 0.059903
+habsburg : 0.060015
+eastern : 0.060894
+reflect : 0.061143
+mechan : 0.061258
+male : 0.061351
+naturalis : 0.061351
+vote : 0.061992
+democrat : 0.062191
+soviet : 0.062449
+shortli : 0.062449
+after : 0.062517
+free : 0.062549
+situat : 0.062719
+except : 0.062806
+protest : 0.062939
+base : 0.063442
+spring : 0.063515
+government : 0.063548
+host : 0.063610
+headquart : 0.063610
+sein : 0.063610
+heart : 0.063610
+parisienn : 0.063610
+unchang : 0.063610
+oecd : 0.063610
+commerc : 0.063610
+creat : 0.063703
+freeli : 0.063724
+chairman : 0.063724
+jambrek : 0.063724
+slovenia : 0.063724
+expert : 0.063724
+complet : 0.063811
+chef : 0.064961
+strike : 0.064961
+asia : 0.066142
+east : 0.066262
+thought : 0.066930
+client : 0.066993
+deliber : 0.067187
+struggl : 0.067236
+regim : 0.067578
+neoclass : 0.067578
+chart : 0.067681
+sampl : 0.067681
+condit : 0.067782
+need : 0.067871
+then : 0.068180
+exclus : 0.068221
+fold : 0.068230
+thousand : 0.068234
+there : 0.068278
+varieti : 0.068311
+oligarchi : 0.068335
+suppos : 0.068335
+tyrann : 0.068335
+preserv : 0.068335
+ceas : 0.068335
+million : 0.068528
+appoint : 0.068608
+entertain : 0.068618
+builder : 0.068887
+exet : 0.068887
+hampshir : 0.068887
+enoch : 0.068887
+brigadi : 0.068887
+merchant : 0.068887
+isidor : 0.068984
+penalti : 0.068984
+possibl : 0.068984
+fayett : 0.068984
+arrest : 0.068984
+unimpos : 0.068984
+attir : 0.068984
+lawyer : 0.068984
+rousseau : 0.068984
+montesquieu : 0.068984
+locat : 0.069073
+assert : 0.069176
+roughli : 0.069285
+physic : 0.069354
+debt : 0.069554
+death : 0.069578
+argu : 0.069600
+small : 0.069603
+liberti : 0.069603
+endors : 0.069885
+poor : 0.069950
+publicli : 0.070007
+regist : 0.070007
+expressli : 0.070007
+upper : 0.070007
+spend : 0.070007
+revenu : 0.070007
+technic : 0.070007
+donor : 0.070007
+super : 0.070007
+disclos : 0.070007
+regul : 0.070007
+serfdom : 0.070041
+civilian : 0.070401
+opposit : 0.070450
+voluntari : 0.070466
+swear : 0.070563
+shock : 0.070894
+divis : 0.071537
+troubl : 0.071607
+expenditur : 0.072397
+precis : 0.072687
+regard : 0.072705
+direct : 0.073146
+enemi : 0.073539
+month : 0.073657
+transport : 0.073930
+effort : 0.074597
+rebuilt : 0.074738
+ancient : 0.075100
+observ : 0.075142
+essenc : 0.075142
+object : 0.075142
+entiti : 0.075142
+uniqu : 0.075142
+capabl : 0.075444
+dark : 0.076168
+orchestr : 0.076168
+manoeuvr : 0.076168
+label : 0.076168
+eventu : 0.076272
+lethal : 0.076873
+combat : 0.076873
+relief : 0.076873
+monument : 0.076873
+celebr : 0.076873
+ramess : 0.076873
+pharaoh : 0.076873
+kadesh : 0.076873
+feat : 0.076873
+portrai : 0.076873
+endur : 0.076873
+profess : 0.076873
+aspect : 0.076873
+adject : 0.076873
+imperi : 0.076873
+expans : 0.076873
+junta : 0.076873
+agenda : 0.076873
+actual : 0.076873
+leadership : 0.077070
+stage : 0.077159
+symbol : 0.077611
+vallei : 0.077809
+penisola : 0.077809
+apennin : 0.077809
+point : 0.078393
+seven : 0.078543
+england : 0.078558
+decemb : 0.078952
+univers : 0.079096
+fiscal : 0.079217
+moral : 0.079408
+categori : 0.079433
+candidatur : 0.079594
+prioriti : 0.079594
+target : 0.079594
+directli : 0.079594
+recommend : 0.079594
+drawn : 0.079594
+primari : 0.079594
+cameron : 0.079594
+broaden : 0.079594
+potenti : 0.079594
+peer : 0.079594
+appeal : 0.079687
+select : 0.079757
+counti : 0.079771
+regress : 0.080388
+price : 0.080465
+pollut : 0.080465
+span : 0.080675
+actor : 0.080906
+inaccur : 0.081043
+ireland : 0.081093
+edit : 0.081305
+gram : 0.081314
+pure : 0.081314
+region : 0.081595
+boundari : 0.081631
+focu : 0.082398
+continent : 0.082574
+natur : 0.082656
+paint : 0.082844
+painter : 0.082844
+marxism : 0.082975
+avoid : 0.082977
+signal : 0.083561
+seek : 0.084027
+seat : 0.084630
+prison : 0.084840
+while : 0.085221
+john : 0.085376
+germani : 0.085662
+tast : 0.086057
+academ : 0.086057
+view : 0.086345
+border : 0.086397
+activ : 0.086437
+restructur : 0.086639
+account : 0.086730
+replac : 0.086984
+montagu : 0.087131
+august : 0.087244
+describ : 0.087312
+analysi : 0.087340
+sequenc : 0.087531
+fourth : 0.087586
+labor : 0.087863
+respons : 0.087964
+occas : 0.088613
+reform : 0.088801
+guillotin : 0.089067
+girondin : 0.089067
+philipp : 0.089067
+weather : 0.089211
+uniform : 0.090340
+competit : 0.090570
+lamin : 0.091230
+dead : 0.091230
+setlist : 0.091230
+guarante : 0.091230
+musician : 0.091230
+cardboard : 0.091230
+tape : 0.091230
+grate : 0.091230
+swap : 0.091230
+devot : 0.091230
+slot : 0.091230
+intellectu : 0.091382
+emphasi : 0.091382
+reason : 0.091382
+jacqu : 0.091419
+truthbear : 0.091554
+meaning : 0.091554
+express : 0.091586
+authoritarian : 0.092052
+speaker : 0.094208
+intend : 0.094565
+ocean : 0.094869
+center : 0.095154
+contrast : 0.095212
+part : 0.095570
+national : 0.095953
+station : 0.096517
+cooper : 0.096517
+netherland : 0.096539
+concept : 0.096876
+insurg : 0.097043
+ministri : 0.097123
+even : 0.097139
+franci : 0.097245
+long : 0.097643
+gendarmeri : 0.097880
+usag : 0.098012
+dens : 0.098252
+oper : 0.098279
+hand : 0.098398
+suffrag : 0.098421
+forc : 0.098838
+insid : 0.099296
+nomin : 0.099497
+estim : 0.100500
+howev : 0.100629
+lift : 0.101221
+clear : 0.101240
+south : 0.101428
+allow : 0.101434
+dylan : 0.101522
+world : 0.101540
+album : 0.101708
+commonli : 0.102399
+hungari : 0.102519
+rest : 0.103038
+function : 0.103195
+heir : 0.103197
+possessor : 0.103197
+upris : 0.103197
+interv : 0.103197
+flee : 0.103197
+ghent : 0.103197
+success : 0.103197
+dizzi : 0.103197
+ahead : 0.103197
+triumphantli : 0.103197
+greet : 0.103197
+disord : 0.103197
+forcibl : 0.103197
+depos : 0.103197
+explod : 0.103197
+case : 0.104137
+rico : 0.104364
+puerto : 0.104364
+colon : 0.104364
+wave : 0.104364
+settler : 0.104364
+migrat : 0.104364
+langu : 0.104364
+inadequ : 0.104446
+interpret : 0.104733
+approxim : 0.104816
+neighbor : 0.104959
+borough : 0.106361
+york : 0.106361
+isol : 0.106953
+posit : 0.107326
+parliamentari : 0.107367
+ruler : 0.107828
+unesco : 0.108054
+deal : 0.108328
+bankruptci : 0.108350
+near : 0.108350
+outlai : 0.108350
+outpac : 0.108350
+deni : 0.108567
+disambigu : 0.109211
+wait : 0.109655
+blame : 0.110043
+katherin : 0.110079
+baker : 0.110079
+josephin : 0.110079
+gaull : 0.110079
+proust : 0.110079
+marcel : 0.110079
+curi : 0.110079
+lautrec : 0.110079
+toulous : 0.110079
+henri : 0.110079
+coubertin : 0.110079
+eiffel : 0.110079
+gustav : 0.110079
+vern : 0.110079
+jule : 0.110079
+pasteur : 0.110079
+galoi : 0.110079
+varist : 0.110079
+duma : 0.110079
+hugo : 0.110079
+diderot : 0.110079
+pascal : 0.110079
+blais : 0.110079
+moli : 0.110079
+cartier : 0.110079
+joan : 0.110079
+mosaic : 0.110079
+file : 0.110079
+peoplefran : 0.110079
+redirect : 0.110079
+frenchmen : 0.110079
+francophoni : 0.110079
+ident : 0.110079
+extrem : 0.110244
+announc : 0.110609
+band : 0.110753
+versail : 0.111236
+underestim : 0.111306
+deficit : 0.111306
+place : 0.111695
+britain : 0.111747
+jean : 0.111751
+escal : 0.111763
+indiffer : 0.111763
+paid : 0.111854
+arena : 0.111898
+initi : 0.112001
+gerrymand : 0.112273
+voltair : 0.112569
+pierr : 0.112569
+what : 0.112629
+distinct : 0.112713
+debat : 0.112713
+attack : 0.112770
+join : 0.112899
+vend : 0.114237
+capetian : 0.114237
+napl : 0.114237
+parma : 0.114237
+turn : 0.114237
+both : 0.114237
+line : 0.114237
+extinct : 0.114237
+nineteenth : 0.114237
+philip : 0.114237
+abolish : 0.114574
+space : 0.114687
+oppos : 0.115013
+arriv : 0.115410
+despot : 0.115750
+instrument : 0.115752
+stir : 0.115941
+antoinett : 0.116401
+promot : 0.116613
+mishandl : 0.116638
+nativ : 0.117090
+great : 0.117174
+proceed : 0.117281
+articul : 0.118170
+women : 0.119613
+stumbl : 0.119657
+taill : 0.119657
+tortur : 0.119657
+toler : 0.119657
+hostil : 0.119657
+grandfath : 0.119657
+discont : 0.119657
+grow : 0.119657
+fall : 0.119815
+fundament : 0.119913
+leader : 0.120176
+individu : 0.120385
+extens : 0.120860
+mark : 0.121106
+consum : 0.121183
+food : 0.121223
+belong : 0.121584
+product : 0.121862
+resid : 0.122136
+differ : 0.122335
+their : 0.122892
+overtli : 0.123020
+elect : 0.123375
+intent : 0.123407
+live : 0.124462
+campaign : 0.125242
+gain : 0.125268
+controversi : 0.126148
+guard : 0.126779
+expens : 0.126813
+nuclear : 0.127154
+metropolitan : 0.127220
+human : 0.127364
+concert : 0.127631
+those : 0.128015
+oppon : 0.128015
+older : 0.128276
+holi : 0.128279
+doctrin : 0.128502
+sens : 0.128527
+island : 0.128783
+dismiss : 0.129032
+union : 0.129053
+influenti : 0.129723
+facto : 0.129740
+good : 0.129791
+lock : 0.129934
+media : 0.130235
+crisi : 0.130476
+theori : 0.131578
+stand : 0.132917
+industri : 0.132917
+dissemin : 0.132917
+oral : 0.132917
+fortress : 0.133937
+summon : 0.134101
+real : 0.134447
+awar : 0.134514
+expand : 0.134745
+cach : 0.135501
+ammunit : 0.135501
+broadcast : 0.135770
+centr : 0.135983
+advanc : 0.136624
+privi : 0.136986
+sentenc : 0.137332
+council : 0.137615
+busi : 0.137692
+organ : 0.138218
+cover : 0.138432
+train : 0.138548
+fashion : 0.138861
+provid : 0.138910
+proposit : 0.140348
+lecteur : 0.140492
+face : 0.141142
+marin : 0.141166
+design : 0.141519
+defin : 0.142261
+true : 0.142461
+typic : 0.142637
+irish : 0.142664
+event : 0.143008
+river : 0.144544
+geograph : 0.145237
+refer : 0.146258
+sinc : 0.146838
+demograph : 0.147244
+directoir : 0.148174
+becaus : 0.148387
+throne : 0.149160
+half : 0.150415
+second : 0.150779
+role : 0.151682
+pamphlet : 0.151940
+will : 0.152131
+indecis : 0.154062
+polici : 0.154274
+local : 0.154362
+conserv : 0.154415
+church : 0.154841
+commun : 0.155773
+string : 0.156380
+januari : 0.157451
+senior : 0.157668
+properti : 0.157982
+enjoi : 0.158049
+agre : 0.158877
+cultur : 0.159084
+global : 0.159375
+dauphin : 0.161756
+best : 0.162446
+gold : 0.162627
+smaller : 0.164209
+greater : 0.164693
+distinguish : 0.164976
+storm : 0.165902
+unrel : 0.166951
+jacobit : 0.166951
+jacobean : 0.166951
+incept : 0.166951
+concentr : 0.166951
+pronunci : 0.168355
+claim : 0.168399
+system : 0.168560
+presid : 0.168739
+denomin : 0.170817
+ascend : 0.171459
+entir : 0.171604
+messag : 0.171910
+distribut : 0.172040
+televis : 0.173583
+grew : 0.173813
+undermin : 0.174179
+exagger : 0.174179
+calonn : 0.176297
+factor : 0.178319
+domin : 0.178341
+inform : 0.178696
+associ : 0.179694
+night : 0.182460
+tour : 0.182460
+film : 0.185840
+northern : 0.187845
+common : 0.190120
+weaken : 0.190537
+dominican : 0.192001
+contemporari : 0.192001
+contribut : 0.193841
+spanish : 0.194755
+numer : 0.199662
+colloqui : 0.199828
+earlier : 0.201733
+imag : 0.205111
+royal : 0.205879
+civil : 0.206394
+africa : 0.206502
+north : 0.208688
+princ : 0.211018
+separ : 0.211779
+fire : 0.213141
+motion : 0.214894
+final : 0.215610
+definit : 0.215852
+origin : 0.219157
+fill : 0.219364
+perceiv : 0.221284
+mari : 0.223277
+guttur : 0.224473
+rhotic : 0.224473
+branch : 0.225543
+area : 0.225874
+saint : 0.226041
+american : 0.227051
+philosophi : 0.227414
+austria : 0.227748
+dynasti : 0.228474
+cond : 0.228474
+conti : 0.228474
+cadet : 0.228474
+land : 0.228942
+some : 0.228945
+mean : 0.229335
+divid : 0.232644
+weapon : 0.233778
+peopl : 0.236806
+navi : 0.241023
+usual : 0.242879
+coin : 0.243941
+follow : 0.246953
+america : 0.247153
+format : 0.248326
+record : 0.251188
+began : 0.251473
+slovenian : 0.254895
+citizen : 0.257323
+gener : 0.259210
+serial : 0.264112
+sold : 0.264520
+audienc : 0.265834
+simpl : 0.268001
+root : 0.269435
+compil : 0.279494
+press : 0.280344
+conson : 0.280591
+benefit : 0.281629
+person : 0.282126
+hillbilli : 0.283527
+cowboi : 0.283527
+folk : 0.283527
+ballad : 0.283527
+danc : 0.283527
+tune : 0.283527
+harmoni : 0.283527
+accompani : 0.283527
+banjo : 0.283527
+rush : 0.283527
+hour : 0.283527
+listen : 0.283527
+electr : 0.283527
+acoust : 0.283527
+subgenr : 0.283527
+harmonica : 0.283527
+fiddl : 0.283527
+guitar : 0.283527
+turnout : 0.283980
+statu : 0.286390
+parti : 0.289292
+restor : 0.290314
+form : 0.290415
+widespread : 0.291242
+movement : 0.292552
+call : 0.293221
+libertarian : 0.293999
+newspap : 0.295178
+type : 0.295536
+slaveri : 0.295948
+southeastern : 0.296592
+todai : 0.303436
+prefer : 0.305752
+although : 0.307679
+limit : 0.308265
+novel : 0.308690
+number : 0.308960
+overthrow : 0.313126
+futur : 0.314926
+hundr : 0.318762
+section : 0.318774
+thwart : 0.321276
+exampl : 0.322981
+candid : 0.323304
+financi : 0.323343
+hous : 0.323867
+solv : 0.324723
+monei : 0.324723
+blank : 0.325893
+bookstor : 0.325893
+bookshop : 0.325893
+bought : 0.325893
+shop : 0.325893
+bookworm : 0.325893
+bibliophil : 0.325893
+reader : 0.325893
+avid : 0.325893
+biographi : 0.325893
+journal : 0.325893
+monograph : 0.325893
+hing : 0.325893
+fasten : 0.325893
+parchment : 0.325893
+heavi : 0.326401
+juli : 0.329684
+lower : 0.331310
+februari : 0.331900
+german : 0.334282
+magazin : 0.334684
+grievanc : 0.334756
+cahier : 0.334756
+reaction : 0.342877
+style : 0.351567
+influenc : 0.352244
+text : 0.354577
+librari : 0.355919
+borrow : 0.356243
+citi : 0.375560
+club : 0.375970
+consist : 0.376358
+kingdom : 0.384321
+often : 0.390476
+convent : 0.396288
+spain : 0.400037
+strong : 0.411418
+nobil : 0.415646
+propos : 0.423544
+thermidorian : 0.427326
+produc : 0.436618
+popul : 0.441989
+reign : 0.444909
+cost : 0.445105
+materi : 0.446047
+paper : 0.479295
+exist : 0.490825
+southern : 0.503292
+print : 0.503726
+radio : 0.519613
+terror : 0.523058
+side : 0.524259
+thei : 0.525657
+western : 0.526255
+scienc : 0.531708
+plai : 0.546376
+subject : 0.562679
+higher : 0.567053
+commut : 0.567053
+lead : 0.572719
+genr : 0.576417
+largest : 0.582888
+song : 0.598464
+artist : 0.599887
+includ : 0.617112
+militari : 0.635082
+illustr : 0.651785
+leaf : 0.651785
+literatur : 0.651785
+exempt : 0.657120
+offici : 0.667819
+intern : 0.682893
+sheet : 0.685774
+electron : 0.689336
+feder : 0.695151
+singl : 0.733119
+languag : 0.777588
+pari : 0.821318
+written : 0.883789
+unit : 0.901524
+english : 1.104133
+work : 1.138026
+bourbon : 1.218478
+list : 1.229413
+music : 4.040652
+book : 5.874474
+govern : 89.346899
+state : 90.303753
+member : 92.017249
+countri : 92.267636
+bastil : 92.984461
+other : 93.026005
+power : 93.087061
+right : 93.493344
+support : 93.539360
+main : 94.279322
+articl : 94.761744
+june : 94.784342
+held : 94.949942
+popular : 95.214594
+declar : 95.399889
+term : 95.453676
+mani : 95.541274
+take : 95.593017
+coalit : 95.634153
+negoti : 95.680540
+three : 95.998609
+robespierr : 96.074846
+jacobin : 96.097586
+defeat : 96.116709
+public : 96.147736
+clergi : 96.339786
+liber : 96.478265
+assum : 96.534431
+bonapart : 96.607096
+move : 96.623172
+coloni : 96.625025
+absolut : 96.664159
+ideal : 96.825835
+militarili : 96.826126
+david : 96.924732
+siei : 96.958062
+committe : 97.000024
+author : 97.075179
+resent : 97.245699
+west : 97.246959
+constitut : 97.343088
+rhine : 97.372077
+control : 97.395597
+brought : 97.397855
+econom : 97.398174
+albeit : 97.399258
+sketch : 97.424149
+rule : 97.432044
+abolit : 97.493187
+queen : 97.532605
+maximilien : 97.536128
+major : 97.555142
+passag : 97.563667
+agit : 97.610307
+safeti : 97.666550
+conclus : 97.813399
+impos : 97.817689
+left : 97.919530
+democraci : 97.983947
+previou : 98.007805
+austrian : 98.013961
+dictatorship : 98.018902
+convoc : 98.057548
+elud : 98.089015
+fals : 98.094109
+culmin : 98.112177
+group : 98.131847
+convention : 98.140820
+profoundli : 98.283975
+revers : 98.286189
+ancien : 98.292539
+gime : 98.343841
+earli : 98.344443
+shadow : 98.351265
+anger : 98.417128
+unfold : 98.423190
+roman : 98.426963
+accus : 98.448402
+prior : 98.461884
+histor : 98.496486
+peasant : 98.508187
+develop : 98.554248
+couch : 98.559952
+spendthrift : 98.671656
+identifi : 98.684899
+aspir : 98.688587
+galit : 98.720729
+middl : 98.736067
+model : 98.772368
+equal : 98.775982
+fought : 98.806560
+adher : 98.819453
+aristocraci : 98.822975
+libert : 98.847689
+mantra : 98.847689
+fraternit : 98.847689
+secular : 98.857485
+republican : 98.884165
+destroi : 98.889326
+collaps : 98.889842
+mass : 98.893246
+acceler : 98.928942
+citizenship : 98.945666
+wing : 98.993077
+rural : 99.004126
+mesolith : 99.155645
+impact : 99.155645
+epic : 99.155645
+evapor : 99.155645
+sustain : 99.155645
+street : 99.155645
+countrysid : 99.155645
+inalien : 99.155645
+franceprehistori : 99.155645
+palaeolith : 99.155645
+neolith : 99.155645
+copper : 99.155645
+bronz : 99.155645
+iron : 99.155645
+ageanci : 99.155645
+greek : 99.155645
+celtic : 99.155645
+frank : 99.155645
+merovingian : 99.155645
+carol : 99.155645
+gion : 99.221092
+hatr : 99.235057
+progress : 99.235057
+bishop : 99.311042
+count : 99.326659
+poorer : 99.327347
+estat : 170.840285
+assembli : 180.871306
+third : 183.646324
+king : 184.880705
+loui : 188.242213
+with : 190.257747
+court : 190.407146
+execut : 191.780585
+year : 193.012693
+tenni : 193.154735
+oath : 193.971660
+europ : 194.057864
+consul : 194.355754
+larg : 194.912002
+dure : 195.169899
+spread : 195.210439
+enlighten : 195.220089
+establish : 195.270242
+brumair : 195.314122
+republ : 195.625977
+principl : 195.672006
+emerg : 195.726374
+period : 195.740570
+coup : 195.786898
+peninsula : 195.842967
+modern : 196.070882
+extern : 196.366178
+most : 196.584096
+achiev : 196.597484
+overthrew : 196.714340
+italian : 196.747546
+societi : 196.942192
+histori : 196.966330
+fran : 196.998694
+facilit : 197.089890
+territori : 197.092798
+conquest : 197.127526
+volut : 197.149798
+upheav : 197.166563
+assault : 197.168867
+victori : 197.307071
+these : 197.314504
+privileg : 197.438629
+ultim : 197.440977
+central : 197.494985
+hierarchi : 197.559967
+shape : 197.607444
+cours : 197.654139
+disappear : 197.672183
+transform : 197.712775
+threat : 197.773723
+septemb : 197.788430
+close : 197.803323
+underw : 197.811582
+emphas : 197.843107
+historian : 197.877181
+overthrown : 197.978749
+feudal : 198.018480
+conflict : 198.057876
+late : 198.060056
+abruptli : 198.069223
+flag : 198.311290
+gaul : 198.311290
+theme : 198.352957
+aristocrat : 198.490295
+empir : 286.350769
+nation : 289.143621
+were : 289.221742
+revolutionari : 292.548751
+monarchi : 293.790101
+rise : 294.201788
+centuri : 295.214849
+directori : 295.240369
+social : 295.551053
+featur : 296.252643
+idea : 296.303344
+proclaim : 296.555393
+class : 296.647249
+religi : 297.096937
+marxist : 297.480115
+napoleon : 382.964533
+first : 389.032329
+polit : 392.262765
+under : 392.743628
+caus : 394.152164
+radic : 394.250085
+tradit : 395.321696
+franc : 678.300232
+that : 680.730566
+revolut : 1503.311340
+french : 3711.794819
+kill terms:
+practic
+interrupt
+premier
+standard
+duchi
+minut
+everydai
+knowledg
+heredia
+substant
+centum
+anglic
+overrid
+elev
+highli
+swedish
+hardcor
+kerrang
+come
+vocalist
+denni
+lyxz
+nnstr
+bassist
+pukkelpop
+hellfest
+primavera
+kristof
+steen
+drummer
+sandstr
+lyric
+conformist
+await
+rock
+download
+cancel
+sonispher
+groezrock
+reunion
+roskild
+coachella
+confirm
+reunit
+explicit
+contest
+receiv
+centuria
+mercenari
+context
+note
+past
+likelihood
+proport
+bench
+treasuri
+reoccup
+tendenc
+exchang
+charad
+degener
+recognis
+gravit
+countersign
+closer
+intosai
+overse
+monitor
+supervis
+shut
+involv
+descart
+front
+altern
+restrict
+hope
+punk
+guitarist
+itali
+beverag
+tabl
+option
+guest
+restaur
+present
+cart
+healthi
+auditor
+audit
+consult
+realm
+erupt
+troop
+theater
+monongahela
+allegheni
+confluenc
+frontier
+scotia
+nova
+virginia
+conqu
+guerr
+lean
+tabloid
+perth
+sundai
+current
+cycl
+spark
+coordin
+offic
+zone
+liquid
+droplet
+vapor
+graviti
+compon
+deposit
+fresh
+suitabl
+mountai
+ecosystem
+hydroelectr
+plant
+crop
+irrig
+dimension
+rainfal
+vertic
+moist
+rainband
+narrow
+thunder
+cumulonimbu
+terrain
+windward
+convect
+maxim
+upslop
+mountain
+festiv
+someth
+elba
+heard
+menu
+indian
+unlik
+adult
+phrase
+girl
+adolesc
+repli
+swiss
+serv
+foreign
+exclud
+virgin
+budget
+site
+affair
+season
+british
+declin
+report
+colour
+heritag
+ancestri
+ethnogenesi
+stress
+etho
+issu
+viii
+eighteenth
+fact
+personag
+reinforc
+farc
+appear
+forgot
+tragedi
+nephew
+achtzehnt
+quot
+hegel
+remark
+despit
+hemispher
+sole
+backbench
+frontbench
+charl
+condens
+cloud
+upward
+trend
+columbian
+high
+literari
+nobleman
+regularli
+servant
+emploi
+demand
+alexandr
+split
+ship
+constituant
+laun
+student
+physiocrat
+quesnai
+francoi
+economist
+baron
+rememb
+defend
+encompass
+turgot
+administr
+moistur
+grand
+bolster
+rain
+revok
+pass
+appointe
+alien
+sovereignti
+attach
+indivis
+presidenti
+senat
+censur
+congress
+gradual
+galvan
+boston
+boycott
+loyal
+stamp
+unconstitut
+unifi
+insist
+illeg
+commonwealth
+assembl
+indoor
+nearbi
+post
+formal
+speak
+climat
+christian
+debret
+architect
+opera
+choiseul
+advoc
+rome
+woman
+femal
+releas
+seri
+march
+philosoph
+linguist
+believ
+manag
+critic
+theatr
+build
+african
+partisan
+desir
+disproportion
+alleg
+hinder
+help
+extend
+albon
+viennoi
+depart
+haut
+dauphini
+grenobl
+vienn
+valenc
+mont
+limar
+dauphinoi
+fail
+cathol
+friedland
+tilsit
+bloodsh
+poland
+partement
+warsaw
+presenc
+prussia
+infal
+mission
+gospel
+sacrament
+chariti
+civilis
+apostl
+dogmat
+worship
+eucharist
+bread
+wine
+blood
+bless
+mother
+birth
+necker
+invas
+moscow
+unpreced
+revolutionis
+entranc
+invulner
+beat
+applic
+retreat
+scale
+conscript
+triumph
+rose
+suffer
+rapidli
+conquer
+disastr
+omer
+arra
+princip
+thune
+elector
+sell
+singer
+russia
+southwest
+suburb
+villag
+kilometr
+rheinbund
+alexand
+pressburg
+creation
+membership
+transit
+sicili
+without
+tier
+parlement
+angola
+coast
+japan
+pakistan
+libya
+sudan
+mauritania
+romania
+bondag
+anti
+seychel
+gallei
+traffick
+somalia
+peonag
+blackbird
+raid
+korea
+iran
+kholop
+thrall
+penal
+judaism
+islam
+greec
+bartolom
+wage
+aztec
+brazil
+barbari
+bhutan
+casa
+bangladesh
+wedgwood
+topic
+josiah
+unfre
+priest
+sexual
+particip
+douai
+plummet
+reput
+handpick
+vicomt
+recess
+game
+match
+maastricht
+secretari
+margaret
+acib
+chancellor
+huntingdon
+notori
+exchequ
+expect
+backseat
+mild
+consecut
+confront
+gulf
+deputi
+succeed
+longer
+statesman
+commerci
+institut
+costli
+loss
+built
+provinci
+chamber
+peac
+bargain
+hostag
+buyout
+parent
+profit
+craft
+leverag
+studi
+agreement
+profession
+satisfi
+understand
+divorc
+resolv
+presum
+parisian
+meet
+remain
+judiciari
+sortit
+officehold
+allot
+decis
+tool
+chosen
+athen
+archetyp
+oligarch
+introduc
+bourgeoisi
+race
+peak
+subsequ
+retain
+naist
+energi
+environ
+teachta
+businessman
+dick
+richard
+conseil
+sixteenth
+thirteenth
+customari
+registr
+consequ
+regi
+curia
+justic
+increas
+edict
+parlementarian
+time
+star
+ottoman
+driver
+daili
+speech
+unif
+mapl
+insignia
+admir
+marshal
+thoma
+lawson
+shoulder
+sleev
+shirt
+arid
+crea
+legislatur
+sweden
+octob
+chief
+midpoint
+semi
+length
+legisl
+telecommun
+interact
+distanc
+overland
+silk
+compress
+vehicl
+airlin
+faster
+phone
+globalis
+rial
+repres
+flow
+friend
+bodi
+special
+minist
+refus
+economi
+colonist
+provinc
+child
+frequent
+pioneer
+rang
+start
+ideologi
+parliament
+verifi
+life
+order
+compos
+born
+prolifer
+architectureestablish
+technologi
+info
+invalid
+abbrevi
+tenth
+nineteen
+dawn
+dissolut
+neoliber
+combin
+predat
+lost
+newli
+racial
+found
+interest
+rium
+crit
+proce
+when
+tilt
+sunlight
+tropospher
+plane
+orbit
+averag
+qualif
+driven
+cloudi
+densiti
+spot
+polar
+stormi
+calm
+cyclon
+instabl
+incid
+cold
+extratrop
+stratospher
+jesu
+week
+open
+robert
+shanti
+sharman
+malayalam
+kalabhavan
+screen
+lone
+debutant
+shyam
+hakim
+letter
+biju
+background
+rawther
+mannoor
+nathan
+artwork
+hindi
+guin
+fewest
+narr
+crew
+later
+kannada
+cast
+sabitha
+jayaraj
+venugop
+saloo
+banner
+cinematographi
+entri
+green
+dragon
+movi
+kerala
+ksfdc
+yaadein
+legal
+figur
+organis
+landtag
+signifi
+finland
+clergymen
+spent
+turf
+fuel
+firewood
+graze
+livestock
+manori
+tenant
+access
+partit
+purpos
+freedom
+dissolv
+afraid
+constitu
+incumb
+parish
+arrondiss
+lowest
+incorpor
+exact
+gemeinden
+closest
+hamlet
+township
+truth
+reveal
+scriptur
+primaci
+affirm
+protestant
+grace
+fide
+command
+gratia
+scriptura
+ecclesiologi
+salvat
+broadli
+conven
+soldier
+conf
+rhin
+emperor
+reach
+forum
+word
+brother
+faction
+rival
+peasantri
+hierarch
+recogn
+scheme
+royalti
+settl
+prestigi
+burgher
+powerless
+slow
+lifetim
+highest
+posi
+talent
+actress
+worldwid
+judg
+songwrit
+lydia
+filippina
+reboot
+aria
+young
+calendar
+foremost
+dominion
+discoveri
+swai
+quarter
+legaci
+globe
+shine
+mandat
+oversea
+protector
+enmiti
+manner
+pope
+diplomat
+acad
+peleti
+musiqu
+china
+india
+abolition
+battl
+cutif
+switzerland
+character
+decor
+fructidor
+director
+directeur
+disput
+inhabit
+town
+alli
+wide
+tributari
+amount
+quatorz
+conservat
+protocol
+archaic
+exacerb
+invad
+consumm
+interven
+contain
+inmat
+flashpoint
+juillet
+rebellion
+district
+improv
+compromis
+fear
+abandon
+crise
+treati
+reject
+notion
+dialogu
+outcom
+dialect
+fair
+plural
+gypsi
+jewish
+romani
+bulk
+cabinet
+total
+earn
+luxembourg
+nevertheless
+autocrat
+holtman
+evolv
+prevent
+matter
+measur
+confer
+immacul
+belief
+head
+maria
+daughter
+sympathi
+harbor
+promiscu
+proflig
+bitch
+autrichienn
+husband
+dislik
+beauti
+theresa
+charm
+children
+archduchess
+charlott
+fifteenth
+penultim
+empress
+variat
+destin
+dress
+tunic
+cadpat
+action
+code
+ineffici
+burgundian
+singapor
+krishnapur
+memori
+geoffrei
+booker
+grip
+adapt
+storytel
+majest
+hotel
+dilapid
+faber
+sieg
+richardson
+trilogi
+acclaim
+instal
+midst
+charleson
+concern
+petitionari
+step
+carri
+delib
+supplementari
+solut
+problem
+outbreak
+respect
+clash
+impass
+raux
+occup
+teach
+canada
+thing
+rank
+titl
+connect
+road
+result
+well
+challeng
+sourc
+accept
+though
+requir
+overt
+westminst
+addit
+naval
+effect
+minor
+meus
+scheldt
+delta
+nether
+seventeen
+renam
+stronger
+disintegr
+francia
+belgica
+gallia
+slowli
+appropri
+closur
+teau
+navarr
+billion
+urban
+citicorp
+manhattan
+waterfront
+diversifi
+chicago
+angel
+divers
+easternmost
+attend
+privat
+error
+sall
+undertaken
+trade
+construct
+feel
+caribbean
+surfac
+paleoindian
+glacial
+cross
+arctic
+bere
+bridg
+pacif
+subcontin
+kilomet
+southeast
+mile
+link
+citizenri
+synonym
+stateless
+younger
+comt
+labour
+austerlitz
+marriag
+greatli
+socioeconom
+method
+worldview
+sociopolit
+basi
+mode
+sociolog
+engel
+friedrich
+critiqu
+materialist
+inquiri
+exercis
+latin
+massiv
+height
+stem
+depend
+presumpt
+intellig
+discret
+anthropomorph
+easili
+absol
+unattach
+uncondit
+eman
+transcend
+divin
+lend
+loosen
+finit
+nonstop
+acknowledg
+fate
+qualifi
+murder
+acquiesc
+accord
+systemat
+whereabout
+secretli
+crime
+adopt
+impli
+crimin
+internet
+mobil
+evict
+also
+patrol
+valour
+fatherland
+honour
+valeur
+patri
+trace
+abroad
+mainten
+stabil
+aviat
+fusili
+aircraft
+carrier
+submarin
+frigat
+boat
+honneur
+vessel
+motto
+hall
+thatcher
+jame
+atmospher
+session
+horac
+ridicul
+wrote
+collabor
+fellow
+cambridg
+colleg
+scholarship
+patron
+halifax
+schoolfellow
+translat
+read
+here
+channel
+vintner
+uncl
+care
+busbi
+london
+minster
+wimborn
+joiner
+nonconformist
+poet
+matthew
+matt
+cricket
+sussex
+judici
+gabriel
+nineti
+lord
+explor
+portug
+educ
+summer
+winter
+relat
+indefinit
+greatest
+light
+project
+linear
+cone
+inevit
+dimens
+unavoid
+categor
+appar
+temporari
+occident
+anticip
+etern
+portion
+qualiti
+solstic
+devast
+chines
+russian
+japanes
+communist
+inter
+depress
+disrupt
+broke
+chiefli
+superpow
+notabl
+latitud
+stream
+tropic
+angl
+represent
+christ
+statut
+karl
+marx
+between
+weight
+compri
+elizabeth
+sovereign
+outli
+occasion
+ratifi
+scotland
+northwest
+scot
+forest
+arab
+opinion
+promin
+imprison
+outreach
+vision
+platform
+program
+goal
+dispar
+espous
+strateg
+crown
+process
+manor
+credenti
+johnni
+hamilton
+unger
+ferdi
+dagoi
+olli
+studio
+track
+rare
+vega
+jamaican
+heaven
+knockin
+authoris
+dollar
+unabl
+thumbnail
+continu
+maintain
+simpli
+theorist
+booklet
+item
+creas
+stapl
+saddl
+leaflet
+unbound
+paramount
+chang
+municip
+kaiserthum
+oesterreich
+spell
+proclam
+kaisertum
+sterreich
+broken
+make
+priesthood
+australia
+conceiv
+artoi
+politician
+advantag
+specif
+motiv
+approv
+downfal
+salut
+wartim
+twelv
+supervisori
+diminish
+comit
+publish
+pour
+leav
+popularli
+tina
+doubl
+amidst
+consensu
+broad
+realiz
+taxat
+last
+sound
+pertain
+citoyen
+homm
+droit
+valid
+clarat
+arrang
+planet
+sharp
+experi
+compar
+personhood
+conscious
+analyt
+anglo
+psychologi
+relationship
+plausibli
+degre
+thermidor
+chester
+tone
+debut
+version
+howlett
+valentino
+grei
+correctli
+credit
+synthpop
+mike
+incorrectli
+holidai
+bring
+oldest
+differenti
+preced
+ration
+italiana
+boot
+characterist
+calabria
+salento
+gargano
+augustu
+watersh
+coincid
+magra
+rubicon
+tuscan
+emilian
+slope
+nearli
+apart
+marino
+vatican
+addition
+malta
+mediterranean
+balkan
+nicknam
+stival
+iberian
+appenninica
+armi
+carpent
+prepar
+excus
+understood
+phenomena
+april
+collect
+connot
+verif
+choos
+transact
+reap
+proof
+bear
+servic
+incur
+transmit
+spillov
+manufactur
+atlant
+compani
+portrait
+ounc
+diamet
+mint
+shield
+
+eighteen
+obvers
+weigh
+troi
+gross
+germin
+capit
+integr
+canadian
+name
+household
+vari
+align
+dictat
+chime
+heighten
+sever
+brand
+preemin
+rococo
+frivol
+salon
+strongest
+venetian
+warm
+cerebr
+auster
+copi
+palestinian
+redistribut
+scope
+whatsoev
+stanford
+encyclopedia
+agent
+fulli
+acquir
+woodcock
+doubt
+roderick
+coerciv
+scholar
+denot
+father
+outdoor
+manipul
+millennium
+confeder
+destruct
+peter
+perspect
+incit
+onset
+roland
+violenc
+chemist
+conspiraci
+madam
+beset
+toll
+duke
+lavoisi
+blade
+razor
+summari
+strengthen
+temperatur
+faith
+georg
+interchang
+autr
+chienn
+lambert
+revolt
+trigger
+just
+phase
+supersed
+paul
+barra
+tallien
+joseph
+fouch
+equival
+ensur
+nobl
+dispers
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =   1184
+NO. OF NON-ZERO VALUES    =   6747
+MATRIX DENSITY            =   4.10%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     29
+RITZ VALUES STABILIZED    =     23
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     23
+1deltas resources:
+http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.145830
+http://dbpedia.org/resource/September_27 : 0.361084
+http://dbpedia.org/resource/December_27 : 0.364410
+http://dbpedia.org/resource/Set_list : 0.573070
+http://dbpedia.org/resource/Rain : 0.848120
+http://dbpedia.org/resource/Absolute_%28philosophy%29 : 1.162844
+http://dbpedia.org/resource/October_14 : 1.273727
+http://dbpedia.org/resource/French_Revolution : 1.693300
+http://dbpedia.org/resource/June_17 : 1.956491
+http://dbpedia.org/resource/1780s : 2.014704
+http://dbpedia.org/resource/Proposition : 2.025802
+http://dbpedia.org/resource/Woman : 2.027443
+http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 2.031316
+http://dbpedia.org/resource/National_Constituent_Assembly : 2.086615
+http://dbpedia.org/resource/24_%28season_2%29 : 2.183220
+http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 2.195008
+http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 2.577701
+http://dbpedia.org/resource/Ethnic_group : 2.688410
+http://dbpedia.org/resource/July_11 : 2.936739
+http://dbpedia.org/resource/Salle_Le_Peletier : 2.941712
+http://dbpedia.org/resource/August_26 : 3.576235
+http://dbpedia.org/resource/July_14 : 3.585104
+http://dbpedia.org/resource/Popular_music : 3.616216
+http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 3.640175
+http://dbpedia.org/resource/Comte : 3.687996
+http://dbpedia.org/resource/Externality : 3.781317
+http://dbpedia.org/resource/Comptroller : 3.788628
+http://dbpedia.org/resource/Maximilien_Robespierre : 4.417764
+http://dbpedia.org/resource/Legislative_Assembly : 4.928636
+http://dbpedia.org/resource/Italian_Peninsula : 5.424251
+http://dbpedia.org/resource/Jacques_Necker : 6.192956
+http://dbpedia.org/resource/The_Guard_%282001_film%29 : 7.185825
+http://dbpedia.org/resource/Main_%28river%29 : 7.201153
+http://dbpedia.org/resource/The_West_Australian : 7.458387
+http://dbpedia.org/resource/20th_century : 9.016856
+http://dbpedia.org/resource/Negotiation : 9.191334
+http://dbpedia.org/resource/Thermidorian_Reaction : 10.247350
+http://dbpedia.org/resource/Committee_of_Public_Safety : 10.431465
+http://dbpedia.org/resource/French_Navy : 11.305809
+http://dbpedia.org/resource/French_Armed_Forces : 11.327310
+http://dbpedia.org/resource/August_7 : 11.527164
+http://dbpedia.org/resource/Globalization : 11.537284
+http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 12.904335
+http://dbpedia.org/resource/Enoch_Poor : 13.016530
+http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 13.098346
+http://dbpedia.org/resource/Tina_Arena : 16.177593
+http://dbpedia.org/resource/Estates-General_of_1789 : 21.549219
+http://dbpedia.org/resource/Jacques-Louis_David : 21.771289
+http://dbpedia.org/resource/Queens : 23.871506
+http://dbpedia.org/resource/Confederation_of_the_Rhine : 25.041972
+http://dbpedia.org/resource/June_10 : 25.412416
+http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 31.914222
+http://dbpedia.org/resource/1990s : 32.358740
+http://dbpedia.org/resource/Weather : 33.007926
+http://dbpedia.org/resource/Austrian_Empire : 33.818147
+http://dbpedia.org/resource/Protestantism : 34.277648
+http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 37.000498
+http://dbpedia.org/resource/Messages_%28OMD_song%29 : 37.328645
+http://dbpedia.org/resource/Low_Countries : 37.937413
+http://dbpedia.org/resource/North_America : 38.566164
+http://dbpedia.org/resource/Guttural_R : 39.035627
+http://dbpedia.org/resource/Military : 40.099792
+http://dbpedia.org/resource/Abolitionism : 40.905419
+http://dbpedia.org/resource/Citizenship : 41.278649
+http://dbpedia.org/resource/Artois : 42.057181
+http://dbpedia.org/resource/Future : 45.394788
+http://dbpedia.org/resource/Government_of_France : 46.696546
+http://dbpedia.org/resource/Court_%28royal%29 : 48.483070
+http://dbpedia.org/resource/July_1 : 49.531664
+http://dbpedia.org/resource/Age_of_Enlightenment : 56.827522
+http://dbpedia.org/resource/John_Major : 57.430934
+http://dbpedia.org/resource/Subject_%28philosophy%29 : 57.707924
+http://dbpedia.org/resource/The_Passage_%28film%29 : 58.938156
+http://dbpedia.org/resource/June_8 : 59.030780
+http://dbpedia.org/resource/Country_music : 65.114815
+http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 66.419360
+http://dbpedia.org/resource/Reign_of_Terror : 67.078126
+http://dbpedia.org/resource/Paris : 72.095294
+http://dbpedia.org/resource/Centuria : 75.589291
+http://dbpedia.org/resource/1922_Committee : 83.265808
+http://dbpedia.org/resource/Refused : 83.307799
+http://dbpedia.org/resource/Forced_disappearance : 84.289880
+http://dbpedia.org/resource/Troubles_%28novel%29 : 84.527091
+http://dbpedia.org/resource/Executive_%28government%29 : 89.101532
+http://dbpedia.org/resource/Common_land : 91.846583
+http://dbpedia.org/resource/People : 93.148130
+http://dbpedia.org/resource/Louis_XVI_of_France : 93.484170
+http://dbpedia.org/resource/June_20 : 95.610443
+http://dbpedia.org/resource/Associated_Press : 95.688369
+http://dbpedia.org/resource/Menu : 95.819891
+http://dbpedia.org/resource/Book : 95.872432
+http://dbpedia.org/resource/Dick_Spring : 95.935078
+http://dbpedia.org/resource/June_27 : 96.841678
+http://dbpedia.org/resource/Matthew_Prior : 96.867974
+http://dbpedia.org/resource/French_Directory : 97.687592
+http://dbpedia.org/resource/Strong,_Ontario : 97.709052
+http://dbpedia.org/resource/Pamphlet : 99.055468
+http://dbpedia.org/resource/Communes_of_France : 99.551530
+http://dbpedia.org/resource/Libertarianism : 102.319730
+http://dbpedia.org/resource/A-List_%28Conservative%29 : 103.426449
+http://dbpedia.org/resource/Tennis_Court_Oath : 103.780551
+http://dbpedia.org/resource/Jacobin_%28politics%29 : 113.398557
+http://dbpedia.org/resource/May_5 : 124.606184
+http://dbpedia.org/resource/Dauphin%C3%A9 : 139.307233
+http://dbpedia.org/resource/Election : 146.723974
+http://dbpedia.org/resource/Palace_of_Versailles : 152.347103
+http://dbpedia.org/resource/Marxism : 155.408507
+http://dbpedia.org/resource/British_Empire : 161.319120
+http://dbpedia.org/resource/Parlement : 163.047558
+http://dbpedia.org/resource/Storming_of_the_Bastille : 172.732093
+http://dbpedia.org/resource/Gerrymandering : 176.091803
+http://dbpedia.org/resource/American_English : 186.759624
+http://dbpedia.org/resource/Catholic_Church : 193.086534
+http://dbpedia.org/resource/The_Double_%28novel%29
+ : 194.089636
+http://dbpedia.org/resource/Delegate : 195.469491
+http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 198.338521
+http://dbpedia.org/resource/French_and_Indian_War : 198.439492
+http://dbpedia.org/resource/House_of_Bourbon : 212.083026
+http://dbpedia.org/resource/18_Brumaire : 216.257840
+http://dbpedia.org/resource/Assembly_of_Notables : 219.314627
+http://dbpedia.org/resource/Bastille : 222.486193
+http://dbpedia.org/resource/Kingdom_of_Great_Britain : 224.065619
+http://dbpedia.org/resource/American_Revolutionary_War : 238.139208
+http://dbpedia.org/resource/Political_party : 254.934160
+http://dbpedia.org/resource/527_organization : 265.683612
+http://dbpedia.org/resource/French_Revolutionary_Wars : 289.022963
+http://dbpedia.org/resource/January_17 : 302.056092
+http://dbpedia.org/resource/Bourbon_Restoration : 358.331324
+http://dbpedia.org/resource/Marie_Antoinette : 361.752202
+http://dbpedia.org/resource/French_Consulate : 368.215175
+http://dbpedia.org/resource/General_%28Canada%29 : 377.241227
+http://dbpedia.org/resource/Napoleonic_Wars : 404.258420
+http://dbpedia.org/resource/The_Estates : 523.271371
+http://dbpedia.org/resource/Napoleon : 653.961895
+http://dbpedia.org/resource/Napoleon_%28coin%29 : 763.485616
+http://dbpedia.org/resource/French_people : 875.472247
+http://dbpedia.org/resource/First_French_Empire : 1061.195819
+http://dbpedia.org/resource/Estates_of_the_realm : 1353.619508
+http://dbpedia.org/resource/France_Bu%C4%8Dar : 1460.233954
+1deltas terms:
+religion : 0.000486
+autonomi : 0.000980
+correspond : 0.000980
+usag : 0.001460
+disciplin : 0.002356
+maritim : 0.002356
+blue : 0.002356
+effort : 0.003494
+full : 0.005583
+doctrin : 0.005637
+marin : 0.005890
+concert : 0.006964
+suprem : 0.007375
+troubl : 0.007515
+belgium : 0.008337
+regard : 0.010004
+river : 0.011849
+drawn : 0.012024
+candidatur : 0.012024
+recommend : 0.012024
+peer : 0.012024
+potenti : 0.012024
+directli : 0.012024
+broaden : 0.012024
+cameron : 0.012024
+target : 0.012024
+primari : 0.012024
+prioriti : 0.012024
+categori : 0.012240
+edit : 0.012401
+famou : 0.012585
+stage : 0.013013
+dens : 0.013905
+center : 0.014686
+level : 0.014859
+fold : 0.014936
+bibl : 0.015380
+hous : 0.016185
+case : 0.017958
+philosophi : 0.018468
+cultur : 0.020106
+netherland : 0.022183
+eastern : 0.023347
+approach : 0.023523
+tower : 0.023523
+crowd : 0.023523
+domest : 0.023523
+prove : 0.023523
+innov : 0.023523
+port : 0.023523
+gatewai : 0.023523
+demolish : 0.023523
+onward : 0.023523
+subscrib : 0.024375
+republish : 0.024375
+journalist : 0.024375
+photograph : 0.024375
+stori : 0.024375
+bureau : 0.024375
+network : 0.024375
+newscast : 0.024375
+hourli : 0.024375
+agenc : 0.024375
+satellit : 0.024375
+publ : 0.024375
+fundament : 0.024429
+determin : 0.024759
+offer : 0.024947
+phonet : 0.025074
+articulatori : 0.025074
+proper : 0.025074
+coron : 0.025074
+render : 0.025074
+denmark : 0.025074
+phonem : 0.025074
+question : 0.025074
+unicod : 0.025074
+norwai : 0.025074
+normal : 0.025074
+charact : 0.025074
+southernmost : 0.025074
+alveolar : 0.025074
+uvular : 0.025074
+neighbor : 0.025125
+avoir : 0.025279
+lieu : 0.025279
+domicili : 0.025279
+naturali : 0.025279
+faut : 0.025279
+actual : 0.025605
+relief : 0.025605
+monument : 0.025605
+celebr : 0.025605
+portrai : 0.025605
+ramess : 0.025605
+pharaoh : 0.025605
+profess : 0.025605
+aspect : 0.025605
+adject : 0.025605
+imperi : 0.025605
+kadesh : 0.025605
+expans : 0.025605
+lethal : 0.025605
+feat : 0.025605
+junta : 0.025605
+agenda : 0.025605
+endur : 0.025605
+combat : 0.025605
+behest : 0.026686
+chef : 0.026708
+strike : 0.026708
+capabl : 0.027008
+client : 0.028128
+unpopular : 0.028143
+civilian : 0.028553
+final : 0.029332
+replac : 0.029466
+univers : 0.029573
+novemb : 0.029807
+prison : 0.031183
+orchestr : 0.031371
+dark : 0.031371
+label : 0.031371
+manoeuvr : 0.031371
+compris : 0.031527
+commit : 0.031651
+school : 0.032297
+fight : 0.032319
+gendarmeri : 0.032338
+style : 0.033082
+movement : 0.033906
+press : 0.034831
+nuclear : 0.034896
+presid : 0.035154
+document : 0.035962
+thousand : 0.036977
+jean : 0.037551
+natur : 0.037644
+australian : 0.037825
+neoclass : 0.038632
+regim : 0.038632
+free : 0.038668
+expand : 0.041002
+hampshir : 0.041026
+enoch : 0.041026
+brigadi : 0.041026
+builder : 0.041026
+merchant : 0.041026
+exet : 0.041026
+navi : 0.041119
+product : 0.041601
+part : 0.042269
+film : 0.043489
+dorset : 0.043537
+earl : 0.043537
+mous : 0.043537
+behalf : 0.044069
+deleg : 0.044069
+exclus : 0.045053
+mediev : 0.045579
+imag : 0.045615
+album : 0.045766
+person : 0.046144
+administ : 0.046163
+half : 0.047038
+explod : 0.047132
+success : 0.047132
+forcibl : 0.047132
+heir : 0.047132
+possessor : 0.047132
+upris : 0.047132
+interv : 0.047132
+flee : 0.047132
+ghent : 0.047132
+ahead : 0.047132
+disord : 0.047132
+depos : 0.047132
+triumphantli : 0.047132
+greet : 0.047132
+dizzi : 0.047132
+rousseau : 0.047742
+fayett : 0.047742
+montesquieu : 0.047742
+arrest : 0.047742
+attir : 0.047742
+isidor : 0.047742
+lawyer : 0.047742
+penalti : 0.047742
+possibl : 0.047742
+unimpos : 0.047742
+antoin : 0.048017
+cooper : 0.048750
+station : 0.048750
+competit : 0.048933
+intern : 0.049900
+musician : 0.050690
+devot : 0.050690
+swap : 0.050690
+slot : 0.050690
+tape : 0.050690
+guarante : 0.050690
+lamin : 0.050690
+cardboard : 0.050690
+dead : 0.050690
+grate : 0.050690
+setlist : 0.050690
+band : 0.051180
+hand : 0.052396
+perman : 0.052931
+famili : 0.052946
+national : 0.053105
+poor : 0.053981
+club : 0.055244
+fall : 0.056267
+academ : 0.056277
+tast : 0.056277
+span : 0.056593
+avoid : 0.058299
+section : 0.059383
+type : 0.060061
+older : 0.060878
+successor : 0.061499
+montagu : 0.065305
+distinguish : 0.066470
+market : 0.066934
+direct : 0.067195
+painter : 0.067216
+paint : 0.067216
+jacobit : 0.067723
+jacobean : 0.067723
+concentr : 0.067723
+incept : 0.067723
+unrel : 0.067723
+actor : 0.068109
+protect : 0.068378
+hold : 0.068806
+commonli : 0.069004
+magazin : 0.069037
+belong : 0.069362
+base : 0.070156
+broadcast : 0.073538
+local : 0.073633
+interpret : 0.073642
+feder : 0.074472
+pronunci : 0.075222
+influenti : 0.076314
+slave : 0.076410
+convent : 0.079559
+john : 0.079620
+plai : 0.080429
+record : 0.081650
+blame : 0.084162
+flourish : 0.085162
+foster : 0.085162
+emot : 0.085162
+superstit : 0.085162
+intoler : 0.085162
+romantic : 0.085162
+abus : 0.085162
+baruch : 0.085162
+spinoza : 0.085162
+bayl : 0.085162
+physicist : 0.085162
+isaac : 0.085162
+newton : 0.085162
+invent : 0.085162
+rapid : 0.085162
+usual : 0.085205
+penisola : 0.087302
+vallei : 0.087302
+apennin : 0.087302
+pamphlet : 0.087429
+lotharingia : 0.087610
+uniqu : 0.088239
+entiti : 0.088239
+observ : 0.088239
+essenc : 0.088239
+object : 0.088239
+dissemin : 0.088283
+stand : 0.088283
+industri : 0.088283
+oral : 0.088283
+condit : 0.088516
+occur : 0.088652
+classic : 0.089069
+corpor : 0.089143
+reserv : 0.089923
+farrel : 0.090216
+prize : 0.090216
+articul : 0.092660
+novel : 0.093169
+leader : 0.093891
+jointli : 0.094160
+civil : 0.094263
+promot : 0.094604
+attack : 0.094761
+best : 0.095618
+televis : 0.095753
+seigneuri : 0.095859
+advanc : 0.097112
+award : 0.097125
+fill : 0.098067
+directoir : 0.099133
+hundr : 0.099935
+guttur : 0.100295
+rhotic : 0.100295
+tour : 0.101380
+night : 0.101380
+ontolog : 0.101724
+implic : 0.101724
+strawson : 0.101724
+content : 0.101724
+logic : 0.101724
+pattern : 0.101724
+admit : 0.101724
+writer : 0.101724
+properti : 0.104396
+sens : 0.104790
+philipp : 0.106201
+guillotin : 0.106201
+girondin : 0.106201
+extinct : 0.106430
+capetian : 0.106430
+napl : 0.106430
+parma : 0.106430
+vend : 0.106430
+turn : 0.106430
+both : 0.106430
+line : 0.106430
+nineteenth : 0.106430
+philip : 0.106430
+lead : 0.107894
+dominican : 0.108016
+contemporari : 0.108016
+mishandl : 0.109863
+shop : 0.110563
+monograph : 0.110563
+journal : 0.110563
+bookshop : 0.110563
+bookworm : 0.110563
+parchment : 0.110563
+hing : 0.110563
+biographi : 0.110563
+blank : 0.110563
+bought : 0.110563
+avid : 0.110563
+reader : 0.110563
+bookstor : 0.110563
+bibliophil : 0.110563
+fasten : 0.110563
+librari : 0.110906
+ruler : 0.111150
+paper : 0.111764
+associ : 0.112471
+pend : 0.112912
+long : 0.113468
+work : 0.114007
+lift : 0.115061
+holi : 0.115837
+eventu : 0.117083
+root : 0.118161
+smaller : 0.118392
+morn : 0.119246
+prime : 0.120790
+realiti : 0.120855
+mean : 0.121945
+reflect : 0.123912
+fashion : 0.123981
+function : 0.124320
+thought : 0.124754
+conson : 0.125369
+defin : 0.125658
+sequenc : 0.126381
+theori : 0.126418
+mind : 0.129472
+oper : 0.130661
+cover : 0.131053
+geograph : 0.131627
+provid : 0.132102
+debat : 0.132358
+distinct : 0.132358
+symbol : 0.132613
+global : 0.134574
+form : 0.135093
+format : 0.136051
+true : 0.136099
+role : 0.137581
+definit : 0.137900
+world : 0.138402
+disestablish : 0.138870
+fourth : 0.139057
+express : 0.139246
+compil : 0.139372
+authoritarian : 0.140476
+gerrymand : 0.140814
+serfdom : 0.141698
+earth : 0.142018
+brooklyn : 0.143853
+seat : 0.145151
+sold : 0.145439
+door : 0.146188
+sola : 0.146846
+justif : 0.146846
+artist : 0.147811
+soviet : 0.148174
+shortli : 0.148174
+materi : 0.152149
+arena : 0.153465
+list : 0.154628
+point : 0.155665
+small : 0.155904
+liberti : 0.155904
+water : 0.156819
+divid : 0.158520
+procedur : 0.158930
+budgetari : 0.158930
+good : 0.159451
+physic : 0.160203
+serial : 0.160685
+return : 0.162552
+print : 0.163802
+produc : 0.165607
+resourc : 0.166006
+varieti : 0.169413
+enjoi : 0.169731
+media : 0.169766
+shock : 0.169861
+emphasi : 0.170324
+reason : 0.170324
+intellectu : 0.170324
+written : 0.171864
+deal : 0.173602
+food : 0.173928
+german : 0.173932
+prefer : 0.175388
+price : 0.176503
+pollut : 0.176503
+audienc : 0.176567
+chart : 0.178023
+sampl : 0.178023
+newspap : 0.179706
+speaker : 0.180126
+singl : 0.181132
+women : 0.182132
+irish : 0.183336
+dauphin : 0.184060
+labor : 0.187047
+instrument : 0.190276
+protest : 0.190631
+grievanc : 0.191838
+cahier : 0.191838
+northern : 0.192244
+donor : 0.192723
+spend : 0.192723
+technic : 0.192723
+regist : 0.192723
+super : 0.192723
+regul : 0.192723
+publicli : 0.192723
+expressli : 0.192723
+upper : 0.192723
+disclos : 0.192723
+revenu : 0.192723
+east : 0.192837
+victim : 0.192860
+enforc : 0.192860
+abduct : 0.192860
+select : 0.193607
+activ : 0.194415
+southeastern : 0.195975
+discont : 0.196042
+hostil : 0.196042
+stumbl : 0.196042
+grow : 0.196042
+tortur : 0.196042
+grandfath : 0.196042
+taill : 0.196042
+toler : 0.196042
+locat : 0.196393
+second : 0.198972
+seek : 0.200362
+divis : 0.202606
+moral : 0.203098
+meaning : 0.203448
+truthbear : 0.203448
+south : 0.204955
+busi : 0.205555
+room : 0.205873
+transpir : 0.205873
+worst : 0.205873
+circumst : 0.205873
+reassembl : 0.205873
+anxiou : 0.205873
+pledg : 0.205873
+solemn : 0.205873
+immin : 0.205873
+congreg : 0.205873
+paum : 0.205873
+pivot : 0.205873
+sign : 0.205873
+makeshift : 0.205873
+immedi : 0.205873
+honor : 0.205873
+serment : 0.205873
+riqueti : 0.205873
+discov : 0.205873
+subgenr : 0.206476
+banjo : 0.206476
+electr : 0.206476
+acoust : 0.206476
+accompani : 0.206476
+harmoni : 0.206476
+guitar : 0.206476
+fiddl : 0.206476
+tune : 0.206476
+danc : 0.206476
+ballad : 0.206476
+folk : 0.206476
+cowboi : 0.206476
+harmonica : 0.206476
+hillbilli : 0.206476
+listen : 0.206476
+rush : 0.206476
+hour : 0.206476
+turnout : 0.206894
+transport : 0.208197
+simpl : 0.209677
+cond : 0.212859
+cadet : 0.212859
+dynasti : 0.212859
+conti : 0.212859
+text : 0.213150
+reaction : 0.213268
+electron : 0.214288
+counti : 0.215779
+appli : 0.218539
+marxian : 0.220453
+voluntari : 0.221028
+leaf : 0.221126
+literatur : 0.221126
+illustr : 0.221126
+sheet : 0.221899
+thermidorian : 0.223205
+estim : 0.224107
+event : 0.225922
+princ : 0.226409
+controversi : 0.231065
+entir : 0.232806
+franci : 0.233896
+wholli : 0.234185
+squar : 0.234185
+enemi : 0.238299
+precipit : 0.241409
+habsburg : 0.242371
+strong : 0.242515
+fortress : 0.243879
+unesco : 0.246783
+describ : 0.249587
+design : 0.250565
+perceiv : 0.252968
+awar : 0.253444
+contribut : 0.253643
+space : 0.255343
+grew : 0.255897
+asia : 0.256160
+contrast : 0.256584
+unchang : 0.259356
+commerc : 0.259356
+heart : 0.259356
+parisienn : 0.259356
+headquart : 0.259356
+oecd : 0.259356
+sein : 0.259356
+host : 0.259356
+facto : 0.259676
+spanish : 0.259934
+string : 0.260287
+government : 0.261671
+saint : 0.265746
+dylan : 0.267035
+boundari : 0.267685
+even : 0.268671
+follow : 0.270310
+parliamentari : 0.274299
+decad : 0.278958
+southern : 0.279699
+limit : 0.280514
+expens : 0.284477
+york : 0.287705
+borough : 0.287705
+scienc : 0.290365
+ordain : 0.290730
+radio : 0.293778
+migrat : 0.301606
+puerto : 0.301606
+rico : 0.301606
+colon : 0.301606
+wave : 0.301606
+settler : 0.301606
+langu : 0.301606
+preserv : 0.302351
+suppos : 0.302351
+tyrann : 0.302351
+ceas : 0.302351
+oligarchi : 0.302351
+sentenc : 0.305172
+there : 0.305469
+statu : 0.308909
+approxim : 0.309405
+entertain : 0.310092
+expenditur : 0.310677
+human : 0.311748
+lock : 0.314396
+libertarian : 0.324832
+side : 0.326013
+marxism : 0.330680
+defenc : 0.331308
+staff : 0.336194
+todai : 0.339742
+origin : 0.341426
+concept : 0.346264
+situat : 0.354855
+discuss : 0.356146
+palac : 0.359728
+leadership : 0.361176
+despot : 0.361304
+consist : 0.362288
+assert : 0.362895
+typic : 0.362977
+ocean : 0.371683
+ethnic : 0.374521
+democrat : 0.375233
+weapon : 0.382757
+hungarian : 0.394910
+austro : 0.394910
+stir : 0.400600
+intent : 0.403508
+genr : 0.403593
+ammunit : 0.403916
+cach : 0.403916
+then : 0.404182
+nomin : 0.405438
+exampl : 0.412692
+higher : 0.412951
+commut : 0.412951
+england : 0.414635
+escal : 0.414825
+indiffer : 0.414825
+ministri : 0.426167
+isol : 0.441311
+howev : 0.455502
+live : 0.457701
+view : 0.461278
+campaign : 0.467906
+polici : 0.472612
+island : 0.479167
+monarch : 0.509490
+wait : 0.510911
+africa : 0.511261
+centr : 0.514101
+senior : 0.514316
+metropolitan : 0.518713
+what : 0.520021
+januari : 0.530000
+hungari : 0.530519
+share : 0.530890
+area : 0.550581
+motion : 0.569118
+sinc : 0.571621
+includ : 0.573879
+inform : 0.575526
+cost : 0.577802
+undermin : 0.579521
+exagger : 0.579521
+oppos : 0.580455
+differ : 0.585172
+largest : 0.589713
+song : 0.599365
+ireland : 0.606608
+appeal : 0.612235
+benefit : 0.617762
+invit : 0.624458
+region : 0.633891
+reform : 0.652147
+factor : 0.652567
+ancient : 0.665627
+month : 0.669923
+oppon : 0.699655
+those : 0.699655
+initi : 0.705928
+fiscal : 0.708253
+announc : 0.717660
+nativ : 0.718966
+indecis : 0.755972
+mechan : 0.772552
+candid : 0.796785
+proposit : 0.805483
+struggl : 0.815242
+deliber : 0.827960
+respons : 0.862487
+posit : 0.878366
+commun : 0.903508
+nobil : 0.947017
+regress : 0.947331
+deficit : 0.948623
+underestim : 0.948623
+complet : 0.951094
+jacobin : 0.981402
+signal : 0.990223
+endors : 0.993733
+overtli : 1.000247
+claim : 1.008860
+book : 1.020193
+distribut : 1.021460
+restructur : 1.033662
+lower : 1.052235
+often : 1.075383
+enact : 1.077793
+union : 1.086440
+clear : 1.086971
+allow : 1.089608
+conduct : 1.105937
+citi : 1.117218
+although : 1.118817
+thwart : 1.118995
+creat : 1.129638
+intend : 1.135005
+econom : 1.141979
+heavi : 1.142393
+negoti : 1.147454
+extrem : 1.160928
+galit : 1.168470
+solv : 1.178899
+monei : 1.178899
+libert : 1.181196
+mantra : 1.181196
+borrow : 1.185091
+destroi : 1.185694
+convoc : 1.188121
+passag : 1.196991
+exist : 1.200535
+sketch : 1.201894
+futur : 1.202812
+secular : 1.202828
+austrian : 1.211532
+wing : 1.212155
+move : 1.215371
+collaps : 1.218950
+equal : 1.222429
+siei : 1.224006
+aspir : 1.224266
+aristocraci : 1.227206
+mass : 1.228660
+hatr : 1.229140
+progress : 1.229140
+identifi : 1.229233
+model : 1.233724
+david : 1.234469
+couch : 1.234558
+poorer : 1.235322
+republican : 1.236270
+anger : 1.236809
+antoinett : 1.239543
+franceprehistori : 1.240161
+harvest : nan
+culott : nan
+disast : nan
+humbl : nan
+meanwhil : nan
+incom : nan
+burden : nan
+shortag : nan
+livr : nan
+comptrollership : nan
+thirti : nan
+wealthi : nan
+suffici : nan
+imposit : nan
+censorship : nan
+clergyman : nan
+everyth : nan
+noth : nan
+plaisir : nan
+arbitr : nan
+unsuccess : nan
+advisor : nan
+riot : nan
+chao : nan
+loot : nan
+roth : nan
+impact : 1.240161
+epic : 1.240161
+evapor : 1.240161
+sustain : 1.240161
+street : 1.240161
+countrysid : 1.240161
+inalien : 1.240161
+palaeolith : 1.240161
+mesolith : 1.240161
+neolith : 1.240161
+copper : 1.240161
+bronz : 1.240161
+iron : 1.240161
+ageanci : 1.240161
+greek : 1.240161
+celtic : 1.240161
+frank : 1.240161
+merovingian : 1.240161
+carol : 1.240161
+fervour : nan
+rhineland : nan
+recruit : nan
+amien : nan
+reckon : nan
+queen : 1.240544
+adher : 1.243576
+peasant : 1.244295
+ideal : 1.244302
+bishop : 1.248325
+spendthrift : 1.249269
+fals : 1.249404
+develop : 1.250345
+fought : 1.252004
+control : 1.253676
+rural : 1.256327
+assum : 1.258295
+accus : 1.258549
+count : 1.267140
+citizenship : 1.269093
+liber : 1.273448
+middl : 1.274029
+convention : 1.274860
+gion : 1.277578
+roman : 1.278205
+ancien : 1.286171
+gime : 1.290817
+group : 1.295567
+absolut : 1.306366
+prior : 1.328920
+histor : 1.333109
+debt : 1.333737
+opposit : 1.399432
+land : 1.421640
+while : 1.425693
+roughli : 1.430325
+inaccur : 1.452726
+reduc : 1.468935
+million : 1.488675
+offici : 1.552450
+account : 1.561370
+weaken : 1.598238
+conserv : 1.614409
+great : 1.624943
+council : 1.647845
+privi : 1.729472
+summon : 1.742389
+dismiss : 1.774721
+argu : 1.781836
+fire : 1.940820
+branch : 2.047275
+exempt : 2.065928
+after : 2.102290
+weather : 2.241067
+common : 2.257763
+kingdom : 2.361646
+overthrown : 2.361717
+enlighten : 2.374284
+emphas : 2.380508
+historian : 2.413240
+abruptli : 2.421502
+music : 2.436887
+theme : 2.437850
+septemb : 2.462987
+late : 2.464527
+conflict : 2.473155
+uniform : 2.475828
+central : 2.476041
+flag : 2.480321
+gaul : 2.480321
+aristocrat : 2.483837
+these : 2.504230
+need : 2.694111
+comptrol : 2.695973
+english : 2.759008
+appoint : 3.317310
+proclaim : 3.601595
+marxist : 3.654440
+class : 3.724330
+french : 3.825878
+propos : 3.856913
+unit : 4.014774
+calonn : 4.502353
+versail : 4.859857
+caus : 8.385003
+acceler : 14.801285
+idea : 14.913180
+republ : 22.076220
+oath : 22.111543
+fraternit : 22.721299
+execut : 22.883080
+extern : 23.091753
+feudal : 23.092226
+shape : 23.094087
+close : 23.095101
+cours : 23.099203
+threat : 23.100817
+disappear : 23.102160
+ultim : 23.108524
+privileg : 23.126569
+hierarchi : 23.128459
+inadequ : 27.754505
+featur : 30.655953
+directori : 30.810830
+centuri : 30.857936
+religi : 38.307032
+term : 40.290339
+govern : 40.317172
+state : 40.636408
+coloni : 40.752994
+bastil : 40.755080
+other : 40.781666
+three : 40.814544
+clergi : 40.860038
+major : 40.877352
+right : 40.900198
+robespierr : 40.913872
+impos : 40.939592
+committe : 40.954435
+resent : 40.970666
+take : 40.971476
+maximilien : 40.980817
+safeti : 40.989283
+culmin : 40.995803
+public : 41.003401
+left : 41.036279
+agit : 41.050722
+previou : 41.059228
+elud : 41.062007
+earli : 41.212209
+conclus : 41.212720
+rule : 41.232056
+king : 43.750361
+assembli : 43.859362
+court : 44.512796
+overthrew : 44.576066
+coup : 44.596548
+establish : 44.602450
+brumair : 44.642322
+larg : 44.701647
+victori : 44.756139
+underw : 44.760591
+transform : 44.771459
+histori : 44.783958
+societi : 44.794659
+tradit : 57.645228
+militarili : 72.270518
+bonapart : 72.398833
+member : 72.647192
+declar : 72.724558
+held : 72.760636
+unfold : 72.817191
+revers : 72.823073
+shadow : 72.825632
+abolit : 72.826898
+democraci : 72.842345
+profoundli : 72.854231
+brought : 72.980522
+albeit : 72.989531
+nation : 73.498306
+rise : 73.836995
+revolut : 76.965178
+tenni : 81.877065
+achiev : 82.049090
+most : 82.091603
+facilit : 82.121369
+conquest : 82.121382
+italian : 82.141725
+peninsula : 82.181620
+dictatorship : 85.491790
+gener : 91.875023
+royal : 92.494136
+citizen : 93.673324
+jacqu : 93.742983
+arriv : 93.764123
+began : 93.957612
+forc : 93.997198
+number : 94.186517
+mari : 94.277337
+storm : 94.355383
+attempt : 94.407892
+languag : 94.611133
+their : 94.614304
+messag : 94.961608
+popul : 95.138602
+america : 95.363296
+widespread : 95.503085
+some : 95.530497
+becaus : 95.587388
+north : 95.632065
+suffrag : 95.646263
+spring : 95.686229
+male : 95.728440
+naturalis : 95.728440
+subject : 95.748952
+guard : 95.761480
+consum : 95.791649
+august : 95.807689
+organ : 95.878229
+juli : 95.898725
+train : 96.106620
+place : 96.111894
+will : 96.121046
+individu : 96.143839
+insurg : 96.188577
+call : 96.225579
+focu : 96.249547
+resid : 96.516013
+paid : 96.549330
+earlier : 96.596243
+colloqui : 96.741745
+parti : 96.767394
+precis : 96.810137
+disambigu : 96.840083
+voltair : 96.855175
+pierr : 96.855175
+rest : 96.857916
+occas : 96.868222
+lecteur : 96.876013
+deni : 96.890459
+toulous : 96.896357
+henri : 96.896357
+coubertin : 96.896357
+eiffel : 96.896357
+gustav : 96.896357
+vern : 96.896357
+jule : 96.896357
+katherin : 96.896357
+baker : 96.896357
+gaull : 96.896357
+proust : 96.896357
+marcel : 96.896357
+curi : 96.896357
+lautrec : 96.896357
+josephin : 96.896357
+pasteur : 96.896357
+galoi : 96.896357
+varist : 96.896357
+duma : 96.896357
+hugo : 96.896357
+diderot : 96.896357
+pascal : 96.896357
+blais : 96.896357
+moli : 96.896357
+cartier : 96.896357
+joan : 96.896357
+mosaic : 96.896357
+file : 96.896357
+peoplefran : 96.896357
+redirect : 96.896357
+frenchmen : 96.896357
+francophoni : 96.896357
+ident : 96.896357
+demograph : 96.902514
+victor : 96.967620
+articl : 97.033224
+separ : 97.119467
+spain : 97.204397
+crisi : 97.283279
+austria : 97.501664
+slaveri : 97.680794
+agre : 97.702365
+possess : 97.732937
+proceed : 97.774641
+decemb : 97.777928
+european : 97.792599
+death : 97.810310
+insid : 97.854194
+numer : 97.888548
+domin : 97.940887
+influenc : 98.086650
+overthrow : 98.196687
+throne : 98.199170
+ascend : 98.305909
+border : 98.377779
+oblig : 98.488114
+join : 98.516774
+swear : 98.538420
+germani : 98.553973
+extens : 98.578995
+near : 98.614330
+bankruptci : 98.614330
+outlai : 98.614330
+outpac : 98.614330
+secur : 98.628947
+western : 98.662634
+assault : 98.671075
+contin : 98.681124
+estat : 98.738662
+greater : 98.769452
+abolish : 98.858324
+jambrek : 99.222335
+slovenia : 99.222335
+chairman : 99.222335
+freeli : 99.222335
+expert : 99.222335
+upheav : 99.333133
+volut : 99.341530
+fran : 99.349065
+emerg : 99.718501
+spread : 99.720698
+principl : 99.725355
+consul : 99.769532
+territori : 104.219444
+monarchi : 112.079076
+loui : 113.063906
+period : 115.048885
+dure : 115.907251
+year : 115.971159
+mani : 121.350791
+popular : 121.444233
+support : 121.474007
+countri : 121.512446
+west : 121.598575
+rhine : 121.623299
+june : 123.198896
+author : 123.302732
+bourbon : 131.449576
+where : 135.804665
+elect : 136.485908
+church : 136.862362
+mark : 137.451109
+continent : 138.006089
+coalit : 144.284974
+main : 144.304936
+modern : 145.685092
+under : 147.590651
+constitut : 163.331026
+power : 163.357931
+restor : 165.428777
+were : 167.883493
+radic : 174.926766
+social : 175.979250
+vote : 187.620395
+revolutionari : 189.158127
+american : 191.707165
+refer : 191.791995
+peopl : 191.882895
+britain : 193.410318
+gram : 193.533651
+pure : 193.533651
+analysi : 193.709232
+financ : 194.806617
+terror : 195.391753
+face : 195.712505
+seven : 196.051609
+except : 197.418680
+independ : 197.490695
+rebuilt : 197.508935
+perform : 197.516298
+gain : 197.584491
+consid : 197.854054
+antiqu : 197.987385
+militari : 215.929943
+that : 253.486253
+europ : 257.254780
+reign : 273.751899
+pari : 280.032630
+thei : 289.133691
+denomin : 290.248128
+real : 296.420313
+defeat : 332.233007
+gold : 387.067301
+slovenian : 396.889338
+februari : 399.377388
+with : 431.538940
+system : 431.595127
+financi : 492.352022
+coin : 580.600952
+polit : 639.265826
+empir : 689.407210
+first : 744.232149
+napoleon : 1389.663899
+third : 1619.542743
+franc : 1652.006479
+kill terms:
+religion
+autonomi
+correspond
+usag
+disciplin
+maritim
+blue
+effort
+full
+doctrin
+marin
+concert
+suprem
+troubl
+belgium
+regard
+river
+drawn
+candidatur
+recommend
+peer
+potenti
+directli
+broaden
+cameron
+target
+primari
+prioriti
+categori
+edit
+famou
+stage
+dens
+center
+level
+fold
+bibl
+hous
+case
+philosophi
+cultur
+netherland
+eastern
+approach
+tower
+crowd
+domest
+prove
+innov
+port
+gatewai
+demolish
+onward
+subscrib
+republish
+journalist
+photograph
+stori
+bureau
+network
+newscast
+hourli
+agenc
+satellit
+publ
+fundament
+determin
+offer
+phonet
+articulatori
+proper
+coron
+render
+denmark
+phonem
+question
+unicod
+norwai
+normal
+charact
+southernmost
+alveolar
+uvular
+neighbor
+avoir
+lieu
+domicili
+naturali
+faut
+actual
+relief
+monument
+celebr
+portrai
+ramess
+pharaoh
+profess
+aspect
+adject
+imperi
+kadesh
+expans
+lethal
+feat
+junta
+agenda
+endur
+combat
+behest
+chef
+strike
+capabl
+client
+unpopular
+civilian
+final
+replac
+univers
+novemb
+prison
+orchestr
+dark
+label
+manoeuvr
+compris
+commit
+school
+fight
+gendarmeri
+style
+movement
+press
+nuclear
+presid
+document
+thousand
+jean
+natur
+australian
+neoclass
+regim
+free
+expand
+hampshir
+enoch
+brigadi
+builder
+merchant
+exet
+navi
+product
+part
+film
+dorset
+earl
+mous
+behalf
+deleg
+exclus
+mediev
+imag
+album
+person
+administ
+half
+explod
+success
+forcibl
+heir
+possessor
+upris
+interv
+flee
+ghent
+ahead
+disord
+depos
+triumphantli
+greet
+dizzi
+rousseau
+fayett
+montesquieu
+arrest
+attir
+isidor
+lawyer
+penalti
+possibl
+unimpos
+antoin
+cooper
+station
+competit
+intern
+musician
+devot
+swap
+slot
+tape
+guarante
+lamin
+cardboard
+dead
+grate
+setlist
+band
+hand
+perman
+famili
+national
+poor
+club
+fall
+academ
+tast
+span
+avoid
+section
+type
+older
+successor
+montagu
+distinguish
+market
+direct
+painter
+paint
+jacobit
+jacobean
+concentr
+incept
+unrel
+actor
+protect
+hold
+commonli
+magazin
+belong
+base
+broadcast
+local
+interpret
+feder
+pronunci
+influenti
+slave
+convent
+john
+plai
+record
+blame
+flourish
+foster
+emot
+superstit
+intoler
+romantic
+abus
+baruch
+spinoza
+bayl
+physicist
+isaac
+newton
+invent
+rapid
+usual
+penisola
+vallei
+apennin
+pamphlet
+lotharingia
+uniqu
+entiti
+observ
+essenc
+object
+dissemin
+stand
+industri
+oral
+condit
+occur
+classic
+corpor
+reserv
+farrel
+prize
+articul
+novel
+leader
+jointli
+civil
+promot
+attack
+best
+televis
+seigneuri
+advanc
+award
+fill
+directoir
+hundr
+guttur
+rhotic
+tour
+night
+ontolog
+implic
+strawson
+content
+logic
+pattern
+admit
+writer
+properti
+sens
+philipp
+guillotin
+girondin
+extinct
+capetian
+napl
+parma
+vend
+turn
+both
+line
+nineteenth
+philip
+lead
+dominican
+contemporari
+mishandl
+shop
+monograph
+journal
+bookshop
+bookworm
+parchment
+hing
+biographi
+blank
+bought
+avid
+reader
+bookstor
+bibliophil
+fasten
+librari
+ruler
+paper
+associ
+pend
+long
+work
+lift
+holi
+eventu
+root
+smaller
+morn
+prime
+realiti
+mean
+reflect
+fashion
+function
+thought
+conson
+defin
+sequenc
+theori
+mind
+oper
+cover
+geograph
+provid
+debat
+distinct
+symbol
+global
+form
+format
+true
+role
+definit
+world
+disestablish
+fourth
+express
+compil
+authoritarian
+gerrymand
+serfdom
+earth
+brooklyn
+seat
+sold
+door
+sola
+justif
+artist
+soviet
+shortli
+materi
+arena
+list
+point
+small
+liberti
+water
+divid
+procedur
+budgetari
+good
+physic
+serial
+return
+print
+produc
+resourc
+varieti
+enjoi
+media
+shock
+emphasi
+reason
+intellectu
+written
+deal
+food
+german
+prefer
+price
+pollut
+audienc
+chart
+sampl
+newspap
+speaker
+singl
+women
+irish
+dauphin
+labor
+instrument
+protest
+grievanc
+cahier
+northern
+donor
+spend
+technic
+regist
+super
+regul
+publicli
+expressli
+upper
+disclos
+revenu
+east
+victim
+enforc
+abduct
+select
+activ
+southeastern
+discont
+hostil
+stumbl
+grow
+tortur
+grandfath
+taill
+toler
+locat
+second
+seek
+divis
+moral
+meaning
+truthbear
+south
+busi
+room
+transpir
+worst
+circumst
+reassembl
+anxiou
+pledg
+solemn
+immin
+congreg
+paum
+pivot
+sign
+makeshift
+immedi
+honor
+serment
+riqueti
+discov
+subgenr
+banjo
+electr
+acoust
+accompani
+harmoni
+guitar
+fiddl
+tune
+danc
+ballad
+folk
+cowboi
+harmonica
+hillbilli
+listen
+rush
+hour
+turnout
+transport
+simpl
+cond
+cadet
+dynasti
+conti
+text
+reaction
+electron
+counti
+appli
+marxian
+voluntari
+leaf
+literatur
+illustr
+sheet
+thermidorian
+estim
+event
+princ
+controversi
+entir
+franci
+wholli
+squar
+enemi
+precipit
+habsburg
+strong
+fortress
+unesco
+describ
+design
+perceiv
+awar
+contribut
+space
+grew
+asia
+contrast
+unchang
+commerc
+heart
+parisienn
+headquart
+oecd
+sein
+host
+facto
+spanish
+string
+government
+saint
+dylan
+boundari
+even
+follow
+parliamentari
+decad
+southern
+limit
+expens
+york
+borough
+scienc
+ordain
+radio
+migrat
+puerto
+rico
+colon
+wave
+settler
+langu
+preserv
+suppos
+tyrann
+ceas
+oligarchi
+sentenc
+there
+statu
+approxim
+entertain
+expenditur
+human
+lock
+libertarian
+side
+marxism
+defenc
+staff
+todai
+origin
+concept
+situat
+discuss
+palac
+leadership
+despot
+consist
+assert
+typic
+ocean
+ethnic
+democrat
+weapon
+hungarian
+austro
+stir
+intent
+genr
+ammunit
+cach
+then
+nomin
+exampl
+higher
+commut
+england
+escal
+indiffer
+ministri
+isol
+howev
+live
+view
+campaign
+polici
+island
+monarch
+wait
+africa
+centr
+senior
+metropolitan
+what
+januari
+hungari
+share
+area
+motion
+sinc
+includ
+inform
+cost
+undermin
+exagger
+oppos
+differ
+largest
+song
+ireland
+appeal
+benefit
+invit
+region
+reform
+factor
+ancient
+month
+oppon
+those
+initi
+fiscal
+announc
+nativ
+indecis
+mechan
+candid
+proposit
+struggl
+deliber
+respons
+posit
+commun
+nobil
+regress
+deficit
+underestim
+complet
+jacobin
+signal
+endors
+overtli
+claim
+book
+distribut
+restructur
+lower
+often
+enact
+union
+clear
+allow
+conduct
+citi
+although
+thwart
+creat
+intend
+econom
+heavi
+negoti
+extrem
+galit
+solv
+monei
+libert
+mantra
+borrow
+destroi
+convoc
+passag
+exist
+sketch
+futur
+secular
+austrian
+wing
+move
+collaps
+equal
+siei
+aspir
+aristocraci
+mass
+hatr
+progress
+identifi
+model
+david
+couch
+poorer
+republican
+anger
+antoinett
+franceprehistori
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =    420
+NO. OF NON-ZERO VALUES    =   4468
+MATRIX DENSITY            =   7.65%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     29
+RITZ VALUES STABILIZED    =     14
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     14
+2deltas resources:
+http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 0.076209
+http://dbpedia.org/resource/Storming_of_the_Bastille : 0.080442
+http://dbpedia.org/resource/Salle_Le_Peletier : 0.086025
+http://dbpedia.org/resource/24_%28season_2%29 : 0.340917
+http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.345735
+http://dbpedia.org/resource/October_14 : 0.384348
+http://dbpedia.org/resource/December_27 : 0.526595
+http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 0.712762
+http://dbpedia.org/resource/Externality : 0.736073
+http://dbpedia.org/resource/Ethnic_group : 0.777104
+http://dbpedia.org/resource/June_17 : 1.320614
+http://dbpedia.org/resource/Queens : 2.309586
+http://dbpedia.org/resource/Marie_Antoinette : 2.312880
+http://dbpedia.org/resource/Political_party : 2.574930
+http://dbpedia.org/resource/French_people : 2.610562
+http://dbpedia.org/resource/France_Bu%C4%8Dar : 3.950105
+http://dbpedia.org/resource/Subject_%28philosophy%29 : 5.912451
+http://dbpedia.org/resource/Citizenship : 7.472080
+http://dbpedia.org/resource/1922_Committee : 9.149882
+http://dbpedia.org/resource/June_20 : 9.214076
+http://dbpedia.org/resource/June_27 : 9.345807
+http://dbpedia.org/resource/Common_land : 16.591800
+http://dbpedia.org/resource/Executive_%28government%29 : 19.402373
+http://dbpedia.org/resource/Gerrymandering : 27.101699
+http://dbpedia.org/resource/Austrian_Empire : 28.804074
+http://dbpedia.org/resource/Negotiation : 29.875085
+http://dbpedia.org/resource/July_14 : 30.401573
+http://dbpedia.org/resource/August_26 : 30.402052
+http://dbpedia.org/resource/Comptroller : 31.752194
+http://dbpedia.org/resource/Napoleon_%28coin%29 : 32.211233
+http://dbpedia.org/resource/British_Empire : 32.410217
+http://dbpedia.org/resource/Military : 32.842412
+http://dbpedia.org/resource/Weather : 35.598946
+http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 36.127929
+http://dbpedia.org/resource/Protestantism : 36.228212
+http://dbpedia.org/resource/John_Major : 37.974122
+http://dbpedia.org/resource/Globalization : 39.436254
+http://dbpedia.org/resource/Rain : 41.220863
+http://dbpedia.org/resource/Election : 42.914170
+http://dbpedia.org/resource/Future : 47.249563
+http://dbpedia.org/resource/Parlement : 49.814754
+http://dbpedia.org/resource/August_7 : 51.818519
+http://dbpedia.org/resource/May_5 : 53.021277
+http://dbpedia.org/resource/July_1 : 54.008870
+http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 57.736849
+http://dbpedia.org/resource/People : 58.072385
+http://dbpedia.org/resource/American_Revolutionary_War : 64.279185
+http://dbpedia.org/resource/Set_list : 65.180115
+http://dbpedia.org/resource/First_French_Empire : 65.261210
+http://dbpedia.org/resource/1990s : 66.777279
+http://dbpedia.org/resource/Messages_%28OMD_song%29 : 71.428166
+http://dbpedia.org/resource/Court_%28royal%29 : 74.186512
+http://dbpedia.org/resource/Country_music : 83.521830
+http://dbpedia.org/resource/Dick_Spring : 84.969849
+http://dbpedia.org/resource/527_organization : 85.074317
+http://dbpedia.org/resource/Enoch_Poor : 86.390930
+http://dbpedia.org/resource/Libertarianism : 87.315575
+http://dbpedia.org/resource/Artois : 88.672029
+http://dbpedia.org/resource/The_Passage_%28film%29 : 92.485622
+http://dbpedia.org/resource/June_8 : 92.684711
+http://dbpedia.org/resource/Popular_music : 94.545363
+http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 95.296861
+http://dbpedia.org/resource/September_27 : 95.680341
+http://dbpedia.org/resource/Absolute_%28philosophy%29 : 96.024844
+http://dbpedia.org/resource/Menu : 96.271341
+http://dbpedia.org/resource/Associated_Press : 96.678794
+http://dbpedia.org/resource/Matthew_Prior : 97.065503
+http://dbpedia.org/resource/Strong,_Ontario : 97.977755
+http://dbpedia.org/resource/Book : 99.259797
+http://dbpedia.org/resource/Pamphlet : 99.965714
+http://dbpedia.org/resource/Troubles_%28novel%29 : 100.678798
+http://dbpedia.org/resource/Low_Countries : 103.686789
+http://dbpedia.org/resource/A-List_%28Conservative%29 : 104.061587
+http://dbpedia.org/resource/Proposition : 104.494732
+http://dbpedia.org/resource/Centuria : 112.521620
+http://dbpedia.org/resource/Comte : 112.937737
+http://dbpedia.org/resource/Reign_of_Terror : 116.620745
+http://dbpedia.org/resource/20th_century : 117.472494
+http://dbpedia.org/resource/1780s : 124.570962
+http://dbpedia.org/resource/Woman : 124.602605
+http://dbpedia.org/resource/Palace_of_Versailles : 127.060513
+http://dbpedia.org/resource/Kingdom_of_Great_Britain : 129.503070
+http://dbpedia.org/resource/Delegate : 132.265018
+http://dbpedia.org/resource/North_America : 139.241548
+http://dbpedia.org/resource/Forced_disappearance : 144.675834
+http://dbpedia.org/resource/House_of_Bourbon : 149.202980
+http://dbpedia.org/resource/Age_of_Enlightenment : 153.056191
+http://dbpedia.org/resource/French_Revolutionary_Wars : 154.610087
+http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 156.238517
+http://dbpedia.org/resource/Dauphin%C3%A9 : 156.663851
+http://dbpedia.org/resource/Tina_Arena : 163.390178
+http://dbpedia.org/resource/June_10 : 164.700911
+http://dbpedia.org/resource/Legislative_Assembly : 166.244595
+http://dbpedia.org/resource/Italian_Peninsula : 170.491869
+http://dbpedia.org/resource/Marxism : 171.869813
+http://dbpedia.org/resource/Refused : 184.102680
+http://dbpedia.org/resource/The_Guard_%282001_film%29 : 190.093371
+http://dbpedia.org/resource/American_English : 193.582367
+http://dbpedia.org/resource/Catholic_Church : 194.406252
+http://dbpedia.org/resource/The_Double_%28novel%29
+ : 194.483841
+http://dbpedia.org/resource/Assembly_of_Notables : 198.737785
+http://dbpedia.org/resource/Committee_of_Public_Safety : 203.451958
+http://dbpedia.org/resource/Bastille : 205.138758
+http://dbpedia.org/resource/Paris : 206.621792
+http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 207.044158
+http://dbpedia.org/resource/July_11 : 208.865986
+http://dbpedia.org/resource/Louis_XVI_of_France : 210.677803
+http://dbpedia.org/resource/National_Constituent_Assembly : 218.719309
+http://dbpedia.org/resource/The_West_Australian : 227.372398
+http://dbpedia.org/resource/Abolitionism : 227.495253
+http://dbpedia.org/resource/January_17 : 230.001406
+http://dbpedia.org/resource/Communes_of_France : 231.835091
+http://dbpedia.org/resource/Napoleonic_Wars : 235.205576
+http://dbpedia.org/resource/French_and_Indian_War : 250.563030
+http://dbpedia.org/resource/Government_of_France : 251.104770
+http://dbpedia.org/resource/Estates-General_of_1789 : 261.118553
+http://dbpedia.org/resource/French_Consulate : 262.388445
+http://dbpedia.org/resource/Bourbon_Restoration : 281.021212
+http://dbpedia.org/resource/Main_%28river%29 : 302.444368
+http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 313.640691
+http://dbpedia.org/resource/Jacobin_%28politics%29 : 334.984890
+http://dbpedia.org/resource/Tennis_Court_Oath : 361.708557
+http://dbpedia.org/resource/French_Directory : 407.060232
+http://dbpedia.org/resource/Guttural_R : 437.910304
+http://dbpedia.org/resource/Thermidorian_Reaction : 440.503577
+http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 462.415811
+http://dbpedia.org/resource/Jacques-Louis_David : 484.102510
+http://dbpedia.org/resource/Maximilien_Robespierre : 490.469835
+http://dbpedia.org/resource/French_Navy : 493.285796
+http://dbpedia.org/resource/French_Armed_Forces : 498.264311
+http://dbpedia.org/resource/Confederation_of_the_Rhine : 528.618158
+http://dbpedia.org/resource/18_Brumaire : 594.772792
+http://dbpedia.org/resource/Napoleon : 633.193534
+http://dbpedia.org/resource/Jacques_Necker : 785.436699
+http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 1102.555688
+http://dbpedia.org/resource/Estates_of_the_realm : 1298.390561
+http://dbpedia.org/resource/General_%28Canada%29 : 1456.169089
+http://dbpedia.org/resource/The_Estates : 1904.137989
+http://dbpedia.org/resource/French_Revolution : 2318.566843
+2deltas terms:
+unit : 0.036783
+weather : 0.048557
+music : 0.134104
+branch : 0.159090
+european : 0.221088
+kingdom : 0.237388
+need : 0.611461
+reduc : 0.822113
+exempt : 0.828280
+while : 0.851924
+million : 0.967510
+north : 1.011543
+america : 1.014004
+possess : 1.074880
+throne : 1.080936
+oblig : 1.084918
+outlai : 1.085367
+near : 1.085367
+bankruptci : 1.085367
+outpac : 1.085367
+death : 1.089058
+slaveri : 1.091092
+secur : 1.099792
+abolish : 1.103692
+overthrow : 1.111206
+border : 1.121751
+crisi : 1.128283
+chairman : 1.131970
+jambrek : 1.131970
+slovenia : 1.131970
+freeli : 1.131970
+expert : 1.131970
+proceed : 1.138243
+swear : 1.139267
+account : 1.140370
+debt : 1.187365
+numer : 1.220761
+insid : 1.258529
+mark : 1.317699
+inaccur : 1.324083
+parti : 1.463017
+arriv : 1.516140
+number : 1.538843
+council : 1.556138
+messag : 1.568167
+popul : 1.597232
+privi : 1.599775
+consum : 1.612523
+languag : 1.635280
+disambigu : 1.677361
+storm : 1.685374
+demograph : 1.686197
+train : 1.688214
+guard : 1.689359
+mari : 1.689735
+precis : 1.692698
+lecteur : 1.693526
+francophoni : 1.700125
+marcel : 1.700125
+curi : 1.700125
+lautrec : 1.700125
+frenchmen : 1.700125
+toulous : 1.700125
+redirect : 1.700125
+henri : 1.700125
+peoplefran : 1.700125
+file : 1.700125
+gustav : 1.700125
+baker : 1.700125
+josephin : 1.700125
+gaull : 1.700125
+proust : 1.700125
+ident : 1.700125
+varist : 1.700125
+galoi : 1.700125
+eiffel : 1.700125
+pasteur : 1.700125
+jule : 1.700125
+vern : 1.700125
+coubertin : 1.700125
+mosaic : 1.700125
+katherin : 1.700125
+joan : 1.700125
+cartier : 1.700125
+moli : 1.700125
+blais : 1.700125
+pascal : 1.700125
+diderot : 1.700125
+hugo : 1.700125
+duma : 1.700125
+deni : 1.700334
+some : 1.714686
+their : 1.721449
+pierr : 1.724215
+voltair : 1.724215
+insurg : 1.780600
+august : 1.803555
+citizen : 1.962496
+american : 2.079937
+fire : 2.089121
+victor : 2.090229
+britain : 2.134058
+seven : 2.150835
+rebuilt : 2.235452
+terror : 2.237745
+independ : 2.237795
+perform : 2.268033
+antiqu : 2.269363
+gain : 2.295926
+consid : 2.300702
+opposit : 2.328819
+face : 2.346585
+middl : 2.452896
+right : 2.505037
+real : 3.384618
+analysi : 3.427483
+slovenian : 4.527880
+june : 5.128115
+focu : 5.189083
+will : 5.228345
+earlier : 5.245138
+colloqui : 5.266683
+financi : 5.717448
+overthrew : 5.852736
+militari : 7.500547
+februari : 7.555393
+directori : 8.244665
+monarchi : 8.943169
+constitut : 9.795317
+pure : 10.528744
+harvest : nan
+culott : nan
+disast : nan
+humbl : nan
+meanwhil : nan
+incom : nan
+burden : nan
+shortag : nan
+livr : nan
+comptrollership : nan
+thirti : nan
+wealthi : nan
+suffici : nan
+imposit : nan
+censorship : nan
+clergyman : nan
+everyth : nan
+noth : nan
+plaisir : nan
+arbitr : nan
+unsuccess : nan
+advisor : nan
+riot : nan
+chao : nan
+loot : nan
+roth : nan
+fervour : nan
+rhineland : nan
+recruit : nan
+amien : nan
+reckon : nan
+gram : 10.528744
+financ : 11.890314
+extens : 12.043993
+transform : 14.511293
+reign : 14.878052
+hierarchi : 15.399065
+prior : 15.584156
+denomin : 15.795228
+except : 18.794628
+revers : 20.893797
+gold : 21.057487
+roman : 22.030252
+countri : 22.389442
+support : 22.524230
+mani : 22.651187
+popular : 22.923770
+west : 23.051267
+rhine : 23.082098
+earli : 23.553117
+brumair : 24.799759
+coup : 24.850437
+conclus : 25.082972
+author : 26.125542
+continent : 26.504812
+franc : 26.814814
+other : 27.098167
+royal : 27.363309
+underw : 27.828422
+separ : 28.009553
+inadequ : 28.076869
+join : 28.148208
+tenni : 28.340588
+church : 30.162940
+conserv : 30.970614
+left : 31.547257
+agit : 31.547957
+coin : 31.586231
+unfold : 32.382561
+abolit : 32.388762
+shadow : 32.396304
+profoundli : 32.432053
+democraci : 32.441326
+jacqu : 33.342933
+control : 33.601978
+polit : 33.752410
+power : 33.795291
+court : 33.972731
+declar : 35.635157
+main : 36.102786
+convention : 36.679050
+oath : 37.629151
+great : 37.793831
+most : 38.068078
+period : 38.807275
+juli : 38.853715
+influenc : 38.949339
+modern : 38.950111
+austria : 39.015459
+greater : 39.041081
+domin : 39.052533
+contin : 39.053487
+spain : 39.091896
+germani : 39.110888
+western : 39.111696
+resid : 40.570607
+paid : 40.575772
+individu : 40.628451
+place : 40.635063
+articl : 40.902483
+resent : 41.693448
+robespierr : 41.699129
+maximilien : 41.707747
+culmin : 41.710853
+elud : 41.780501
+previou : 41.785086
+coloni : 41.966897
+major : 42.295440
+impos : 42.336536
+safeti : 42.395390
+committe : 42.442697
+public : 42.508614
+term : 43.530540
+revolutionari : 44.831376
+larg : 45.135783
+rule : 49.468902
+decemb : 49.518700
+with : 52.174798
+defeat : 53.368112
+peasant : 54.639755
+these : 56.119609
+where : 57.124189
+clergi : 57.287330
+develop : 58.904286
+refer : 69.903299
+pari : 71.359592
+ascend : 71.656227
+agre : 72.460505
+loui : 72.980182
+began : 74.884721
+widespread : 74.972667
+societi : 75.509930
+upheav : 76.999973
+volut : 77.006525
+fran : 77.016008
+brought : 77.479550
+offici : 81.584317
+appoint : 81.973436
+comptrol : 82.563448
+elect : 83.105752
+achiev : 83.472858
+facilit : 83.560216
+conquest : 83.570544
+italian : 83.593651
+peninsula : 83.663421
+privileg : 84.921033
+nation : 86.273381
+dictatorship : 86.908840
+principl : 90.837768
+emerg : 90.858597
+english : 93.642120
+peopl : 94.248632
+queen : 96.307223
+absolut : 96.460537
+group : 96.677940
+bonapart : 96.991904
+fals : 97.044638
+ancien : 97.058024
+gime : 97.077442
+accus : 97.271583
+histor : 97.518349
+spendthrift : 97.547979
+victori : 97.600801
+citizenship : 97.669856
+fought : 97.670449
+adher : 97.848288
+rural : 97.932201
+frank : 97.958578
+mesolith : 97.958578
+palaeolith : 97.958578
+inalien : 97.958578
+copper : 97.958578
+bronz : 97.958578
+iron : 97.958578
+ageanci : 97.958578
+greek : 97.958578
+celtic : 97.958578
+countrysid : 97.958578
+neolith : 97.958578
+street : 97.958578
+sustain : 97.958578
+evapor : 97.958578
+merovingian : 97.958578
+epic : 97.958578
+impact : 97.958578
+carol : 97.958578
+histori : 98.001186
+gion : 98.031923
+count : 98.134711
+under : 98.177105
+bishop : 98.232629
+year : 101.383368
+enlighten : 101.414610
+spring : 101.557390
+male : 101.560994
+naturalis : 101.560994
+suffrag : 101.598264
+govern : 103.200058
+territori : 105.660605
+albeit : 108.576028
+ultim : 111.376746
+acceler : 113.996240
+dure : 115.320716
+idea : 115.758196
+late : 120.785797
+fraternit : 121.538883
+republ : 123.395333
+execut : 123.668688
+feudal : 123.773831
+extern : 123.792397
+threat : 123.795617
+close : 123.803503
+shape : 123.809156
+cours : 123.811124
+proclaim : 124.201497
+europ : 125.911229
+assault : 126.452938
+assembli : 127.412430
+restor : 131.353323
+militarili : 131.519088
+attempt : 134.650927
+call : 138.093672
+becaus : 138.471891
+roughli : 138.980971
+summon : 139.211585
+subject : 141.069062
+establish : 148.300447
+rise : 151.505313
+spread : 152.347313
+disappear : 152.439426
+napoleon : 157.467002
+member : 158.087639
+take : 164.164188
+central : 165.189639
+after : 174.708024
+liber : 182.136498
+social : 183.030210
+empir : 183.284520
+that : 191.193143
+assum : 193.615604
+system : 193.881023
+featur : 194.186333
+conflict : 195.221890
+overthrown : 195.537609
+septemb : 195.558469
+abruptli : 195.654859
+flag : 195.917156
+gaul : 195.917156
+historian : 196.003112
+emphas : 196.145076
+aristocrat : 196.196785
+theme : 196.325536
+class : 200.006293
+ideal : 200.295829
+land : 201.633902
+first : 207.502711
+consul : 209.545817
+caus : 210.182258
+coalit : 213.515752
+occas : 215.430769
+rest : 215.455976
+centuri : 217.623126
+third : 218.161810
+dismiss : 224.370479
+radic : 229.389216
+tradit : 235.275891
+thei : 235.287682
+religi : 238.951696
+forc : 244.052874
+three : 244.476439
+bourbon : 258.443700
+held : 260.603026
+gener : 269.575771
+marxist : 294.524399
+state : 325.255864
+argu : 340.877429
+organ : 373.482779
+were : 379.279500
+common : 380.318972
+weaken : 489.687415
+vote : 511.599763
+versail : 565.789937
+bastil : 660.585903
+uniform : 662.505703
+propos : 789.795204
+revolut : 1103.802783
+calonn : 1187.384139
+french : 1330.124408
+king : 1435.781662
+estat : 2582.451122
+kill terms:
+unit
+weather
+music
+branch
+european
+kingdom
+need
+reduc
+exempt
+while
+million
+north
+america
+possess
+throne
+oblig
+outlai
+near
+bankruptci
+outpac
+death
+slaveri
+secur
+abolish
+overthrow
+border
+crisi
+chairman
+jambrek
+slovenia
+freeli
+expert
+proceed
+swear
+account
+debt
+numer
+insid
+mark
+inaccur
+parti
+arriv
+number
+council
+messag
+popul
+privi
+consum
+languag
+disambigu
+storm
+demograph
+train
+guard
+mari
+precis
+lecteur
+francophoni
+marcel
+curi
+lautrec
+frenchmen
+toulous
+redirect
+henri
+peoplefran
+file
+gustav
+baker
+josephin
+gaull
+proust
+ident
+varist
+galoi
+eiffel
+pasteur
+jule
+vern
+coubertin
+mosaic
+katherin
+joan
+cartier
+moli
+blais
+pascal
+diderot
+hugo
+duma
+deni
+some
+their
+pierr
+voltair
+insurg
+august
+citizen
+american
+fire
+victor
+britain
+seven
+rebuilt
+terror
+independ
+perform
+antiqu
+gain
+consid
+opposit
+face
+middl
+right
+real
+analysi
+slovenian
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =    303
+NO. OF NON-ZERO VALUES    =   3783
+MATRIX DENSITY            =   8.98%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     33
+RITZ VALUES STABILIZED    =     11
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     11
+3deltas resources:
+http://dbpedia.org/resource/December_27 : 0.047314
+http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.268666
+http://dbpedia.org/resource/Marxism : 3.728295
+http://dbpedia.org/resource/The_Estates : 6.630154
+http://dbpedia.org/resource/House_of_Bourbon : 8.671212
+http://dbpedia.org/resource/Externality : 10.173125
+http://dbpedia.org/resource/General_%28Canada%29 : 11.311052
+http://dbpedia.org/resource/People : 13.881756
+http://dbpedia.org/resource/September_27 : 15.198164
+http://dbpedia.org/resource/Reign_of_Terror : 15.209313
+http://dbpedia.org/resource/Estates_of_the_realm : 15.621920
+http://dbpedia.org/resource/Bourbon_Restoration : 17.469595
+http://dbpedia.org/resource/Protestantism : 17.569778
+http://dbpedia.org/resource/August_7 : 20.607191
+http://dbpedia.org/resource/Napoleon : 25.953786
+http://dbpedia.org/resource/Election : 26.133184
+http://dbpedia.org/resource/Troubles_%28novel%29 : 27.923202
+http://dbpedia.org/resource/Parlement : 28.040067
+http://dbpedia.org/resource/Austrian_Empire : 31.360024
+http://dbpedia.org/resource/Executive_%28government%29 : 32.128088
+http://dbpedia.org/resource/Future : 35.380914
+http://dbpedia.org/resource/August_26 : 37.725155
+http://dbpedia.org/resource/July_14 : 37.730164
+http://dbpedia.org/resource/Rain : 37.862657
+http://dbpedia.org/resource/Globalization : 39.137337
+http://dbpedia.org/resource/Citizenship : 41.418614
+http://dbpedia.org/resource/French_and_Indian_War : 41.602987
+http://dbpedia.org/resource/June_27 : 42.075379
+http://dbpedia.org/resource/Libertarianism : 42.109715
+http://dbpedia.org/resource/Subject_%28philosophy%29 : 45.712092
+http://dbpedia.org/resource/Gerrymandering : 45.966274
+http://dbpedia.org/resource/June_20 : 47.640947
+http://dbpedia.org/resource/Military : 48.502572
+http://dbpedia.org/resource/Set_list : 49.055121
+http://dbpedia.org/resource/Comte : 52.322561
+http://dbpedia.org/resource/July_1 : 55.223987
+http://dbpedia.org/resource/Pamphlet : 56.982439
+http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 59.230981
+http://dbpedia.org/resource/Court_%28royal%29 : 59.712527
+http://dbpedia.org/resource/Queens : 62.322111
+http://dbpedia.org/resource/Assembly_of_Notables : 63.179373
+http://dbpedia.org/resource/Centuria : 66.025774
+http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 71.503037
+http://dbpedia.org/resource/Proposition : 72.299506
+http://dbpedia.org/resource/Enoch_Poor : 73.706327
+http://dbpedia.org/resource/Messages_%28OMD_song%29 : 73.724825
+http://dbpedia.org/resource/Artois : 73.930167
+http://dbpedia.org/resource/1990s : 74.852075
+http://dbpedia.org/resource/Absolute_%28philosophy%29 : 76.151813
+http://dbpedia.org/resource/French_Revolutionary_Wars : 76.162630
+http://dbpedia.org/resource/Strong,_Ontario : 78.015331
+http://dbpedia.org/resource/Delegate : 91.147601
+http://dbpedia.org/resource/Book : 93.285552
+http://dbpedia.org/resource/John_Major : 97.305243
+http://dbpedia.org/resource/Low_Countries : 97.922716
+http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 100.216914
+http://dbpedia.org/resource/October_14 : 101.664286
+http://dbpedia.org/resource/Popular_music : 102.265407
+http://dbpedia.org/resource/North_America : 104.053556
+http://dbpedia.org/resource/20th_century : 111.753472
+http://dbpedia.org/resource/1780s : 115.705601
+http://dbpedia.org/resource/Dick_Spring : 115.711308
+http://dbpedia.org/resource/Comptroller : 119.301942
+http://dbpedia.org/resource/British_Empire : 121.162646
+http://dbpedia.org/resource/Storming_of_the_Bastille : 121.213348
+http://dbpedia.org/resource/Woman : 121.623135
+http://dbpedia.org/resource/Country_music : 129.125121
+http://dbpedia.org/resource/Matthew_Prior : 130.714091
+http://dbpedia.org/resource/Louis_XVI_of_France : 136.097755
+http://dbpedia.org/resource/July_11 : 137.666373
+http://dbpedia.org/resource/Tina_Arena : 142.236254
+http://dbpedia.org/resource/Associated_Press : 143.189805
+http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 146.964186
+http://dbpedia.org/resource/Political_party : 148.074434
+http://dbpedia.org/resource/Negotiation : 150.358615
+http://dbpedia.org/resource/The_Passage_%28film%29 : 154.505589
+http://dbpedia.org/resource/June_8 : 154.700229
+http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 159.896302
+http://dbpedia.org/resource/1922_Committee : 163.778250
+http://dbpedia.org/resource/Jacobin_%28politics%29 : 164.838447
+http://dbpedia.org/resource/Communes_of_France : 166.393118
+http://dbpedia.org/resource/Forced_disappearance : 174.139677
+http://dbpedia.org/resource/Dauphin%C3%A9 : 181.412358
+http://dbpedia.org/resource/American_Revolutionary_War : 185.138537
+http://dbpedia.org/resource/24_%28season_2%29 : 187.979294
+http://dbpedia.org/resource/Salle_Le_Peletier : 188.052428
+http://dbpedia.org/resource/Committee_of_Public_Safety : 188.874858
+http://dbpedia.org/resource/Age_of_Enlightenment : 193.555384
+http://dbpedia.org/resource/Abolitionism : 194.746589
+http://dbpedia.org/resource/The_Guard_%282001_film%29 : 200.096676
+http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 204.458653
+http://dbpedia.org/resource/Menu : 207.576432
+http://dbpedia.org/resource/Weather : 211.396606
+http://dbpedia.org/resource/May_5 : 219.494160
+http://dbpedia.org/resource/A-List_%28Conservative%29 : 221.034539
+http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 222.422082
+http://dbpedia.org/resource/527_organization : 225.263152
+http://dbpedia.org/resource/The_West_Australian : 232.190855
+http://dbpedia.org/resource/Refused : 253.184272
+http://dbpedia.org/resource/Palace_of_Versailles : 258.238113
+http://dbpedia.org/resource/June_17 : 258.759549
+http://dbpedia.org/resource/June_10 : 261.122405
+http://dbpedia.org/resource/Catholic_Church : 269.880860
+http://dbpedia.org/resource/Government_of_France : 273.651124
+http://dbpedia.org/resource/Paris : 279.361999
+http://dbpedia.org/resource/The_Double_%28novel%29
+ : 285.400017
+http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 298.830963
+http://dbpedia.org/resource/January_17 : 310.289699
+http://dbpedia.org/resource/Marie_Antoinette : 318.053172
+http://dbpedia.org/resource/American_English : 323.203995
+http://dbpedia.org/resource/Kingdom_of_Great_Britain : 332.981675
+http://dbpedia.org/resource/French_Directory : 345.281895
+http://dbpedia.org/resource/Bastille : 367.559248
+http://dbpedia.org/resource/Guttural_R : 400.555491
+http://dbpedia.org/resource/Ethnic_group : 402.843531
+http://dbpedia.org/resource/Main_%28river%29 : 403.977370
+http://dbpedia.org/resource/National_Constituent_Assembly : 435.026942
+http://dbpedia.org/resource/French_Consulate : 549.661750
+http://dbpedia.org/resource/Jacques-Louis_David : 587.105742
+http://dbpedia.org/resource/Napoleonic_Wars : 595.194351
+http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 606.417403
+http://dbpedia.org/resource/French_Armed_Forces : 635.066871
+http://dbpedia.org/resource/Thermidorian_Reaction : 635.465247
+http://dbpedia.org/resource/French_Navy : 642.044030
+http://dbpedia.org/resource/Estates-General_of_1789 : 652.890051
+http://dbpedia.org/resource/Confederation_of_the_Rhine : 666.107345
+http://dbpedia.org/resource/Napoleon_%28coin%29 : 717.092538
+http://dbpedia.org/resource/Italian_Peninsula : 738.048221
+http://dbpedia.org/resource/Tennis_Court_Oath : 773.368369
+http://dbpedia.org/resource/Maximilien_Robespierre : 813.244894
+http://dbpedia.org/resource/Common_land : 820.682731
+http://dbpedia.org/resource/French_people : 828.531275
+http://dbpedia.org/resource/Legislative_Assembly : 848.922412
+http://dbpedia.org/resource/First_French_Empire : 882.178194
+http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 888.093170
+http://dbpedia.org/resource/Jacques_Necker : 913.890576
+http://dbpedia.org/resource/18_Brumaire : 1005.694314
+http://dbpedia.org/resource/France_Bu%C4%8Dar : 1382.035973
+http://dbpedia.org/resource/French_Revolution : 2262.980438
+3deltas terms:
+inadequ : 0.086991
+decemb : 0.441446
+constitut : 1.105164
+most : 1.426281
+major : 1.999002
+resent : 2.661275
+conquest : 3.058992
+facilit : 3.072582
+territori : 3.076284
+italian : 3.528543
+english : 4.640546
+left : 5.184353
+monarchi : 6.348912
+conclus : 6.627171
+articl : 6.745238
+albeit : 7.455238
+widespread : 8.180977
+ideal : 9.978211
+vote : 10.652622
+austria : 10.745453
+subject : 11.673602
+agit : 12.135678
+power : 12.273515
+fran : 12.603632
+western : 13.473850
+royal : 13.702290
+great : 14.364793
+culmin : 14.540791
+impos : 15.303927
+revers : 15.486927
+held : 16.697784
+were : 17.088573
+establish : 17.414855
+term : 17.469618
+year : 20.089591
+elud : 20.126509
+previou : 20.157087
+individu : 20.329223
+take : 21.004360
+earli : 22.147132
+peasant : 22.655619
+occas : 22.785934
+rest : 22.821910
+under : 23.175798
+hierarchi : 23.473088
+agre : 23.609056
+underw : 23.908763
+influenc : 24.754401
+author : 26.071087
+abolit : 26.684467
+suffrag : 26.879452
+principl : 27.207572
+achiev : 27.884334
+three : 28.428146
+versail : 28.823399
+upheav : 29.307724
+volut : 29.321590
+attempt : 30.088097
+militarili : 31.745721
+spring : 31.855849
+male : 31.860226
+naturalis : 31.860226
+weaken : 32.184454
+emerg : 33.534411
+dismiss : 33.890455
+liber : 34.174424
+rhine : 35.318297
+harvest : nan
+culott : nan
+disast : nan
+humbl : nan
+meanwhil : nan
+incom : nan
+burden : nan
+shortag : nan
+livr : nan
+comptrollership : nan
+thirti : nan
+wealthi : nan
+suffici : nan
+imposit : nan
+censorship : nan
+clergyman : nan
+everyth : nan
+noth : nan
+plaisir : nan
+arbitr : nan
+unsuccess : nan
+advisor : nan
+riot : nan
+chao : nan
+loot : nan
+roth : nan
+fervour : nan
+rhineland : nan
+recruit : nan
+amien : nan
+reckon : nan
+domin : 35.415431
+began : 36.942096
+transform : 37.185435
+convention : 37.470224
+prior : 40.101856
+period : 40.538374
+separ : 40.813448
+join : 41.271888
+continent : 41.817778
+rule : 42.929169
+place : 43.417653
+democraci : 43.832385
+coloni : 43.915459
+shadow : 43.925920
+unfold : 43.931372
+countri : 43.935376
+profoundli : 43.937709
+larg : 44.622745
+assum : 45.425975
+societi : 45.826286
+uniform : 46.659098
+support : 47.469298
+safeti : 47.622903
+committe : 48.090669
+thei : 48.385659
+main : 49.158124
+brought : 49.210847
+mani : 49.793400
+reign : 50.437493
+militari : 50.621033
+roughli : 51.291377
+focu : 51.703102
+resid : 52.060842
+paid : 52.106743
+victori : 54.413374
+spread : 54.459713
+histori : 54.803358
+elect : 55.008125
+dictatorship : 55.198947
+bonapart : 58.094820
+peopl : 59.121901
+spain : 59.138568
+germani : 59.494474
+enlighten : 59.758691
+contin : 59.833419
+greater : 59.923234
+oath : 60.360019
+dure : 65.047897
+court : 65.757415
+refer : 67.624339
+where : 69.742811
+system : 73.997361
+state : 75.024002
+loui : 75.517385
+bourbon : 75.746692
+ascend : 75.892042
+clergi : 75.960197
+develop : 76.043681
+privileg : 76.836197
+june : 77.619437
+rise : 78.038655
+popular : 78.922241
+revolutionari : 79.037447
+church : 82.452041
+modern : 83.516996
+public : 83.835913
+govern : 85.423571
+summon : 85.986244
+extens : 86.657782
+defeat : 89.774868
+ultim : 89.876194
+will : 91.391368
+earlier : 91.573541
+colloqui : 91.576505
+west : 91.583830
+control : 91.777052
+overthrew : 92.057644
+maximilien : 92.297190
+calonn : 92.995432
+cours : 93.866142
+extern : 93.873129
+shape : 93.969199
+group : 94.455302
+fraternit : 95.413060
+fought : 95.498578
+assault : 95.546630
+rural : 95.649760
+merovingian : 95.726008
+bronz : 95.726008
+palaeolith : 95.726008
+impact : 95.726008
+iron : 95.726008
+epic : 95.726008
+ageanci : 95.726008
+greek : 95.726008
+celtic : 95.726008
+street : 95.726008
+countrysid : 95.726008
+mesolith : 95.726008
+inalien : 95.726008
+neolith : 95.726008
+carol : 95.726008
+frank : 95.726008
+copper : 95.726008
+evapor : 95.726008
+sustain : 95.726008
+gion : 95.759218
+acceler : 95.760028
+count : 95.855448
+bishop : 95.941844
+with : 97.274869
+first : 101.490719
+these : 101.968623
+ancien : 104.634264
+gime : 104.644018
+consul : 107.680842
+adher : 108.744674
+land : 109.721811
+citizenship : 110.871202
+call : 111.738713
+pari : 112.447992
+nation : 113.410579
+feudal : 118.111559
+roman : 118.285617
+becaus : 118.787410
+comptrol : 121.760953
+close : 123.434057
+propos : 124.676304
+threat : 128.739763
+restor : 128.911312
+except : 132.153893
+queen : 133.034699
+fals : 133.669105
+accus : 133.924704
+spendthrift : 134.163278
+financi : 134.479050
+disappear : 136.513420
+third : 138.543817
+idea : 138.702020
+financ : 140.140545
+late : 143.930785
+social : 144.433638
+offici : 144.615149
+directori : 145.894877
+histor : 148.702080
+argu : 150.004871
+after : 151.497196
+coup : 152.449923
+featur : 161.037179
+tradit : 163.686964
+central : 167.371712
+absolut : 169.748651
+execut : 171.359641
+republ : 174.729501
+europ : 178.121039
+gener : 180.372998
+organ : 180.970472
+jacqu : 182.884401
+gram : 183.154170
+pure : 183.154170
+juli : 185.854673
+religi : 190.238344
+conflict : 190.733286
+abruptli : 191.199571
+gaul : 191.452017
+flag : 191.452017
+historian : 191.605647
+aristocrat : 191.682205
+theme : 191.831907
+centuri : 197.409544
+declar : 208.625086
+radic : 212.461070
+proclaim : 216.969050
+overthrown : 219.932086
+class : 222.811416
+emphas : 225.770564
+septemb : 236.790909
+forc : 240.524833
+caus : 243.634597
+coalit : 256.158429
+robespierr : 263.029188
+denomin : 274.670416
+brumair : 287.455515
+marxist : 287.803937
+that : 292.107211
+conserv : 310.153275
+estat : 310.444729
+tenni : 324.408143
+other : 354.094073
+gold : 366.308339
+appoint : 367.497396
+februari : 407.248685
+polit : 474.129830
+king : 500.132452
+empir : 500.728373
+coin : 549.462509
+member : 556.213101
+bastil : 603.932694
+peninsula : 616.050141
+napoleon : 624.453450
+common : 700.543829
+revolut : 1056.044920
+french : 1329.477640
+franc : 1570.394210
+assembli : 1723.428874
+Resources norms:
+http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.629258
+http://dbpedia.org/resource/December_27 : 1.173547
+http://dbpedia.org/resource/British_Empire : 13.069639
+http://dbpedia.org/resource/Refused : 16.826811
+http://dbpedia.org/resource/Set_list : 16.983214
+http://dbpedia.org/resource/Protestantism : 18.565344
+http://dbpedia.org/resource/Absolute_%28philosophy%29 : 20.869527
+http://dbpedia.org/resource/Country_music : 28.924366
+http://dbpedia.org/resource/Kingdom_of_Great_Britain : 30.622134
+http://dbpedia.org/resource/Proposition : 33.580067
+http://dbpedia.org/resource/Future : 36.764185
+http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 37.824400
+http://dbpedia.org/resource/August_7 : 45.700990
+http://dbpedia.org/resource/June_27 : 47.303823
+http://dbpedia.org/resource/Troubles_%28novel%29 : 55.960080
+http://dbpedia.org/resource/Pamphlet : 58.211671
+http://dbpedia.org/resource/Queens : 59.335157
+http://dbpedia.org/resource/Austrian_Empire : 63.781028
+http://dbpedia.org/resource/July_11 : 71.672734
+http://dbpedia.org/resource/Enoch_Poor : 74.302520
+http://dbpedia.org/resource/1990s : 75.756154
+http://dbpedia.org/resource/Strong,_Ontario : 78.726100
+http://dbpedia.org/resource/Rain : 80.322261
+http://dbpedia.org/resource/Globalization : 88.198804
+http://dbpedia.org/resource/Book : 94.361260
+http://dbpedia.org/resource/Subject_%28philosophy%29 : 100.592397
+http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 101.298843
+http://dbpedia.org/resource/October_14 : 103.367959
+http://dbpedia.org/resource/July_14 : 103.750700
+http://dbpedia.org/resource/August_26 : 103.755523
+http://dbpedia.org/resource/Popular_music : 104.165892
+http://dbpedia.org/resource/Externality : 107.220158
+http://dbpedia.org/resource/Political_party : 112.242921
+http://dbpedia.org/resource/September_27 : 112.289777
+http://dbpedia.org/resource/Centuria : 124.854730
+http://dbpedia.org/resource/20th_century : 126.758481
+http://dbpedia.org/resource/527_organization : 129.233492
+http://dbpedia.org/resource/Dick_Spring : 129.497082
+http://dbpedia.org/resource/Matthew_Prior : 132.343225
+http://dbpedia.org/resource/Election : 133.683230
+http://dbpedia.org/resource/June_20 : 137.163491
+http://dbpedia.org/resource/Messages_%28OMD_song%29 : 139.675708
+http://dbpedia.org/resource/People : 142.999799
+http://dbpedia.org/resource/Associated_Press : 145.218811
+http://dbpedia.org/resource/Comptroller : 152.558639
+http://dbpedia.org/resource/Military : 155.855188
+http://dbpedia.org/resource/Delegate : 156.812538
+http://dbpedia.org/resource/Artois : 156.880757
+http://dbpedia.org/resource/Comte : 156.994425
+http://dbpedia.org/resource/Libertarianism : 172.949660
+http://dbpedia.org/resource/Citizenship : 175.348228
+http://dbpedia.org/resource/Marxism : 187.342985
+http://dbpedia.org/resource/Salle_Le_Peletier : 189.368197
+http://dbpedia.org/resource/24_%28season_2%29 : 189.487972
+http://dbpedia.org/resource/John_Major : 196.002536
+http://dbpedia.org/resource/Age_of_Enlightenment : 197.498924
+http://dbpedia.org/resource/Gerrymandering : 199.299397
+http://dbpedia.org/resource/The_Guard_%282001_film%29 : 202.836592
+http://dbpedia.org/resource/North_America : 203.473214
+http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 205.318596
+http://dbpedia.org/resource/Menu : 210.013473
+http://dbpedia.org/resource/American_Revolutionary_War : 212.619070
+http://dbpedia.org/resource/1780s : 212.731218
+http://dbpedia.org/resource/Weather : 213.140617
+http://dbpedia.org/resource/Woman : 218.614666
+http://dbpedia.org/resource/Tina_Arena : 218.641049
+http://dbpedia.org/resource/The_Passage_%28film%29 : 221.011210
+http://dbpedia.org/resource/June_8 : 221.079542
+http://dbpedia.org/resource/A-List_%28Conservative%29 : 222.437505
+http://dbpedia.org/resource/Low_Countries : 232.231047
+http://dbpedia.org/resource/Court_%28royal%29 : 234.083289
+http://dbpedia.org/resource/The_West_Australian : 235.903034
+http://dbpedia.org/resource/1922_Committee : 240.528929
+http://dbpedia.org/resource/Executive_%28government%29 : 241.718598
+http://dbpedia.org/resource/Reign_of_Terror : 248.610291
+http://dbpedia.org/resource/Negotiation : 252.848734
+http://dbpedia.org/resource/June_17 : 261.076354
+http://dbpedia.org/resource/June_10 : 263.307269
+http://dbpedia.org/resource/Catholic_Church : 272.894462
+http://dbpedia.org/resource/Forced_disappearance : 278.459843
+http://dbpedia.org/resource/Committee_of_Public_Safety : 278.762499
+http://dbpedia.org/resource/Parlement : 285.257283
+http://dbpedia.org/resource/The_Double_%28novel%29
+ : 288.330457
+http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 289.295420
+http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 291.118781
+http://dbpedia.org/resource/May_5 : 296.120955
+http://dbpedia.org/resource/July_1 : 300.313825
+http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 300.664367
+http://dbpedia.org/resource/Abolitionism : 324.402756
+http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 326.726962
+http://dbpedia.org/resource/American_English : 327.059849
+http://dbpedia.org/resource/Bourbon_Restoration : 342.800778
+http://dbpedia.org/resource/Bastille : 343.041628
+http://dbpedia.org/resource/House_of_Bourbon : 354.595492
+http://dbpedia.org/resource/Marie_Antoinette : 357.748180
+http://dbpedia.org/resource/Dauphin%C3%A9 : 364.122113
+http://dbpedia.org/resource/French_Consulate : 381.065382
+http://dbpedia.org/resource/January_17 : 387.034387
+http://dbpedia.org/resource/Ethnic_group : 405.361158
+http://dbpedia.org/resource/Storming_of_the_Bastille : 412.067161
+http://dbpedia.org/resource/Communes_of_France : 434.153094
+http://dbpedia.org/resource/National_Constituent_Assembly : 437.884251
+http://dbpedia.org/resource/French_Directory : 448.285843
+http://dbpedia.org/resource/French_Revolutionary_Wars : 470.642614
+http://dbpedia.org/resource/Government_of_France : 481.605716
+http://dbpedia.org/resource/Assembly_of_Notables : 488.101547
+http://dbpedia.org/resource/French_and_Indian_War : 489.587573
+http://dbpedia.org/resource/Jacobin_%28politics%29 : 508.991405
+http://dbpedia.org/resource/Guttural_R : 609.966855
+http://dbpedia.org/resource/Louis_XVI_of_France : 615.590411
+http://dbpedia.org/resource/Paris : 645.046582
+http://dbpedia.org/resource/Main_%28river%29 : 647.315392
+http://dbpedia.org/resource/Thermidorian_Reaction : 652.463484
+http://dbpedia.org/resource/Napoleonic_Wars : 652.643410
+http://dbpedia.org/resource/Jacques-Louis_David : 663.316797
+http://dbpedia.org/resource/Confederation_of_the_Rhine : 672.449093
+http://dbpedia.org/resource/Palace_of_Versailles : 696.194765
+http://dbpedia.org/resource/French_Armed_Forces : 725.483350
+http://dbpedia.org/resource/French_Navy : 737.481421
+http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 740.048945
+http://dbpedia.org/resource/Italian_Peninsula : 762.184294
+http://dbpedia.org/resource/Napoleon_%28coin%29 : 814.241627
+http://dbpedia.org/resource/Maximilien_Robespierre : 818.422837
+http://dbpedia.org/resource/Estates-General_of_1789 : 825.701264
+http://dbpedia.org/resource/France_Bu%C4%8Dar : 880.673049
+http://dbpedia.org/resource/First_French_Empire : 913.915014
+http://dbpedia.org/resource/Common_land : 936.076890
+http://dbpedia.org/resource/Tennis_Court_Oath : 939.948336
+http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 985.807890
+http://dbpedia.org/resource/18_Brumaire : 1027.257482
+http://dbpedia.org/resource/Legislative_Assembly : 1112.101748
+http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 1484.065302
+http://dbpedia.org/resource/Napoleon : 1813.382141
+http://dbpedia.org/resource/French_people : 1860.718817
+http://dbpedia.org/resource/General_%28Canada%29 : 1924.502639
+http://dbpedia.org/resource/Jacques_Necker : 2118.863452
+http://dbpedia.org/resource/The_Estates : 2537.495222
+http://dbpedia.org/resource/Estates_of_the_realm : 2838.802898
+http://dbpedia.org/resource/French_Revolution : 3170.722773

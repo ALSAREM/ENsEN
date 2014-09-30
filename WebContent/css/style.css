@@ -1,0 +1,481 @@
+/* Reset.css */
+
+.clearfix:before,.clearfix:after {
+	content: "";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	zoom: 1;
+	
+}
+/* End reset */
+
+/**
+ * Styles start here
+ */
+body {
+	color: #333;
+	font: 16px/28px 'Ubuntu',Georgia, 'Times New Roman', Times, serif;
+	/* CSS3 gradient background pattern @credits http://leaverou.me/demos/css3-patterns.html */
+	background-color: #eee; /* Change this to change both stribe colors */
+	background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(.25, rgba(255, 255,
+		255, .2) ), color-stop(.25, transparent), color-stop(.5, transparent),
+		color-stop(.5, rgba(255, 255, 255, .2) ),
+		color-stop(.75, rgba(255, 255, 255, .2) ),
+		color-stop(.75, transparent), to(transparent) );
+	/* Old webkit syntax */
+	background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%,
+		rgba(255, 255, 255, .2) 75%, transparent 75%, transparent );
+	/* New webkit syntax */
+	background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, .2)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%,
+		rgba(255, 255, 255, .2) 75%, transparent 75%, transparent );
+	/* Firefox */
+	background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%,
+		transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%,
+		rgba(255, 255, 255, .2) 75%, transparent 75%, transparent );
+	/* Opera */
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%,
+		transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%,
+		rgba(255, 255, 255, .2) 75%, transparent 75%, transparent ); /* WC3 */
+	background-size: 16px 16px;
+	margin-top: 0px;
+}
+
+/* Browsers who don't support gradients */
+.no-cssgradients body {
+	background-image: url(../images/bg.png);
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+/* Always force a scrollbar in non-IE 
+	Remove iOS text size adjust without disabling user zoom: www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+html {
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+/**
+ * Typography and default HTML elements
+ */
+a {
+	color: #A3BDD6;
+	text-decoration: none;
+	-webkit-transition: all 100ms linear;
+	/*-moz-transition: all 100ms linear;*/
+	transition: all 100ms linear;
+}
+
+a:hover {
+	color: #dd4814;
+	text-shadow: 0 1px 0 #fff;
+}
+
+a:active {
+	color: #dd4814;
+	outline: none;
+}
+
+p,dl,hr,h1,h2,h3,ol,ul,dd,pre,table,fieldset {
+	margin-bottom: 20px;
+}
+
+/* Headings */
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Droid Serif', sans-serif;
+	text-shadow: 0 1px 0 #fff;
+}
+
+/* Other elements */
+hr {
+	display: block;
+	height: 0px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+	margin: 20px 0;
+	padding: 0;
+}
+
+/**
+ * Header
+ */
+#header {
+	padding: 0px;
+}
+#site-title{
+	margin-bottom: 0px;
+}
+#site-title a {
+	color: #dd4814;
+	font: bold 40px 'Ubuntu','Droid Serif', sans-serif;
+	float: left;
+	letter-spacing: -3px;
+	text-shadow: 0 1px 0 #fff;
+	-webkit-transition: all 200ms linear;
+	-moz-transition: all 200ms linear;
+	transition: all 200ms linear;
+	/* Gain the benefits from GPU acceleration */
+	-webkit-transform: translateZ(0);
+	/*-moz-transform: translateZ(0);*/
+	transform: translateZ(0);
+}
+
+#site-title a:hover {
+	background: none;
+	text-shadow: 0 1px 0 #fff;
+	/* Scale the site title on hover */
+	-webkit-transform: scale(1.1) translateZ(0);
+	/*-moz-transform: scale(1.1) translateZ(0);*/
+	transform: scale(1.1) translateZ(0);
+}
+
+#site-description {
+	font: normal 18px 'Ubuntu','Droid Serif', sans-serif;
+	float: right;
+	padding-top: 0px;
+}
+
+/**
+ * Content
+ */
+#main {
+	background: white;
+	border-radius: 5px 5px 10px 10px;
+	width: 850px;
+	padding: 10px 10px 10px 10px;
+	-webkit-box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.4), 0px 0px
+		15px rgba(204, 204, 204, 0.5);
+	-moz-box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.4), 0px 0px 15px
+		rgba(204, 204, 204, 0.5);
+	box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.4), 0px 0px 15px
+		rgba(204, 204, 204, 0.5);
+}
+
+/* No support for rgba */
+.no-rgba #main {
+	background: url(../images/content_bg.png) repeat;
+}
+
+#content {
+	float: left;
+	width: 600px;
+	vertical-align: middle;
+}
+
+.wideContent {
+	float: left;
+	width: 100%;
+	vertical-align: middle;
+	text-align: left;
+}
+
+#sidebar {
+	float: right;
+	width: 200px;
+}
+
+
+
+/**
+ * Sidebar
+ */
+#sidebar {
+	
+}
+
+.widget {
+	border-top: 1px solid rgba(255, 255, 255, 0.6);
+	border-bottom: 1px solid #ccc;
+	padding: 30px 0;
+	font-size: 12px;
+}
+.widget h3{
+	font: 14px bold italic;
+
+	}
+.widget:first-child {
+	border-top: none;
+	padding-top: 0;
+}
+
+.widget:last-child {
+	border-bottom: none;
+}
+
+/* Lists in widgets */
+.widget li {
+	line-height: 35px;
+	margin-left: -10px;
+}
+
+.widget li a {
+	color: #333;
+	-webkit-transition: margin-left 300ms linear;	
+	transition: margin-left 300ms linear;
+	font-size: 14px;
+}
+
+.widget li a:hover {
+	color: #dd4814;
+	margin-left: 5px;
+}
+
+/*
+ * Footer
+ */
+#footer {
+	color: #555;
+text-align: center;
+	text-shadow: 1px 1px 0px #fff;
+}
+
+#footer a {
+	color:#FCAD00;
+	font: 14px 'Ubuntu Condensed','Droid Serif', Georgia, serif; 
+}
+
+
+
+/* mazen */
+.docTools {
+	
+}
+
+.docTools a {
+	font-size: 12px;
+	color: #6C51BD;
+}
+
+.tags {
+	margin: 0;
+	padding: 0;
+	right: 24px;
+	bottom: -12px;
+	list-style: none;
+}
+
+.tags li {
+	margin: 0 3px 15px 0;
+	vertical-align: top
+}
+
+.tags li,.tags a {
+	float: left;
+	height: 24px;
+	line-height: 24px;
+	position: relative;
+	font-size: 12px;
+}
+
+.tags a {
+	margin-left: 20px;
+	padding: 0 10px 0 12px;
+	background: #0089e0;
+	color: #fff;
+	text-decoration: none;
+	-moz-border-radius-bottomright: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	-webkit-border-top-right-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+.tags a:before {
+	content: "";
+	float: left;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	width: 0;
+	height: 0;
+	border-color: transparent #0089e0 transparent transparent;
+	border-style: solid;
+	border-width: 12px 12px 12px 0;
+}
+
+.tags a:after {
+	content: "";
+	position: absolute;
+	top: 10px;
+	left: 0;
+	float: left;
+	width: 4px;
+	height: 4px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background: #fff;
+	-moz-box-shadow: -1px -1px 2px #004977;
+	-webkit-box-shadow: -1px -1px 2px #004977;
+	box-shadow: -1px -1px 2px #004977;
+}
+
+.tags a:hover {
+	background: #555;
+}
+
+.tags a:hover:before {
+	border-color: transparent #555 transparent transparent;
+}
+
+div.tagsinput {
+	border: 1px solid #CCC;
+	background: #FFF;
+	padding: 3px;
+	width: 100%;
+	overflow-y: auto;
+}
+
+div.tagsinput span.tag {
+	border: 1px solid #a5d24a;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	display: block;
+	float: left;
+	padding: 2px;
+	text-decoration: none;
+	background: #cde69c;
+	color: #638421;
+	margin-right: 2px;
+	margin-bottom: 2px;
+	font-family: helvetica;
+	font-size: 9px;
+}
+
+div.tagsinput span.tag a {
+	font-weight: bold;
+	color: #82ad2b;
+	text-decoration: none;
+	font-size: 9px;
+}
+
+div.tagsinput input {
+	width: 80px;
+	margin: 0px;
+	font-family: helvetica;
+	font-size: 13px;
+	border: 1px solid transparent;
+	padding: 5px;
+	background: transparent;
+	color: #000;
+	outline: 0px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+div.tagsinput div {
+	display: block;
+	float: left;
+}
+
+.tags_clear {
+	clear: both;
+	width: 100%;
+	height: 0px;
+}
+
+.not_valid {
+	background: #FBD8DB !important;
+	color: #90111A !important;
+}
+/*tooltip*/
+.ensenTooltip {
+	border-bottom: 1px dotted #000000;
+	color: #000000;
+	outline: none;
+	cursor: help;
+	text-decoration: none;
+	position: relative;
+}
+
+.ensenTooltip span {
+	margin-left: -999em;
+	position: absolute;
+}
+
+.ensenTooltip:hover span {
+	border-radius: 5px 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+	font-family: Calibri, Tahoma, Geneva, sans-serif;
+	position: absolute;
+	left: 1em;
+	top: 2em;
+	z-index: 99;
+	margin-left: 0;
+	width: 250px;
+}
+
+.ensenTooltip:hover img {
+	border: 0;
+	margin: -10px 0 0 -55px;
+	float: left;
+	position: absolute;
+}
+
+.ensenTooltip:hover em {
+	font-family: Candara, Tahoma, Geneva, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	display: block;
+	padding: 0.2em 0 0.6em 0;
+}
+
+.classic {
+	padding: 0.8em 1em;
+}
+
+.custom {
+	padding: 0.5em 0.8em 0.8em 2em;
+}
+
+* html a:hover {
+	background: transparent;
+}
+
+.classic {
+	background: #FFFFAA;
+	border: 1px solid #FFAD33;
+}
+
+.critical {
+	background: #FFCCAA;
+	border: 1px solid #FF3334;
+}
+
+.help {
+	background: #9FDAEE;
+	border: 1px solid #2BB0D7;
+}
+
+.info {
+	background: #9FDAEE;
+	border: 1px solid #2BB0D7;
+}
+
+.warning {
+	background: #FFFFAA;
+	border: 1px solid #FFAD33;
+}
+
+hr {
+	margin: 1px;
+}

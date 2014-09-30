@@ -1,0 +1,385 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/property/"
+    xmlns:j.1="http://ensen.org/data#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.2="http://dbpedia.org/ontology/" > 
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Bonn"/>
+    <j.2:language rdf:resource="http://dbpedia.org/resource/French_language"/>
+    <j.2:officialLanguage rdf:resource="http://dbpedia.org/resource/French_language"/>
+    <j.2:capital rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <j.0:capital rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polemic">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Moderate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intellectual">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Publishing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Democracy">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Revolutionary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Engels">
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/Historical_materialism"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Philosophy"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.2:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Marxism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanticism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Bruno_Bauer"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Theology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prussia">
+    <j.0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.0:region rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.0:today rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.2:capital rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.0:religion rdf:resource="http://dbpedia.org/resource/Protestantism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berlin">
+    <j.2:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humboldt_University_of_Berlin">
+    <j.0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.2:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.0:city rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.0:state rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.2:city rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.2:state rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hegelianism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Time_%28magazine%29"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Autocracy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolutionary">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Democracy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cologne">
+    <j.0:south rdf:resource="http://dbpedia.org/resource/Bonn"/>
+    <j.2:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Communist_Manifesto">
+    <j.2:author rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:author rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonn">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/France"/>
+    <j.2:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.2:administrativeDistrict rdf:resource="http://dbpedia.org/resource/Cologne"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voltaire">
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:occupation rdf:resource="http://dbpedia.org/resource/Philosophy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trier">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Protestantism"/>
+    <j.2:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protestantism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Trier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moderate">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Polemic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Marx">
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Voltaire"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/Surplus_value"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.0:birthPlace rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/Historical_materialism"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Pierre-Joseph_Proudhon"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/Prussia"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Philosophy"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Voltaire"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/The_Communist_Manifesto"/>
+    <j.2:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.2:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.2:notableIdea rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.0:placeOfDeath rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/Prussia"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.2:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Communism"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Communism"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.0:influences rdf:resource="http://dbpedia.org/resource/Pierre-Joseph_Proudhon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Publishing">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Intellectual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Bonn">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Capitalism"/>
+    <j.0:city rdf:resource="http://dbpedia.org/resource/Bonn"/>
+    <j.2:city rdf:resource="http://dbpedia.org/resource/Bonn"/>
+    <j.0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.historyguide.org/intellect/marx.html">
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Mode_of_production"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Society"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Crisis"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Time_%28magazine%29"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Income"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Commodity"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Voltaire"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Communism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Soho"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/International_trade"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Thesis"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Employment"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Industrial_Revolution"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Exploitation"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Philosophy"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Regime"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/David_Ricardo"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Devaluation"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Democracy"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Publishing"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Wealth"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Member_of_Parliament"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Theology"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Brussels"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Social_sciences"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Lawyer"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Protestantism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Nazi_Germany"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Deutsche_Bank"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Cotton"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Labour_movement"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/The_Communist_Manifesto"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Moderate"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Archduke_Franz_Ferdinand_of_Austria"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Economy"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/University"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Revolution"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Hegelianism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Political_radicalism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Labour_economics"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Cooperative"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Communist_League"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Christianity"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Young_Hegelians"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Capitalism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Newspaper"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/France"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Humboldt_University_of_Berlin"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Intellectual"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Bruno_Bauer"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Polemic"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Idealism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Liberalism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Social"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Government"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Pamphlet"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/History"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Journalism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Exile"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Trier"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Organization"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Historian"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Emigration"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Correspondent"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Revolutionary"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Cologne"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Middle_class"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Workforce"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Autocracy"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Surplus_value"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/French_language"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/New_York_Tribune"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Historical_materialism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Political_economy"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Economics"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/University_of_Bonn"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Opposition_%28politics%29"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Manchester"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Bonn"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Poverty"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Prussia"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Family"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Editing"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Theory"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Marxism"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Wage_labour"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Pierre-Joseph_Proudhon"/>
+    <j.1:has-a rdf:resource="http://dbpedia.org/resource/Labor_theory_of_value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Bauer">
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.0:placeOfDeath rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Theology"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Theology"/>
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Theology"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opposition_%28politics%29">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Liberalism"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Young_Hegelians"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Revolution"/>
+    <j.0:subdivisionName rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:isPartOf rdf:resource="http://dbpedia.org/resource/England"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Politics">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Employment"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Middle_class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surplus_value">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Wealth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Employment">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Middle_class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Middle_class">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Politics"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Employment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/England">
+    <j.2:capital rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:capital rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philosophy">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris">
+    <j.2:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Archduke_Franz_Ferdinand_of_Austria"/>
+    <j.2:capital rdf:resource="http://dbpedia.org/resource/Berlin"/>
+    <j.0:capital rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Historian">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Labour_movement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Political_radicalism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/International_trade"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archduke_Franz_Ferdinand_of_Austria">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutsche_Bank">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Nazi_Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nazi_Germany">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Deutsche_Bank"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Smith">
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Economics"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Economics"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theology">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Bruno_Bauer"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Time_%28magazine%29">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Hegelianism"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Autocracy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liberalism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Young_Hegelians"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Opposition_%28politics%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capitalism">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/University_of_Bonn"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Feuerbach">
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Lawyer"/>
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Christianity"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Friedrich_Engels"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Christianity"/>
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wealth">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Surplus_value"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autocracy">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Time_%28magazine%29"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Hegelianism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ricardo">
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.0:placeOfBirth rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:placeOfDeath rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <j.0:contributions rdf:resource="http://dbpedia.org/resource/Labor_theory_of_value"/>
+    <j.0:birthPlace rdf:resource="http://dbpedia.org/resource/England"/>
+    <j.2:influencedBy rdf:resource="http://dbpedia.org/resource/Adam_Smith"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/England"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_trade">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Political_radicalism"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Hegelians">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Liberalism"/>
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Opposition_%28politics%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Joseph_Proudhon">
+    <j.0:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.2:influenced rdf:resource="http://dbpedia.org/resource/Karl_Marx"/>
+    <j.0:schoolTradition rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.2:philosophicalSchool rdf:resource="http://dbpedia.org/resource/Socialism"/>
+    <j.0:mainInterests rdf:resource="http://dbpedia.org/resource/Poverty"/>
+    <j.2:mainInterest rdf:resource="http://dbpedia.org/resource/Poverty"/>
+    <j.0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labour_movement">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Historian"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawyer">
+    <j.1:virtualProperty rdf:resource="http://dbpedia.org/resource/Ludwig_Feuerbach"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,166 @@
+SOLVING THE [A^TA] EIGENPROBLEM
+NO. OF ROWS               =    139
+NO. OF COLUMNS            =   2539
+NO. OF NON-ZERO VALUES    =   9367
+MATRIX DENSITY            =   2.65%
+MAX. NO. OF LANCZOS STEPS =    139
+MAX. NO. OF EIGENPAIRS    =     10
+LEFT  END OF THE INTERVAL = -1.00E-30
+RIGHT END OF THE INTERVAL =  1.00E-30
+KAPPA                     =  1.00E-06
+
+TRANSPOSING THE MATRIX FOR SPEED
+NUMBER OF LANCZOS STEPS   =     20
+RITZ VALUES STABILIZED    =     15
+SINGULAR VALUES FOUND     =     10
+SIGNIFICANT VALUES        =     15
+svd[0] : 5603.898227
+svd[1] : 3864.979572
+svd[2] : 3035.857694
+svd[3] : 2525.298150
+svd[4] : 2252.406295
+svd[5] : 2044.208976
+svd[6] : 1970.585192
+svd[7] : 1782.734995
+svd[8] : 1644.164649
+svd[9] : 1586.140537
+49 http://dbpedia.org/resource/Bishop_%28Catholic_Church%29 : 0.594956
+8 http://dbpedia.org/resource/Set_list : 0.817197
+66 http://dbpedia.org/resource/Enoch_Poor : 0.938489
+13 http://dbpedia.org/resource/Strong,_Ontario : 0.976979
+55 http://dbpedia.org/resource/December_27 : 1.216546
+90 http://dbpedia.org/resource/July_14 : 1.224421
+25 http://dbpedia.org/resource/August_26 : 1.347836
+75 http://dbpedia.org/resource/Troubles_%28novel%29 : 1.388040
+117 http://dbpedia.org/resource/Pamphlet : 1.751765
+60 http://dbpedia.org/resource/A-List_%28Conservative%29 : 1.757179
+0 http://dbpedia.org/resource/1990s : 1.812412
+12 http://dbpedia.org/resource/Rain : 1.835709
+121 http://dbpedia.org/resource/Matthew_Prior : 1.908592
+58 http://dbpedia.org/resource/Popular_music : 1.911574
+115 http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune : 1.958342
+114 http://dbpedia.org/resource/September_27 : 1.967786
+108 http://dbpedia.org/resource/June_27 : 1.988391
+56 http://dbpedia.org/resource/Tina_Arena : 2.030457
+122 http://dbpedia.org/resource/Future : 2.175547
+94 http://dbpedia.org/resource/Delegate : 2.195657
+125 http://dbpedia.org/resource/Book : 2.202575
+14 http://dbpedia.org/resource/Refused : 2.231897
+38 http://dbpedia.org/resource/Globalization : 2.259554
+106 http://dbpedia.org/resource/Ancien_R%C3%A9gime_in_France : 2.312454
+27 http://dbpedia.org/resource/Associated_Press : 2.352556
+135 http://dbpedia.org/resource/Queens : 2.390594
+119 http://dbpedia.org/resource/1922_Committee : 2.429080
+69 http://dbpedia.org/resource/Protestantism : 2.487158
+16 http://dbpedia.org/resource/Subject_%28philosophy%29 : 2.549223
+111 http://dbpedia.org/resource/October_14 : 2.557374
+82 http://dbpedia.org/resource/Proposition : 2.599534
+62 http://dbpedia.org/resource/Political_party : 2.600936
+80 http://dbpedia.org/resource/John_Major : 2.602935
+95 http://dbpedia.org/resource/Woman : 2.659786
+107 http://dbpedia.org/resource/June_8 : 2.721581
+57 http://dbpedia.org/resource/Dick_Spring : 2.765504
+76 http://dbpedia.org/resource/The_Guard_%282001_film%29 : 2.766689
+29 http://dbpedia.org/resource/June_17 : 2.783249
+44 http://dbpedia.org/resource/1780s : 2.839590
+127 http://dbpedia.org/resource/British_Empire : 2.937796
+15 http://dbpedia.org/resource/August_7 : 2.938978
+48 http://dbpedia.org/resource/Centuria : 3.013938
+130 http://dbpedia.org/resource/Absolute_%28philosophy%29 : 3.037955
+26 http://dbpedia.org/resource/Election : 3.145235
+137 http://dbpedia.org/resource/Menu : 3.177898
+28 http://dbpedia.org/resource/527_organization : 3.244674
+53 http://dbpedia.org/resource/Motion_%28parliamentary_procedure%29 : 3.298528
+32 http://dbpedia.org/resource/20th_century : 3.305261
+2 http://dbpedia.org/resource/The_Passage_%28film%29 : 3.325844
+20 http://dbpedia.org/resource/Gerrymandering : 3.327010
+98 http://dbpedia.org/resource/Libertarianism : 3.352882
+43 http://dbpedia.org/resource/Hall_%28lunar_crater%29 : 3.370476
+138 http://dbpedia.org/resource/The_Double_%28novel%29
+ : 3.442826
+39 http://dbpedia.org/resource/24_%28season_2%29 : 3.462076
+96 http://dbpedia.org/resource/Clear_%28Spirit_album%29 : 3.477401
+21 http://dbpedia.org/resource/July_11 : 3.515696
+63 http://dbpedia.org/resource/June_10 : 3.531891
+40 http://dbpedia.org/resource/Committee_of_Public_Safety : 3.568030
+52 http://dbpedia.org/resource/The_West_Australian : 3.608911
+128 http://dbpedia.org/resource/Messages_%28OMD_song%29 : 3.656256
+83 http://dbpedia.org/resource/Comte : 3.685731
+1 http://dbpedia.org/resource/Abolitionism : 3.694323
+88 http://dbpedia.org/resource/Externality : 3.722104
+81 http://dbpedia.org/resource/North_America : 3.742633
+100 http://dbpedia.org/resource/Ethnic_group : 3.782681
+64 http://dbpedia.org/resource/Forced_disappearance : 3.826164
+17 http://dbpedia.org/resource/Marxism : 3.843930
+35 http://dbpedia.org/resource/Artois : 3.919407
+51 http://dbpedia.org/resource/Catholic_Church : 4.075690
+79 http://dbpedia.org/resource/Austrian_Empire : 4.149797
+132 http://dbpedia.org/resource/June_20 : 4.197291
+65 http://dbpedia.org/resource/Italian_Peninsula : 4.197625
+9 http://dbpedia.org/resource/Salle_Le_Peletier : 4.207763
+116 http://dbpedia.org/resource/Low_Countries : 4.219203
+134 http://dbpedia.org/resource/Weather : 4.334381
+78 http://dbpedia.org/resource/Military : 4.371345
+5 http://dbpedia.org/resource/American_English : 4.378484
+103 http://dbpedia.org/resource/Comptroller : 4.378959
+68 http://dbpedia.org/resource/Citizenship : 4.536552
+61 http://dbpedia.org/resource/Opposition_%28parliamentary%29 : 4.619326
+101 http://dbpedia.org/resource/Thermidorian_Reaction : 4.751004
+93 http://dbpedia.org/resource/Age_of_Enlightenment : 4.751572
+42 http://dbpedia.org/resource/Negotiation : 4.824692
+126 http://dbpedia.org/resource/Court_%28royal%29 : 4.969241
+67 http://dbpedia.org/resource/Parlement : 5.051088
+73 http://dbpedia.org/resource/January_17 : 5.253181
+129 http://dbpedia.org/resource/Reign_of_Terror : 5.280155
+34 http://dbpedia.org/resource/Kingdom_of_Great_Britain : 5.284614
+36 http://dbpedia.org/resource/National_Constituent_Assembly : 5.329470
+11 http://dbpedia.org/resource/Dauphin%C3%A9 : 5.360305
+19 http://dbpedia.org/resource/Maximilien_Robespierre : 5.379211
+70 http://dbpedia.org/resource/July_1 : 5.464192
+7 http://dbpedia.org/resource/French_Armed_Forces : 5.561150
+77 http://dbpedia.org/resource/Common_land : 5.591567
+133 http://dbpedia.org/resource/Communes_of_France : 5.677217
+59 http://dbpedia.org/resource/May_5 : 5.805389
+41 http://dbpedia.org/resource/Jacobin_%28politics%29 : 5.868428
+110 http://dbpedia.org/resource/French_Navy : 5.919961
+47 http://dbpedia.org/resource/Rise_%28Gabrielle_song%29 : 5.946611
+120 http://dbpedia.org/resource/People : 5.979797
+33 http://dbpedia.org/resource/Guttural_R : 5.981118
+92 http://dbpedia.org/resource/Confederation_of_the_Rhine : 6.017225
+131 http://dbpedia.org/resource/Government_of_France : 6.134511
+105 http://dbpedia.org/resource/Assembly_of_Notables : 6.179807
+112 http://dbpedia.org/resource/Jacques-Louis_David : 6.190192
+30 http://dbpedia.org/resource/Bastille : 6.855499
+89 http://dbpedia.org/resource/Country_music : 6.875648
+22 http://dbpedia.org/resource/French_Directory : 6.886220
+18 http://dbpedia.org/resource/Declaration_of_the_Rights_of_Man_and_of_the_Citizen : 7.345770
+87 http://dbpedia.org/resource/Storming_of_the_Bastille : 7.430793
+113 http://dbpedia.org/resource/House_of_Bourbon : 7.437972
+104 http://dbpedia.org/resource/American_Revolutionary_War : 7.565402
+54 http://dbpedia.org/resource/Bourbon_Restoration : 7.614996
+109 http://dbpedia.org/resource/18_Brumaire : 7.889801
+84 http://dbpedia.org/resource/Charles_Alexandre_de_Calonne : 7.947524
+10 http://dbpedia.org/resource/Estates-General_of_1789 : 8.077310
+4 http://dbpedia.org/resource/French_and_Indian_War : 8.300608
+74 http://dbpedia.org/resource/Marie_Antoinette : 8.321135
+86 http://dbpedia.org/resource/French_Consulate : 8.442234
+118 http://dbpedia.org/resource/Main_%28river%29 : 8.841641
+46 http://dbpedia.org/resource/French_Revolutionary_Wars : 9.272393
+72 http://dbpedia.org/resource/Executive_%28government%29 : 9.664242
+23 http://dbpedia.org/resource/Napoleon_%28coin%29 : 11.210576
+50 http://dbpedia.org/resource/National_Assembly_%28French_Revolution%29 : 11.816306
+37 http://dbpedia.org/resource/Napoleonic_Wars : 1308.465424
+71 http://dbpedia.org/resource/Tennis_Court_Oath : 1686.603765
+31 http://dbpedia.org/resource/Paris : 1740.087828
+3 http://dbpedia.org/resource/Napoleon : 1755.325883
+6 http://dbpedia.org/resource/First_French_Empire : 1845.804934
+45 http://dbpedia.org/resource/Palace_of_Versailles : 2083.304813
+97 http://dbpedia.org/resource/Legislative_Assembly : 2098.565444
+91 http://dbpedia.org/resource/Louis_XVI_of_France : 2252.062106
+123 http://dbpedia.org/resource/France_Bu%C4%8Dar : 2334.863755
+99 http://dbpedia.org/resource/General_%28Canada%29 : 2434.614032
+124 http://dbpedia.org/resource/French_people : 2639.762200
+85 http://dbpedia.org/resource/The_Estates : 2688.345517
+136 http://dbpedia.org/resource/Jacques_Necker : 3025.436073
+24 http://dbpedia.org/resource/French_Revolution : 3188.367980
+102 http://dbpedia.org/resource/Estates_of_the_realm : 3268.470045

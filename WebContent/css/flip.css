@@ -1,0 +1,282 @@
+/**  flips UL **/
+ul.flips {
+	list-style-type: none; /*remove the bullet point*/
+	margin: 0;
+	position: relative;
+	float: left;
+	width: 100%;
+	max-height: 155px;
+	overflow: hidden;
+	padding: 0px;
+	padding-bottom: 3px;
+	margin-top: 5px;
+	background-color: #F7F7F7;
+}
+
+ul.flips:hover {
+	overflow-y: auto;
+}
+/*scrollbar*/
+ul.flips::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+ul.flips::-webkit-scrollbar {
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+ul.flips::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+	background-color: #555;
+}
+/*** one LI  ***/
+ul.flips li {
+	display: inline-block; /*places the images in a line*/
+	vertical-align: top;
+	position: relative;
+	z-index: 0;
+	margin: 5px 5px 0 5px;
+	background-color: #eeeeee;
+	padding: 5px;
+	font-family: 'Ubuntu', "Times New Roman", Verdana;
+	font-size: 14px;
+	text-align: left;
+	color: #495a62;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	width: 159px;
+	height: 125px;
+	margin-bottom: 14px;
+	background-color: rgb(230, 230, 230);
+	color: black;
+	padding-right: 0px;
+}
+
+ul.flips li:hover {
+	color: #F28A29;
+}
+
+.groupTitle {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* Image Box Style */
+.flip .box {
+	border: 5px solid #fff;
+	cursor: pointer;
+	height: 100%;
+	float: left;
+	margin: 0px;
+	margin-top: -5px;
+	margin-left: -5px;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	-webkit-box-shadow: 1px 1px 1px 1px #ccc;
+	-moz-box-shadow: 1px 1px 1px 1px #ccc;
+	box-shadow: 1px 1px 1px 1px rgba(221, 72, 20, 0.19);
+	position: relative;
+	margin-top: -5px;
+	height: 125px;
+}
+
+.flip .box img {
+	position: absolute;
+	left: 0;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-ms-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+	width: 159px;
+	height: 110px;
+	margin: 0;
+}
+
+/* Caption Common Style */
+.flip .box .caption {
+	background-color: #4D4C4C;
+	position: absolute;
+	color: #fff;
+	z-index: 100;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-ms-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+	left: 0;
+	font-size: 12px;
+	line-height: 17px;
+	margin-top: +5px;
+}
+.flip .box:hover .caption {
+	margin-top: -5px;
+	}
+/** Caption 5: Rotate **/
+.flip .box5 .rotate-caption {
+	width: 159px;
+	height: 125px;
+	text-align: left;
+	top: 135px;
+	-moz-transform: rotate(-180deg);
+	-o-transform: rotate(-180deg);
+	-webkit-transform: rotate(-180deg);
+	transform: rotate(-180deg);
+}
+
+.flip .box .rotate {
+	width: 159px;
+	height: 200px;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-ms-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+}
+/** Rotate Caption :hover Behaviour **/
+.flip .box:hover .rotate {
+	background-color: rgba(0, 0, 0, 1) !important;
+	-moz-transform: rotate(-180deg);
+	-o-transform: rotate(-180deg);
+	-webkit-transform: rotate(-180deg);
+	transform: rotate(-180deg);
+	top: 10px;
+	left: 0px;
+	width: 159px;
+	height: 225px;
+	padding: 0px;
+	left: -82px;
+}
+
+/** Caption 1: Simple **/
+.flip .box .simple-caption {
+	height: 30px;
+	width: 200px;
+	display: block;
+	bottom: -30px;
+	line-height: 25pt;
+	text-align: center;
+}
+
+/** Caption 2: Full Width & Height **/
+.flip .box .full-caption {
+	width: 170px;
+	height: 170px;
+	top: -200px;
+	text-align: left;
+	padding: 15px;
+}
+
+/** Caption 3: Fade **/
+.flip .box .fade-caption,.flip .box .scale-caption {
+	opacity: 0;
+	width: 170px;
+	height: 170px;
+	text-align: left;
+	padding: 15px;
+}
+
+/** Caption 4: Slide **/
+.flip .box .slide-caption {
+	width: 170px;
+	height: 170px;
+	text-align: left;
+	padding: 15px;
+	left: 200px;
+}
+
+/** Caption 6: Scale **/
+.flip .box .scale-caption h3,.flip .box .scale-caption p {
+	position: relative;
+	left: -200px;
+	width: 170px;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-ms-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+}
+
+.flip .box .scale-caption h3 {
+	-webkit-transition-delay: 300ms;
+	-moz-transition-delay: 300ms;
+	-o-transition-delay: 300ms;
+	-ms-transition-delay: 300ms;
+	transition-delay: 300ms;
+}
+
+.flip .box .scale-caption p {
+	-webkit-transition-delay: 500ms;
+	-moz-transition-delay: 500ms;
+	-o-transition-delay: 500ms;
+	-ms-transition-delay: 500ms;
+	transition-delay: 500ms;
+}
+
+/** Simple Caption :hover Behaviour **/
+.flip .box:hover .simple-caption {
+	-moz-transform: translateY(-100%);
+	-o-transform: translateY(-100%);
+	-webkit-transform: translateY(-100%);
+	opacity: 1;
+	transform: translateY(-100%);
+}
+
+/** Full Caption :hover Behaviour **/
+.flip .box:hover .full-caption {
+	-moz-transform: translateY(100%);
+	-o-transform: translateY(100%);
+	-webkit-transform: translateY(100%);
+	opacity: 1;
+	transform: translateY(100%);
+}
+
+/** Fade Caption :hover Behaviour **/
+.flip .box:hover .fade-caption,.flip .box:hover .scale-caption {
+	opacity: 1;
+}
+
+/** Slide Caption :hover Behaviour **/
+.flip .box:hover .slide-caption {
+	background-color: rgba(0, 0, 0, 1) !important;
+	-moz-transform: translateX(-100%);
+	-o-transform: translateX(-100%);
+	-webkit-transform: translateX(-100%);
+	opacity: 1;
+	transform: translateX(-100%);
+}
+
+.flip .box:hover img#image-4 {
+	-moz-transform: translateX(-100%);
+	-o-transform: translateX(-100%);
+	-webkit-transform: translateX(-100%);
+	transform: translateX(-100%);
+	opacity: 1;
+}
+
+/** Scale Caption :hover Behaviour **/
+.flip .box:hover #image-6 {
+	-moz-transform: scale(1.4);
+	-o-transform: scale(1.4);
+	-webkit-transform: scale(1.4);
+	transform: scale(1.4);
+}
+
+.flip .box:hover .scale-caption h3,.flip .box:hover .scale-caption p {
+	-moz-transform: translateX(200px);
+	-o-transform: translateX(200px);
+	-webkit-transform: translateX(200px);
+	transform: translateX(200px);
+}
+
+.flipsh5{
+	float: left;
+margin-right: 10px;
+}
