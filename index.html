@@ -1,74 +1,51 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=640">
-
-    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
-    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-
-    <script type="text/javascript" src="javascripts/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
     <title>Ensen by ALSAREM</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
-
   <body>
-    <a id="forkme_banner" href="https://github.com/ALSAREM/ENsEN">View on GitHub</a>
-    <div class="shell">
-
+    <div class="wrapper">
       <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>Ensen</h1>
-            <h2>ENsEn: The ENhanced Search ENgine</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
+        <h1>Ensen</h1>
+        <p>ENsEn: The ENhanced Search ENgine</p>
+        <p class="view"><a href="https://github.com/ALSAREM/ENsEN">View the Project on GitHub <small>ALSAREM/ENsEN</small></a></p>
+        <ul>
+          <li><a href="https://github.com/ALSAREM/ENsEN/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/ALSAREM/ENsEN/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/ALSAREM/ENsEN">View On <strong>GitHub</strong></a></li>
+        </ul>
       </header>
+      <section>
+        <h1>
+<a name="ensen-the-enhanced-search-engine" class="anchor" href="#ensen-the-enhanced-search-engine"><span class="octicon octicon-link"></span></a>ENsEn: The ENhanced Search ENgine</h1>
 
-      <section id="downloads">
-        <span class="inner">
-          <a href="https://github.com/ALSAREM/ENsEN/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/ALSAREM/ENsEN/tarball/master" class="tgz"><em>download</em> .TGZ</a>
-        </span>
+<p>We introduce the notion of Enhanced Snippets as a result of combining two Webs, Web of documents and Web of data (Linked Data). Instead of the classical Snippet (small paragraph under the result's title), we propose a multizone, multimedia, interactive Snipppet.
+We modelize the query and its results as RDF graphs, by a process of RDFizing (based on text annotation), then we select the relevant triples in each document's graph, using the two document's representation, i.e. the text (text mining) and the RDF graph (graph connectivity).</p>
+
+<p>**For more information: **
+<a href="http://liris.cnrs.fr/drim/projects/ensen">http://liris.cnrs.fr/drim/projects/ensen</a></p>
+
+<hr><blockquote>
+<p>Mazen ALSAREM</p>
+</blockquote>
       </section>
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
-        <h3>
-<a name="welcome-to-ensen-pages" class="anchor" href="#welcome-to-ensen-pages"><span class="octicon octicon-link"></span></a>Welcome to ENsEN Pages.</h3>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-      </section>
-
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <p>this project by <a href="https://github.com/ALSAREM">ALSAREM</a> can be found on <a href="https://github.com/ALSAREM/ENsEN">GitHub</a></p>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="http://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
-      </footer>
-
     </div>
-
+    <footer>
+      <p>Project maintained by <a href="https://github.com/ALSAREM">ALSAREM</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
